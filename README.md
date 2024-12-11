@@ -4,6 +4,10 @@
 
 I'm a **Web Developer** with expertise in **Python**, **MySQL**, and other technologies. I love creating dynamic and user-friendly web applications and solving complex coding challenges.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reezmahanan&label=Profile%20views&color=0e75b6&style=flat" alt="reezmahanan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reezmahanan" alt="reezmahanan" /></a> </p>
+
 ## 🚀 About Me
 - 🎓 IT student at the Institute of Technology, University of Moratuwa.
 - 🌱 Currently learning advanced web development and modern frameworks.
