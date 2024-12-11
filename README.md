@@ -1,24 +1,58 @@
-<h1 align="center">Hi 👋, I'm Reezma Hanan</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+![Header Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reezmahanan&label=Profile%20views&color=0e75b6&style=flat" alt="reezmahanan" /> </p>
+# Hi there, I'm [Your Name] 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reezmahanan" alt="reezmahanan" /></a> </p>
+I'm a **Web Developer** with expertise in **Python**, **MySQL**, and other technologies. I love creating dynamic and user-friendly web applications and solving complex coding challenges.
 
-- 🔭 I’m currently working on [firsthtml](https://github.com/reezmahanan/firsthtml)
+## 🚀 About Me
+- 🎓 IT student at the Institute of Technology, University of Moratuwa.
+- 🌱 Currently learning advanced web development and modern frameworks.
+- 🛠️ Passionate about building full-stack applications and contributing to open-source projects.
+- 🎯 Goal: To secure a top-tier IT position in Sri Lanka by 2028.
 
-- 🌱 I’m currently learning **Html,Css,Mysql,etc..**
+---
 
-- 👯 I’m looking to collaborate on [My first html portfolio](https://github.com/reezmahanan/MY-FIRST-HTML-PROJECT)
+## 🛠️ Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/reezma-hanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reezma-hanan" height="30" width="40" /></a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.sh
+ields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=reezmahanan&show_icons=true&locale=en&layout=compact" alt="reezmahanan" /></p>
+## 📂 Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&locale=en" alt="reezmahanan" /></p>
+### 🔥 [Project 1: Dynamic Web App](https://github.com/yourusername/project1)
+- Built with Python and MySQL.
+- Features a responsive UI and robust backend.
+
+### 🌟 [Project 2: E-Commerce Website](https://github.com/yourusername/project2)
+- Technologies: HTML, CSS, JavaScript.
+- Implements secure payment gateways and user-friendly navigation.
+
+### 🚀 [Project 3: API Integration](https://github.com/yourusername/project3)
+- Integrated third-party APIs to fetch and display dynamic content.
+
+---
+
+## 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourportfolio.com)
+
+---
+
+![Footer Image](https://via.placeholder.com/1200x100.png?text=Happy+Coding!)
