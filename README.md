@@ -4,10 +4,6 @@
 
 I'm a **Web Developer** with expertise in **Python**, **MySQL**, and other technologies. I love creating dynamic and user-friendly web applications and solving complex coding challenges.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=reezmahanan&label=Profile%20views&color=0e75b6&style=flat" alt="reezmahanan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reezmahanan" alt="reezmahanan" /></a> </p>
-
 ## 🚀 About Me
 - 🎓 IT student at the Institute of Technology, University of Moratuwa.
 - 🌱 Currently learning advanced web development and modern frameworks.
@@ -15,6 +11,15 @@ I'm a **Web Developer** with expertise in **Python**, **MySQL**, and other techn
 - 🎯 Goal: To secure a top-tier IT position in Sri Lanka by 2028.
 
 ---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/reezma-hanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reezma-hanan" height="30" width="40" /></a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reezmahanan&label=Profile%20views&color=0e75b6&style=flat" alt="reezmahanan" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reezmahanan" alt="reezmahanan" /></a> </p>
 
 ## 🛠️ Skills
 
