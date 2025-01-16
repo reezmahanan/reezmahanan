@@ -40,8 +40,9 @@ I'm a **Web Developer** with expertise in **Python**, **MySQL**, and other techn
 - Technologies: HTML, CSS.
 
 ### 🌟 [Project 3:Resume](https://github.com/reezmahanan/resume.git)
-- Technologies: HTML, CSS
+- Technologies:- Technologies: HTML, CSS.
 - responsive design
+
 ---
 
 ## 📊 GitHub Stats
