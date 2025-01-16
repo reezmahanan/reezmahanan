@@ -37,9 +37,11 @@ I'm a **Web Developer** with expertise in **Python**, **MySQL**, and other techn
 - Features a responsive design.
 
 ### 🌟 [Project 2: My first html portfolio](https://github.com/reezmahanan/MY-FIRST-HTML-PROJECT.git)
-- Technologies: HTML, CSS. 
-### 🌟 [Project 3:Resume]()
+- Technologies: HTML, CSS.
 
+### 🌟 [Project 3:Resume](https://github.com/reezmahanan/resume.git)
+- Technologies: HTML, CSS
+- responsive design
 ---
 
 ## 📊 GitHub Stats
