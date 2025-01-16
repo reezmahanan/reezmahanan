@@ -47,7 +47,7 @@ I'm a **Web Developer** with expertise in **Python**, **MySQL**, and other techn
 ## 📊 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&theme=radical)
 
 ---
 
