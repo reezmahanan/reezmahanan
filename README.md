@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm [Reezma Hanan] 👋
+# Hi there, I'm Reezma Hanan 👋
 
 I'm a **Web Developer** with expertise in **Python**, **MySQL**, and other technologies. I love creating dynamic and user-friendly web applications and solving complex coding challenges.
 
