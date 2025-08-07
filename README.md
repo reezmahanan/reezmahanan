@@ -1,4 +1,4 @@
-![Header Image](https://via.placeholder.com/1200x300.png?text=Welcome+to+My+GitHub+Profile)
+
 
 # Hi there, I'm [Reezma Hanan] 👋
 
@@ -59,7 +59,7 @@ I'm a **Web Developer** with expertise in **Python**, **MySQL**, and other techn
 
 ---
 
-![Footer Image](https://via.placeholder.com/1200x100.png?text=Happy+Coding!)
+
 
 
 
