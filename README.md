@@ -1,5 +1,6 @@
 
-         [![Typing SVG](https://readme-typing-svg.demolab.com?      font=Source+Code+Pro&pause=800&color=000000&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Reezma+Hanan+%F0%9F%91%8B;Web+Developer+%7C+IT+Student+%7C+Tech+Explorer)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=800&color=000000&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Reezma+Hanan+%F0%9F%91%8B;Web+Developer+%7C+IT+Student+%7C+Tech+Explorer)](https://git.io/typing-svg)
 
 I'm a **Web Developer** with expertise in **Python**, **MySQL**, and other technologies. I love creating dynamic and user-friendly web applications and solving complex coding challenges.
 
