@@ -5,11 +5,13 @@
 I'm a **Web Developer** with expertise in **Python**, **MySQL**, and other technologies. I love creating dynamic and user-friendly web applications and solving complex coding challenges.
 
 ## 🚀 About Me
-- 🎓 IT student at the Institute of Technology, University of Moratuwa.
-- 🌱 Currently learning advanced web development and modern frameworks.
-- 🛠️ Passionate about building full-stack applications and contributing to open-source projects.
-- 🎯 Goal: To secure a top-tier IT position in Sri Lanka by 2028.
-- 📫 How to reach me **reezmahanan@gmail.com**
+🎓 IT student at the Institute of Technology, University of Moratuwa  
+💻 Currently learning Java, Python, MySQL, and web development  
+🧠 Passionate about building real-world software and full-stack apps  
+🚀 Exploring backend logic, databases, and clean code practices  
+🎯 Goal: Become a skilled Software Developer by 2028  
+✉️ Reach me at: [reezmahanan@gmail.com](mailto:reezmahanan@gmail.com)  
+🧩 Fun Fact: I love solving logic puzzles and UI redesigns for fun!
 ---
 
 
