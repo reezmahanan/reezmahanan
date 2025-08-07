@@ -5,16 +5,16 @@
 I'm a **Web Developer** with expertise in **Python**, **MySQL**, and other technologies. I love creating dynamic and user-friendly web applications and solving complex coding challenges.
 
 ## 🚀 About Me
+
 🎓 IT student at the Institute of Technology, University of Moratuwa  
-💻 Currently learning Java, Python, MySQL, and web development  
+💻 Currently learning **Java**, **Python**, **MySQL**, and **web development**  
 🧠 Passionate about building real-world software and full-stack apps  
 🚀 Exploring backend logic, databases, and clean code practices  
-🎯 Goal: Become a skilled Software Developer by 2028  
+🎯 **Goal:** Become a skilled **Software Developer** by 2028  
 ✉️ Reach me at: [reezmahanan@gmail.com](mailto:reezmahanan@gmail.com)  
-🧩 Fun Fact: I love solving logic puzzles and UI redesigns for fun!
+🧩 **Fun Fact:** I love solving logic puzzles and UI redesigns for fun!
+
 ---
-
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reezmahanan&label=Profile%20views&color=0e75b6&style=flat" alt="reezmahanan" /> </p>
 
