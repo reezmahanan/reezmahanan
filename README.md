@@ -46,7 +46,7 @@
 - Technologies: HTML, CSS.
 
 ### 🌟 [Project 3:Resume](https://github.com/reezmahanan/resume.git)
-- Technologies:- Technologies: HTML, CSS.
+- Technologies: HTML, CSS.
 - responsive design
 
 ---
