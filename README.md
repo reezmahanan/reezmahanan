@@ -52,8 +52,11 @@
  ### 🌟 [Project 4: Animated Weather System](https://github.com/reezmahanan/MY-FIRST-HTML-PROJECT.git)
 - Technologies:Python
 
-### 🌟 [Project 5: Solar System](https://github.com/reezmahanan/MY-FIRST-HTML-PROJECT.git)
+### 🌟 [Project 5: Solar System Simulater](https://github.com/reezmahanan/MY-FIRST-HTML-PROJECT.git)
 - Technologies:Python
+
+ ### 🌟 [Project6:Calculater](https://github.com/reezmahanan/MY-FIRST-HTML-PROJECT.git)
+- Technologies:Python 
 ---
 
 ## 📊 GitHub Stats
