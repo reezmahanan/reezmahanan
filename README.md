@@ -55,7 +55,7 @@
 ### 🌟 [Project 5: Solar System Simulater](https://github.com/reezmahanan/solar-system-simulator)
 - Technologies:Python
 
- ### 🌟 [Project6:Calculater](https://github.com/reezmahanan/calculator)
+ ### 🌟 [Project 6:Calculater](https://github.com/reezmahanan/calculator)
 - Technologies:HTML
 ---
 
