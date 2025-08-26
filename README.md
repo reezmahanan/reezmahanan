@@ -38,7 +38,7 @@
 
 ## 📂 Projects
 
-### 🔥 [Project 1:firsthtml](https://github.com/reezmahanan/firsthtml.git)
+###  🌟 [Project 1:firsthtml](https://github.com/reezmahanan/firsthtml.git)
 - Built with html,css
 - Features a responsive design.
 
@@ -49,6 +49,11 @@
 - Technologies: HTML, CSS.
 - responsive design
 
+ ### 🌟 [Project 4: Animated Weather System](https://github.com/reezmahanan/MY-FIRST-HTML-PROJECT.git)
+- Technologies:Python
+
+### 🌟 [Project 5: Solar System](https://github.com/reezmahanan/MY-FIRST-HTML-PROJECT.git)
+- Technologies:Python
 ---
 
 ## 📊 GitHub Stats
