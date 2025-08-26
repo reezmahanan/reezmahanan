@@ -49,14 +49,14 @@
 - Technologies: HTML, CSS.
 - responsive design
 
- ### 🌟 [Project 4: Animated Weather System](https://github.com/reezmahanan/MY-FIRST-HTML-PROJECT.git)
+ ### 🌟 [Project 4: Animated Weather System](https://github.com/reezmahanan/weather-system)
 - Technologies:Python
 
-### 🌟 [Project 5: Solar System Simulater](https://github.com/reezmahanan/MY-FIRST-HTML-PROJECT.git)
+### 🌟 [Project 5: Solar System Simulater](https://github.com/reezmahanan/weather-system)
 - Technologies:Python
 
  ### 🌟 [Project6:Calculater](https://github.com/reezmahanan/MY-FIRST-HTML-PROJECT.git)
-- Technologies:Python 
+- Technologies:HTML
 ---
 
 ## 📊 GitHub Stats
