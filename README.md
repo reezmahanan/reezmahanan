@@ -39,9 +39,10 @@
 
 | Certificate | Issuer | Link |
 |-------------|--------|------|
-| Python for Machine Learning |UOM CODL|(<img width="1112" height="772" alt="Screenshot 2024-11-27 115858" src="https://github.com/user-attachments/assets/71fe1884-5e9e-4b93-b46a-6ac8f42cf8ef" />
-|Solo Learn|<img![WhatsApp Image 2025-09-01 at 23 35 30_2d4790d3](https://github.com/user-attachments/assets/c8f7e5ae-9ac5-4d4a-94c7-47f8db17ea1e/>
+| Python for Machine Learning |UOM CODL|<img width="1112" height="772" alt="Screenshot 2024-11-27 115858" src="https://github.com/user-attachments/assets/71fe1884-5e9e-4b93-b46a-6ac8f42cf8ef" />
+|Solo Learn|<img ![WhatsApp Image 2025-09-01 at 23 35 30_2d4790d3](https://github.com/user-attachments/assets/9883e97e-c52f-496b-b238-9f95df4f1014)
  />
+
 | SQL for Data Science | IBM | [View](https://link-to-certificate.com) |
 | DevOps Fundamentals | WSO2 | [View](https://link-to-certificate.com) |
 
