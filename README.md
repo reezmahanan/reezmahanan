@@ -37,12 +37,11 @@
 
 ## 🏆 Certificates
 
-### Python for Machine Learning
-![Python Certificate](certificates/python_ml.png)
-
-### SQL for Data Science
-![SQL Certificate](certificates/sql_datascience.png)
-
+| Certificate | Issuer | Link |
+|-------------|--------|------|
+| Python for Machine Learning | Coursera | [View](https://link-to-certificate.com) |
+| SQL for Data Science | IBM | [View](https://link-to-certificate.com) |
+| DevOps Fundamentals | WSO2 | [View](https://link-to-certificate.com) |
 
 ## 📂 Projects
 
