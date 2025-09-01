@@ -40,17 +40,13 @@
 | Certificate | Issuer | Link |
 |-------------|--------|------|
 | Python for Beginners |UOM CODL|<img width="1055" height="743" alt="Screenshot 2024-11-27 115243" src="https://github.com/user-attachments/assets/b402b5d1-9a87-4fc5-a524-d908040fc256" />|
-| Web Design for Beginners |UOM CODL|<img width="1112" height="772" alt="Screenshot 2024-11-27 115858" src="https://github.com/user-attachments/assets/901bd465-48d9-4a2d-85c7-d8e6f25b5a51" />
-|
-| Python for Beginners |Solo Learn|![WhatsApp Image 2025-09-01 at 23 35 30_2d4790d3](https://github.com/user-attachments/assets/ff60ec2b-4d5f-4b7b-bd10-70acb348594e)
+| Web Design for Beginners |UOM CODL|<img width="1112" height="772" alt="Screenshot 2024-11-27 115858" src="https://github.com/user-attachments/assets/901bd465-48d9-4a2d-85c7-d8e6f25b5a51" />|
+| Python for Beginners |Solo Learn|![WhatsApp Image 2025-09-01 at 23 35 30_2d4790d3](https://github.com/user-attachments/assets/ff60ec2b-4d5f-4b7b-bd10-70acb348594e)|
 | SQL  |Solo Learn| ![WhatsApp Image 2025-09-01 at 23 35 31_94a7a848](https://github.com/user-attachments/assets/75104083-2c70-48ca-aabb-efccfae77c21)|
-
-| HTML |Solo Learn| ![WhatsApp Image 2025-09-01 at 23 35 31_f48d75c6](https://github.com/user-attachments/assets/4313cec7-e719-4858-be24-ad1b462bd5f0)
- |
-| Java|Solo Learn  | ![WhatsApp Image 2025-09-01 at 23 35 31_4598e5dd](https://github.com/user-attachments/assets/6dc5e013-7d80-4ce1-8a8d-e28ee4482824)
- |
-| Cyber Security | Cisco Networking Acadamy |![WhatsApp Image 2025-09-02 at 00 06 26_b0a76035](https://github.com/user-attachments/assets/39c1eb9f-1f52-4119-ab39-f3a25c404c89)
- |
+| HTML |Solo Learn| ![WhatsApp Image 2025-09-01 at 23 35 31_f48d75c6](https://github.com/user-attachments/assets/4313cec7-e719-4858-be24-ad1b462bd5f0)|
+| Java|Solo Learn  | ![WhatsApp Image 2025-09-01 at 23 35 31_4598e5dd](https://github.com/user-attachments/assets/6dc5e013-7d80-4ce1-8a8d-e28ee4482824)|
+| Cyber Security | Cisco Networking Acadamy |![WhatsApp Image 2025-09-02 at 00 06 26_b0a76035](https://github.com/user-attachments/assets/39c1eb9f-1f52-4119-ab39-f3a25c404c89)|
+ 
 
 ## 📂 Projects
 
