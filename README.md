@@ -46,7 +46,7 @@
 | HTML |Solo Learn| ![WhatsApp Image 2025-09-01 at 23 35 31_f48d75c6](https://github.com/user-attachments/assets/4313cec7-e719-4858-be24-ad1b462bd5f0)|
 | Java|Solo Learn  | ![WhatsApp Image 2025-09-01 at 23 35 31_4598e5dd](https://github.com/user-attachments/assets/6dc5e013-7d80-4ce1-8a8d-e28ee4482824)|
 | Cyber Security | Cisco Networking Acadamy |![WhatsApp Image 2025-09-02 at 00 06 26_b0a76035](https://github.com/user-attachments/assets/39c1eb9f-1f52-4119-ab39-f3a25c404c89)|
- 
+ | Agile Scrum Foundation | Simpililearn|
 
 ## 📂 Projects
 
