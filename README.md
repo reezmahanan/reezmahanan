@@ -47,9 +47,14 @@
 | Java|Solo Learn  | ![WhatsApp Image 2025-09-01 at 23 35 31_4598e5dd](https://github.com/user-attachments/assets/6dc5e013-7d80-4ce1-8a8d-e28ee4482824)|
 | Cyber Security | Cisco Networking Acadamy |![WhatsApp Image 2025-09-02 at 00 06 26_b0a76035](https://github.com/user-attachments/assets/39c1eb9f-1f52-4119-ab39-f3a25c404c89)|
  | Agile Scrum Foundation | Simpililearn|<img width="822" height="534" alt="Screenshot 2025-09-02 121333" src="https://github.com/user-attachments/assets/40df952e-ee56-491b-a8ec-32c704a659dd" />|
-
+ | UI/UX for Beginners | Great Learning|<img width="1038" height="720" alt="Screenshot 2025-09-03 194322" src="https://github.com/user-attachments/assets/8611355c-f9ee-4791-adab-bc72be7e9d56" />|
+ | HTML |Great Learning |<img width="1039" height="724" alt="Screenshot 2025-09-03 194253" src="https://github.com/user-attachments/assets/2fb025ee-46b8-4949-b3ba-4a9ceb4bc3e1" />|
+ | MySQL Tutorial |Great Learning |<img width="1044" height="726" alt="Screenshot 2025-09-03 194227" src="https://github.com/user-attachments/assets/3c62470d-4844-4bb2-beb6-569e878bca57" />|
+  | Programming Basics |Great Learning |<img width="1041" height="715" alt="Screenshot 2025-09-03 194201" src="https://github.com/user-attachments/assets/7c524fff-72d7-4199-8ffe-a7d3edd2a525" />|
+  | Python Fundamentals for Beginners |Great Learning |<img width="1039" height="718" alt="Screenshot 2025-09-03 194125" src="https://github.com/user-attachments/assets/a602a5be-b2c9-476c-8b55-26afd6feddb8" />|
+  |Python Project for Beginners|Great Learning |<img width="1039" height="721" alt="Screenshot 2025-09-03 194056" src="https://github.com/user-attachments/assets/315d12cd-f931-4b4d-83b7-20e2aec23a2a" />
+|
  
-
 ## 📂 Projects
 
 ###  🌟 [Project 1:firsthtml](https://github.com/reezmahanan/firsthtml.git)
