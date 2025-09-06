@@ -119,7 +119,8 @@
   | Programming Basics |Great Learning Acadamy |<img width="1041" height="715" alt="Screenshot 2025-09-03 194201" src="https://github.com/user-attachments/assets/7c524fff-72d7-4199-8ffe-a7d3edd2a525" />|
   | Python Fundamentals for Beginners |Great Learning Acadamy |<img width="1039" height="718" alt="Screenshot 2025-09-03 194125" src="https://github.com/user-attachments/assets/a602a5be-b2c9-476c-8b55-26afd6feddb8" />|
   |Python Project for Beginners|Great Learning Acadamy |<img width="1039" height="721" alt="Screenshot 2025-09-03 194056" src="https://github.com/user-attachments/assets/315d12cd-f931-4b4d-83b7-20e2aec23a2a" />|
-https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+
+
 
  
 ## 📂 Projects
