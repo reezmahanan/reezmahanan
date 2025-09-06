@@ -64,6 +64,8 @@
 ### 🎨 Design Tools
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
+
+
 ---
 
 <h3 align="left">🛠️ Languages, Tools & Learning Platforms:</h3>
@@ -135,7 +137,10 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> 
   </a>
-  
+ 
+ <!-- Operating Systems -->
+  <a href="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="40"/> 
+  </a>
 </p>
 
 
