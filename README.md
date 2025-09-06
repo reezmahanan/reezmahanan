@@ -138,9 +138,7 @@
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> 
   </a>
  
- !-- Operating Systems -->
-  <a href="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" alt="windows" width="40" height="40"/> 
-  </a>
+ 
 </p>
 
 
