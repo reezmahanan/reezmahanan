@@ -135,12 +135,7 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> 
   </a>
-  <a href="https://www.capcut.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://static.vecteezy.com/system/resources/previews/022/636/376/non_2x/capcut-icon-logo-symbol-free-png.png" alt="capcut" width="40" height="40"/> 
-  </a>
-  <a href="https://inshot.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://static.vecteezy.com/system/resources/previews/021/059/825/non_2x/inshot-video-editor-with-cutting-software-logo-editor-app-icon-design-free-vector.jpg" alt="inshot" width="40" height="40"/> 
-  </a>
+  
 </p>
 
 
