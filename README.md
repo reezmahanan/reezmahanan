@@ -56,7 +56,7 @@
 ### 📚 Learning Platforms
 ![Cisco Networking Academy](https://img.shields.io/badge/Cisco_Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 ![Microsoft Training](https://img.shields.io/badge/Microsoft_Training-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)
-![CODL LMS UOM](https://img.shields.io/badge/Code_LMS_UOM-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white)
+![CODL LMS UOM](https://img.shields.io/badge/Codl_LMS_UOM-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white)
 ![W3Schools](https://img.shields.io/badge/W3Schools-04AAAB?style=for-the-badge&logo=w3schools&logoColor=white)
 ![SoloLearn](https://img.shields.io/badge/SoloLearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)
 ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
