@@ -187,7 +187,7 @@
  ### 🌟 [Project 6:Calculater](https://github.com/reezmahanan/calculator)
 - Technologies:HTML
 
-### 🌟 [Project 7:Simple application form](https://github.com/reezmahanan/calculator)
+### 🌟 [Project 7:Simple application form](https://github.com/reezmahanan/simple-Application-Form)
 - Technologies:HTML  
 
 ### 🌟 [Project 8:Mobile Login](https://github.com/reezmahanan/calculator)
