@@ -193,7 +193,7 @@
 ### 🌟 [Project 8:Logo](https://github.com/reezmahanan/calculator)
 - Technologies:HTML
 
- ### 🌟 [Project 9:Reezma Tech Solution](https://github.com/reezmahanan/calculator)
+ ### 🌟 [Project 9:Reezma Tech Services](https://github.com/reezmahanan/Reezma-tech-services)
 - Technologies:CSS,HTML   
 ---
 
