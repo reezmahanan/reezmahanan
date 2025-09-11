@@ -186,6 +186,15 @@
 
  ### 🌟 [Project 6:Calculater](https://github.com/reezmahanan/calculator)
 - Technologies:HTML
+
+### 🌟 [Project 7:Mobile Login](https://github.com/reezmahanan/calculator)
+- Technologies:HTML
+
+### 🌟 [Project 8:Logo](https://github.com/reezmahanan/calculator)
+- Technologies:HTML
+
+ ### 🌟 [Project 9:Reezma Tech Solution](https://github.com/reezmahanan/calculator)
+- Technologies:CSS,HTML   
 ---
 
 ## 📊 GitHub Stats
