@@ -190,7 +190,7 @@
 ### 🌟 [Project 7:Simple application form](https://github.com/reezmahanan/simple-Application-Form)
 - Technologies:HTML  
 
-### 🌟 [Project 8:Mobile Login](https://github.com/reezmahanan/calculator)
+### 🌟 [Project 8:Mobile Login](https://github.com/reezmahanan/mobile-login)
 - Technologies:HTML
 
 ### 🌟 [Project 9:Logo](https://github.com/reezmahanan/Reezma-logo)
