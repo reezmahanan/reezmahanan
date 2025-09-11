@@ -187,13 +187,16 @@
  ### 🌟 [Project 6:Calculater](https://github.com/reezmahanan/calculator)
 - Technologies:HTML
 
-### 🌟 [Project 7:Mobile Login](https://github.com/reezmahanan/calculator)
+### 🌟 [Project 7:Simple application form](https://github.com/reezmahanan/calculator)
+- Technologies:HTML  
+
+### 🌟 [Project 8:Mobile Login](https://github.com/reezmahanan/calculator)
 - Technologies:HTML
 
-### 🌟 [Project 8:Logo](https://github.com/reezmahanan/calculator)
+### 🌟 [Project 9:Logo](https://github.com/reezmahanan/Reezma-logo)
 - Technologies:HTML
 
- ### 🌟 [Project 9:Reezma Tech Services](https://github.com/reezmahanan/Reezma-tech-services)
+ ### 🌟 [Project 10:Reezma Tech Services](https://github.com/reezmahanan/Reezma-tech-services)
 - Technologies:CSS,HTML   
 ---
 
