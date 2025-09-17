@@ -197,9 +197,11 @@
 - Technologies:HTML
 
  ### 🌟 [Project 10:Reezma Tech Services](https://github.com/reezmahanan/Reezma-tech-services)
-
+- Technologies:CSS,HTML
+  
 ### 🌟 [Project 11:To Do list](https://github.com/reezmahanan/To-Do-list)
 - Technologies:CSS,HTML,JS
+- 
 
 ### 🌟 [Project 12:Calender](https://github.com/reezmahanan/To-Do-list) 
 - Technologies:CSS,HTML   
