@@ -167,7 +167,7 @@
  
 ## 📂 Projects
 
-###  🌟 [Project 1:firsthtml](https://github.com/reezmahanan/firsthtml.git)
+###  🌟 [Project 1:First html Invitation](https://github.com/reezmahanan/firsthtml.git)
 - Built with html,css
 - Features a responsive design.
 
@@ -204,7 +204,10 @@
 
 
 ### 🌟 [Project 12:Calender](https://github.com/reezmahanan/To-Do-list) 
-- Technologies:CSS,HTML   
+- Technologies:CSS,HTML
+
+### 🌟 [Project 13:Label](https://github.com/reezmahanan/To-Do-list) 
+- Technologies:CSS,HTML  
 ---
 
 ## 📊 GitHub Stats
