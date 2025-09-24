@@ -203,7 +203,7 @@
 - Technologies:CSS,HTML,JS
 
 
-### 🌟 [Project 12:Calender](https://github.com/reezmahanan/To-Do-list) 
+### 🌟 [Project 12:Calender](https://github.com/reezmahanan/calander) 
 - Technologies:CSS,HTML
 
 ### 🌟 [Project 13:Label](https://github.com/reezmahanan/label) 
