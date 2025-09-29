@@ -6,7 +6,7 @@
 
 🎓 IT student at the Institute of Technology, University of Moratuwa  
 💻 Currently learning **Java**, **Python**, **MySQL**, and **web development**  
-☁️ Exploring **Cloud Computing** fundamentals and AWS services  
+☁️ Exploring **Cloud Computing** fundamentals  
 🧠 Passionate about building real-world software and full-stack apps  
 🚀 Exploring backend logic, databases, and clean code practices  
 🎯 **Goal:** Become a skilled **Software Developer** by 2028  
@@ -97,22 +97,7 @@
 
 ---
 
-## ☁️ Cloud Computing Journey
 
-### 🌟 Currently Learning:
-- **AWS Fundamentals** (EC2, S3, Lambda)
-- **Microsoft Azure Basics**
-- **Google Cloud Platform Essentials**
-- **Cloud Deployment Strategies**
-- **Virtualization Concepts**
-
-### 🎯 Cloud Goals for 2025:
-- Complete AWS Cloud Practitioner certification
-- Deploy first web application to the cloud
-- Learn containerization with Docker
-- Understand cloud security basics
-
----
 
 ## 🏆 Certificates
 
@@ -178,15 +163,6 @@
 ### 🌟 [Label](https://github.com/reezmahanan/label) 
 - Technologies: CSS, HTML
 
-### 🎨 UI/UX Designs in Figma
-- **Wireframing & Prototyping** in Figma
-- **Design Systems** and component libraries
-- **Interactive prototypes** for web applications
-
-### ☁️ Upcoming: Cloud Deployment Project
-- **Planning to deploy** web applications to cloud platforms
-- **Learning AWS S3** for static website hosting
-- **Exploring Azure App Services** for web app deployment
 
 ---
 
