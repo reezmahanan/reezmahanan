@@ -1,16 +1,17 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro:700&size=26&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Reezma+Hanan+%F0%9F%91%8B;Web+Developer+%7C+IT+Student+%7C+Tech+Explorer)](https://git.io/typing-svg)
 
-**"Passionate web developer & software engineer who builds solutions that work."**
+*"Passionate web developer & software engineer who builds solutions that work."*
 
 ## 🚀 About Me
 
 🎓 IT student at the Institute of Technology, University of Moratuwa  
-💻 Currently learning **Java**, **Python**, **MySQL**, and **web development**  
+💻 Currently learning *Java, **Python, **MySQL, and **web development*  
+☁ Exploring *Cloud Computing* fundamentals 
 🧠 Passionate about building real-world software and full-stack apps  
 🚀 Exploring backend logic, databases, and clean code practices  
-🎯 **Goal:** Become a skilled **Software Developer** by 2028  
-✉️ Reach me at: [reezmahanan@gmail.com](mailto:reezmahanan@gmail.com)  
-🧩 **Fun Fact:** I love solving logic puzzles and UI redesigns for fun!
+🎯 *Goal:* Become a skilled *Software Developer* by 2028  
+✉ Reach me at: [reezmahanan@gmail.com](mailto:reezmahanan@gmail.com)  
+🧩 *Fun Fact:* I love solving logic puzzles and UI redesigns for fun!
 
 ---
 
@@ -18,7 +19,28 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reezmahanan" alt="reezmahanan" /></a> </p>
 
-----
+---
+
+## 📊 GitHub Stats & Contributions
+
+<div align="center">
+
+### 🗓 Contribution Graph
+![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=reezmahanan&theme=react-dark&hide_border=true&area=true)
+
+### 📈 GitHub Stats
+![Reezma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&theme=radical&hide_border=true)
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=reezmahanan&theme=radical&hide_border=true)
+
+### 📊 Detailed Contribution
+![Contribution Details](https://github-readme-activity-graph.vercel.app/graph?username=reezmahanan&theme=react-dark&hide_border=true&area=true&custom_title=Reezma%27s%20Contribution%20Graph)
+
+</div>
+
+---
 
 ## 🧑‍💻 Technical Skills
 
@@ -28,11 +50,17 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 
+### ☁ Cloud Computing (Beginner)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Cloud Fundamentals](https://img.shields.io/badge/Cloud_Fundamentals-4A154B?style=for-the-badge&logo=cloud&logoColor=white)
+
 ### 🌐 Web Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🗄️ Databases
+### 🗄 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🎨 Design & Prototyping
@@ -62,11 +90,23 @@
 ![W3Schools](https://img.shields.io/badge/W3Schools-04AAAB?style=for-the-badge&logo=w3schools&logoColor=white)
 ![SoloLearn](https://img.shields.io/badge/SoloLearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)
 ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+![AWS Educate](https://img.shields.io/badge/AWS_Educate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-<h3 align="left">🛠️ Languages, Tools & Learning Platforms:</h3>
+<h3 align="left">🛠 Languages, Tools & Learning Platforms:</h3>
 <p align="left">
+  <!-- Cloud Computing -->
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/> 
+  </a>
+  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+  </a>
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
+  </a>
+  
   <!-- Development Tools -->
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" alt="intellij" width="40" height="40"/> 
@@ -139,6 +179,21 @@
   </a>
 </p>
 
+## ☁ Cloud Computing Journey
+
+### 🌟 Currently Learning:
+- *AWS Fundamentals* (EC2, S3, Lambda)
+- *Microsoft Azure Basics*
+- *Google Cloud Platform Essentials*
+- *Cloud Deployment Strategies*
+- *Virtualization Concepts*
+
+### 🎯 Cloud Goals for 2025:
+- Complete AWS Cloud Practitioner certification
+- Deploy first web application to cloud
+- Learn containerization with Docker
+- Understand cloud security basics
+
 ## 🏆 Certificates
 
 | Certificate | Issuer | Link |
@@ -201,25 +256,30 @@
 ### 🌟 [Project 13:Label](https://github.com/reezmahanan/label) 
 - Technologies:CSS,HTML
 
+### 🎨 [Project 14: UI/UX Designs in Figma]
+- *Wireframing & Prototyping* in Figma
+- *Design Systems* and component libraries
+- *Interactive prototypes* for web applications
 
-
----
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&theme=radical)
+### ☁ [Upcoming: Cloud Deployment Project]
+- *Planning to deploy* web applications to cloud platforms
+- *Learning AWS S3* for static website hosting
+- *Exploring Azure App Services* for web app deployment
 
 ---
 
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reezma-hanan)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@reezmahanan)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reezmahanan@gmail.com)
 
 ---
 
 <div align="center">
   
+*"Learning cloud computing to build scalable solutions for the future!"* ☁
+
 © 2025 Reezma Hanan. All Rights Reserved.
 
 </div>
