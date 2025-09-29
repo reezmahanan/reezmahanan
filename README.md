@@ -201,10 +201,7 @@
 ### 🌟 [Project 13:Label](https://github.com/reezmahanan/label) 
 - Technologies:CSS,HTML
 
-### 🎨 [Project 14: UI/UX Designs in Figma]
-- **Wireframing & Prototyping** in Figma
-- **Design Systems** and component libraries
-- **Interactive prototypes** for web applications
+
 
 ---
 
@@ -218,7 +215,6 @@
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reezma-hanan)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@reezmahanan)
 
 ---
 
