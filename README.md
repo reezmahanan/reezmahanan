@@ -1,5 +1,3 @@
-
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro:700&size=26&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Reezma+Hanan+%F0%9F%91%8B;Web+Developer+%7C+IT+Student+%7C+Tech+Explorer)](https://git.io/typing-svg)
 
 **"Passionate web developer & software engineer who builds solutions that work."**
@@ -37,6 +35,10 @@
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🎨 Design & Prototyping
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
 ### 💼 Office Productivity
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white)
@@ -48,7 +50,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🎬 Video Editing
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
@@ -61,11 +62,6 @@
 ![W3Schools](https://img.shields.io/badge/W3Schools-04AAAB?style=for-the-badge&logo=w3schools&logoColor=white)
 ![SoloLearn](https://img.shields.io/badge/SoloLearn-149EF2?style=for-the-badge&logo=sololearn&logoColor=white)
 ![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-
-### 🎨 Design Tools
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-
 
 ---
 
@@ -83,6 +79,14 @@
   </a>
   <a href="https://github.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> 
+  </a>
+  
+  <!-- Design Tools -->
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a>
+  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> 
   </a>
   
   <!-- Programming Languages -->
@@ -133,16 +137,7 @@
   <a href="https://www.w3schools.com/" target="_blank" rel="noreferrer"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/W3Schools_logo.png" alt="w3schools" width="40" height="40" style="background-color:white; padding:5px; border-radius:5px;"/> 
   </a>
-  
-  <!-- Design & Video Tools -->
-  <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/> 
-  </a>
- 
- 
 </p>
-
-
 
 ## 🏆 Certificates
 
@@ -163,9 +158,6 @@
   | Python Fundamentals for Beginners |Great Learning Acadamy |<img width="1039" height="718" alt="Screenshot 2025-09-03 194125" src="https://github.com/user-attachments/assets/a602a5be-b2c9-476c-8b55-26afd6feddb8" />|
   |Python Project for Beginners|Great Learning Acadamy |<img width="1039" height="721" alt="Screenshot 2025-09-03 194056" src="https://github.com/user-attachments/assets/315d12cd-f931-4b4d-83b7-20e2aec23a2a" />|
 
-
-
- 
 ## 📂 Projects
 
 ###  🌟 [Project 1:First html Invitation](https://github.com/reezmahanan/firsthtml.git)
@@ -203,12 +195,17 @@
 ### 🌟 [Project 11:To Do list](https://github.com/reezmahanan/To-Do-list)
 - Technologies:CSS,HTML,JS
 
-
 ### 🌟 [Project 12:Calender](https://github.com/reezmahanan/calander) 
 - Technologies:CSS,HTML
 
 ### 🌟 [Project 13:Label](https://github.com/reezmahanan/label) 
-- Technologies:CSS,HTML  
+- Technologies:CSS,HTML
+
+### 🎨 [Project 14: UI/UX Designs in Figma]
+- **Wireframing & Prototyping** in Figma
+- **Design Systems** and component libraries
+- **Interactive prototypes** for web applications
+
 ---
 
 ## 📊 GitHub Stats
@@ -221,10 +218,7 @@
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reezma-hanan)
-
-
----
-
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://figma.com/@reezmahanan)
 
 ---
 
@@ -233,6 +227,3 @@
 © 2025 Reezma Hanan. All Rights Reserved.
 
 </div>
-
-
-
