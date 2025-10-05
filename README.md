@@ -151,7 +151,8 @@
 | Programming Basics | Great Learning Academy | <img width="200" alt="Programming Basics" src="https://github.com/user-attachments/assets/7c524fff-72d7-4199-8ffe-a7d3edd2a525" /> |
 | Python Fundamentals for Beginners | Great Learning Academy | <img width="200" alt="Python Fundamentals for Beginners" src="https://github.com/user-attachments/assets/a602a5be-b2c9-476c-8b55-26afd6feddb8" /> |
 | Python Project for Beginners | Great Learning Academy | <img width="200" alt="Python Project for Beginners" src="https://github.com/user-attachments/assets/315d12cd-f931-4b4d-83b7-20e2aec23a2a" /> |
-
+| OOPs in Java | Simplilearn |  ![WhatsApp Image 2025-10-05 at 19 26 18_d1992ecd](https://github.com/user-attachments/assets/8415eddb-eed0-4d18-abb0-17b67314c71e)|
+| Introduction to Cyber Security | Simplilearn | <img width="1051" height="734" alt="Screenshot 2025-10-02 220648" src="https://github.com/user-attachments/assets/708a3d71-8ed8-43fa-8d48-c4c2ef780977" />|
 ---
 
 ## 📂 Projects
