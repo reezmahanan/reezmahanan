@@ -260,8 +260,81 @@
 
 ## 📂 Projects
 
-<!-- Projects table remains unchanged, see above for format -->
+<div align="center">
 
+<table>
+  <tr>
+    <th>🌟 Project</th>
+    <th>Technologies</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td>First HTML Invitation</td>
+    <td>HTML, CSS</td>
+    <td><a href="https://github.com/reezmahanan/firsthtml">Repo</a></td>
+  </tr>
+  <tr>
+    <td>My First HTML Portfolio</td>
+    <td>HTML, CSS</td>
+    <td><a href="https://github.com/reezmahanan/MY-FIRST-HTML-PROJECT">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Resume</td>
+    <td>HTML, CSS</td>
+    <td><a href="https://github.com/reezmahanan/resume">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Animated Weather System</td>
+    <td>Python</td>
+    <td><a href="https://github.com/reezmahanan/weather-system">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Solar System Simulator</td>
+    <td>Python</td>
+    <td><a href="https://github.com/reezmahanan/solar-system-simulator">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Calculator</td>
+    <td>HTML</td>
+    <td><a href="https://github.com/reezmahanan/calculator">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Simple Application Form</td>
+    <td>HTML</td>
+    <td><a href="https://github.com/reezmahanan/simple-Application-Form">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Mobile Login</td>
+    <td>HTML</td>
+    <td><a href="https://github.com/reezmahanan/mobile-login">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Logo</td>
+    <td>HTML</td>
+    <td><a href="https://github.com/reezmahanan/Reezma-logo">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Reezma Tech Services</td>
+    <td>HTML, CSS</td>
+    <td><a href="https://github.com/reezmahanan/Reezma-tech-services">Repo</a></td>
+  </tr>
+  <tr>
+    <td>To Do List</td>
+    <td>HTML, CSS, JS</td>
+    <td><a href="https://github.com/reezmahanan/To-Do-list">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Calendar</td>
+    <td>HTML, CSS</td>
+    <td><a href="https://github.com/reezmahanan/calander">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Label</td>
+    <td>HTML, CSS</td>
+    <td><a href="https://github.com/reezmahanan/label">Repo</a></td>
+  </tr>
+</table>
+</div>
 ---
 
 ## 📫 Let's Connect
