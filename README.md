@@ -167,7 +167,7 @@
 
 ## 🏆 Certificates
 
-<<table>
+<table>
   <tr>
     <th>Certificate</th>
     <th>Issuer</th>
@@ -335,7 +335,7 @@
   </tr>
 </table>
 </div>
----
+
 
 ## 📫 Let's Connect
 
