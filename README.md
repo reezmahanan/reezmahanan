@@ -325,9 +325,9 @@
     <td><a href="https://github.com/reezmahanan/To-Do-list">Repo</a></td>
   </tr>
   <tr>
-    <td>Calendar</td>
+    <td>Interactive Calendar</td>
     <td>HTML, CSS</td>
-    <td><a href="https://github.com/reezmahanan/calander">Repo</a></td>
+    <td><a href="https://github.com/reezmahanan/Interactive-Calendar">Repo</a></td>
   </tr>
   <tr>
     <td>Label</td>
