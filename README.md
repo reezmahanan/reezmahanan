@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Reezma Hanan
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code:700&size=30&pause=800&color=FF61A6&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Reezma+Hanan+%F0%9F%91%8B;Web+Developer+%7C+IT+Student+%7C+Tech+Explorer)](https://git.io/typing-svg)
 
