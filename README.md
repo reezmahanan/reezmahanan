@@ -337,7 +337,7 @@
   <tr>
     <td>Digital Clock</td>
     <td>HTML, CSS,JS</td>
-    <td><a href="  https://github.com/reezmahanan/Digital-clock">Repo</a></td>
+    <td><a href="https://github.com/reezmahanan/Digital-clock">Repo</a></td>
   </tr>
 </table>
 </div>
