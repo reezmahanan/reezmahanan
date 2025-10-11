@@ -367,7 +367,7 @@ Your feedback, compliments, and contributions are always welcome—let’s build
 ---
 
 <div align="center">
-  <b>"Learning cloud computing to build scalable solutions for the future!"</b> ☁️<br/><br/>
+  
   <sub>© 2025 Reezma Hanan. All Rights Reserved.</sub>
 </div>
 
