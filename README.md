@@ -1,11 +1,10 @@
 <div align="center">
 
-<!-- Animated Name Header -->
-![Reezma Hanan](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=FF61A6&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Reezma+Hanan;💻+Web+Developer;🎓+IT+Student;🚀+Tech+Explorer;💡+Problem+Solver)
+<!-- Main Animated Header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=FF61A6&center=true&vCenter=true&width=700&height=80&lines=Reezma+Hanan;Full-Stack+Developer;Cloud+Enthusiast;Creative+Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
 
-<p align="center">
-  <b>"Passionate web developer & software engineer who builds solutions that work."</b>
-</p>
+<!-- Subtitle with pulse animation -->
+<h3 style="color: #7B68EE; animation: pulse 2s infinite;">Building Digital Solutions That Matter</h3>
 
 </div>
 
