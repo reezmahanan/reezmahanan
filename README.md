@@ -358,7 +358,7 @@
   <tr>
     <td>Book Haven</td>
     <td>HTML, CSS, JS</td>
-    <td><a href="https://github.com/reezmahanan/book-haven">Repo</a></td>
+    <td><a href="https://github.com/reezmahanan/bookhaven-ecommerce">Repo</a></td>
   </tr>
 </table>
 </div>
