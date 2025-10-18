@@ -1,23 +1,13 @@
 <div align="center">
 
-<h1 style="
-    background: linear-gradient(45deg, #FF61A6, #7B68EE, #61dafb);
-    background-size: 200% 200%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    animation: gradient 3s ease infinite;
-    font-size: 3em;
-    font-weight: bold;
-    margin-bottom: 10px;
-">Reezma Hanan</h1>
+<!-- Animated Name Header -->
+![Reezma Hanan](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=FF61A6&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Reezma+Hanan;💻+Web+Developer;🎓+IT+Student;🚀+Tech+Explorer;💡+Problem+Solver)
 
-<h3 style="color: #666; margin-top: 0;">Web Developer | IT Student | Tech Explorer</h3>
+<p align="center">
+  <b>"Passionate web developer & software engineer who builds solutions that work."</b>
+</p>
 
 </div>
-
-
-
-
 
 ---
 
