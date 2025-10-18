@@ -1,3 +1,10 @@
+<!-- Add this at the top of your README instead of the typing SVG -->
+
+<div align="center">
+
+![Reezma Hanan Animated](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=35&duration=4000&pause=1000&color=FF61A6&center=true&vCenter=true&width=600&lines=Reezma+Hanan;Web+Developer;IT+Student;Tech+Explorer;Problem+Solver)
+
+</div>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+700&size=30&duration=4000&pause=800&color=FF61A6&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Reezma+Hanan+%F0%9F%91%8B;Web+Developer+%7C+IT+Student+%7C+Tech+Explorer;Full-Stack+Enthusiast+%7C+Problem+Solver)](https://git.io/typing-svg)
 
 <p align="center">
