@@ -1,35 +1,4 @@
-# Reezma Hanan
-
-<!-- Animated name SVG (simple, lightweight) -->
-<div align="center">
-  <svg width="700" height="120" viewBox="0 0 700 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated Reezma">
-    <defs>
-      <linearGradient id="grad" x1="0%" x2="100%">
-        <stop offset="0%" stop-color="#FF61A6">
-          <animate attributeName="stop-color" values="#FF61A6;#7C4DFF;#00C4CC;#FF61A6" dur="6s" repeatCount="indefinite" />
-        </stop>
-        <stop offset="100%" stop-color="#7C4DFF">
-          <animate attributeName="stop-color" values="#7C4DFF;#00C4CC;#FF61A6;#7C4DFF" dur="6s" repeatCount="indefinite" />
-        </stop>
-      </linearGradient>
-      <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
-        <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#000" flood-opacity="0.25"/>
-      </filter>
-    </defs>
-
-    <g filter="url(#shadow)">
-      <text x="50%" y="60" font-family="Fira Code, Arial, Helvetica, sans-serif" font-weight="700"
-            font-size="40" text-anchor="middle" fill="url(#grad)">Reezma Hanan</text>
-    </g>
-
-    <!-- subtle floating animation -->
-    <animateTransform attributeName="transform" attributeType="XML"
-                      type="translate" values="0 0; 0 -6; 0 0" dur="4s" repeatCount="indefinite"
-                      additive="sum" />
-  </svg>
-</div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code:700&size=30&pause=800&color=FF61A6&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Reezma+Hanan+%F0%9F%91%8B;Web+Developer+%7C+IT+Student+%7C+Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code+700&size=30&duration=4000&pause=800&color=FF61A6&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Reezma+Hanan+%F0%9F%91%8B;Web+Developer+%7C+IT+Student+%7C+Tech+Explorer;Full-Stack+Enthusiast+%7C+Problem+Solver)](https://git.io/typing-svg)
 
 <p align="center">
   <b>"Passionate web developer & software engineer who builds solutions that work."</b>
@@ -39,19 +8,21 @@
 
 ## 🚀 About Me
 
-- 🎓 IT Student at **Institute of Technology, University of Moratuwa**
-- 💻 Currently learning **Java**, **Python**, **PHP**, **MySQL**, and **Web Development**
-- ☁️ Exploring cloud fundamentals and services on **AWS**, **Azure**, and **Google Cloud**
+- 🎓 IT Student at <b>Institute of Technology, University of Moratuwa</b>
+- 💻 Currently learning <b>Java</b>, <b>Python</b>, <b>PHP</b>, <b>MySQL</b>, and <b>Web Development</b>
+- ☁️ Exploring <b>Cloud Computing</b> fundamentals & AWS, Azure, Google Cloud services
 - 🧠 Passionate about building real-world software & full-stack apps
 - 🚀 Delving into backend logic, databases, and clean code practices
-- 🎯 **Goal:** Become a skilled **Software Developer** by 2028
-- ✉️ Reach me: [reezmahanan@gmail.com](mailto:reezmahanan@gmail.com)
-- 🧩 **Fun Fact:** I love solving logic puzzles and redesigning UIs for fun!
+- 🎯 <b>Goal:</b> Become a skilled <b>Software Developer</b> by 2028
+- ✉️ Reach me: <a href="mailto:reezmahanan@gmail.com">reezmahanan@gmail.com</a>
+- 🧩 <b>Fun Fact:</b> I love solving logic puzzles and UI redesigns for fun!
 
 ---
 
 👉 **Check it out live!**  
-[Portfolio Demo](https://portfolio-website-ivory-psi-35.vercel.app/)
+[Portfolio Demo](https://portfolio-website-ivory-psi-35.vercel.app/) 
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=reezmahanan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -150,6 +121,7 @@
   <tr>
     <td><b>📚 Learning Platforms</b></td>
     <td>
+      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
       <img src="https://img.shields.io/badge/Cisco_Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
       <img src="https://img.shields.io/badge/Microsoft_Learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white"/>
       <img src="https://img.shields.io/badge/Codl_LMS_UOM-8A2BE2?style=for-the-badge"/>
@@ -203,8 +175,6 @@
 
 ## 🏆 Certificates
 
-> (Consider hosting certificate images in your repo under an images/ or assets/ folder and referencing those files to avoid broken links.)
-
 <table>
   <tr>
     <th>Certificate</th>
@@ -214,10 +184,87 @@
   <tr>
     <td>Python for Beginners</td>
     <td>UOM CODL</td>
-    <td>
-      <!-- Replace the src below with a real path inside your repo like /images/cert-python.png -->
-      <img width="200" alt="Python for Beginners" src="/images/python-for-beginners.png" />
-    </td>
+    <td><img width="200" alt="Python for Beginners" src="https://github.com/user-attachments/assets/b402b5d1-9a87-4fc5-a524-d908040fc256" /></td>
+  </tr>
+  <tr>
+    <td>Web Design for Beginners</td>
+    <td>UOM CODL</td>
+    <td><img width="200" alt="Web Design for Beginners" src="https://github.com/user-attachments/assets/901bd465-48d9-4a2d-85c7-d8e6f25b5a51" /></td>
+  </tr>
+  <tr>
+    <td>Python for Beginners</td>
+    <td>SoloLearn</td>
+    <td><img width="200" alt="Python for Beginners SoloLearn" src="https://github.com/user-attachments/assets/ff60ec2b-4d5f-4b7b-bd10-70acb348594e" /></td>
+  </tr>
+  <tr>
+    <td>SQL</td>
+    <td>SoloLearn</td>
+    <td><img width="200" alt="SQL SoloLearn" src="https://github.com/user-attachments/assets/75104083-2c70-48ca-aabb-efccfae77c21" /></td>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td>SoloLearn</td>
+    <td><img width="200" alt="HTML SoloLearn" src="https://github.com/user-attachments/assets/4313cec7-e719-4858-be24-ad1b462bd5f0" /></td>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>SoloLearn</td>
+    <td><img width="200" alt="Java SoloLearn" src="https://github.com/user-attachments/assets/6dc5e013-7d80-4ce1-8a8d-e28ee4482824" /></td>
+  </tr>
+  <tr>
+    <td>Cyber Security</td>
+    <td>Cisco Networking Academy</td>
+    <td><img width="200" alt="Cyber Security" src="https://github.com/user-attachments/assets/39c1eb9f-1f52-4119-ab39-f3a25c404c89" /></td>
+  </tr>
+  <tr>
+    <td>Agile Scrum Foundation</td>
+    <td>Simplilearn</td>
+    <td><img width="200" alt="Agile Scrum Foundation" src="https://github.com/user-attachments/assets/40df952e-ee56-491b-a8ec-32c704a659dd" /></td>
+  </tr>
+  <tr>
+    <td>UI/UX for Beginners</td>
+    <td>Great Learning Academy</td>
+    <td><img width="200" alt="UI/UX for Beginners" src="https://github.com/user-attachments/assets/8611355c-f9ee-4791-adab-bc72be7e9d56" /></td>
+  </tr>
+  <tr>
+    <td>HTML</td>
+    <td>Great Learning Academy</td>
+    <td><img width="200" alt="HTML Great Learning Academy" src="https://github.com/user-attachments/assets/2fb025ee-46b8-4949-b3ba-4a9ceb4bc3e1" /></td>
+  </tr>
+  <tr>
+    <td>MySQL Tutorial</td>
+    <td>Great Learning Academy</td>
+    <td><img width="200" alt="MySQL Tutorial" src="https://github.com/user-attachments/assets/3c62470d-4844-4bb2-beb6-569e878bca57" /></td>
+  </tr>
+  <tr>
+    <td>Programming Basics</td>
+    <td>Great Learning Academy</td>
+    <td><img width="200" alt="Programming Basics" src="https://github.com/user-attachments/assets/7c524fff-72d7-4199-8ffe-a7d3edd2a525" /></td>
+  </tr>
+  <tr>
+    <td>Python Fundamentals for Beginners</td>
+    <td>Great Learning Academy</td>
+    <td><img width="200" alt="Python Fundamentals for Beginners" src="https://github.com/user-attachments/assets/a602a5be-b2c9-476c-8b55-26afd6feddb8" /></td>
+  </tr>
+  <tr>
+    <td>Python Project for Beginners</td>
+    <td>Great Learning Academy</td>
+    <td><img width="200" alt="Python Project for Beginners" src="https://github.com/user-attachments/assets/315d12cd-f931-4b4d-83b7-20e2aec23a2a" /></td>
+  </tr>
+  <tr>
+    <td>OOPs in Java</td>
+    <td>Simplilearn</td>
+    <td><img width="200" alt="OOPs in Java" src="https://github.com/user-attachments/assets/8415eddb-eed0-4d18-abb0-17b67314c71e" /></td>
+  </tr>
+  <tr>
+    <td>Introduction to Cyber Security</td>
+    <td>Simplilearn</td>
+    <td><img width="200" alt="Introduction to Cyber Security" src="https://github.com/user-attachments/assets/708a3d71-8ed8-43fa-8d48-c4c2ef780977" /></td>
+  </tr>
+  <tr>
+    <td>CSS (Basic)</td>
+    <td>HackerRank</td>
+    <td><img width="200" alt="CSS(Basic)" src="https://github.com/user-attachments/assets/58fe106f-28b0-451e-82d2-9d837eb0c473" /></td>
   </tr>
 </table>
 
@@ -244,6 +291,11 @@
     <td><a href="https://github.com/reezmahanan/MY-FIRST-HTML-PROJECT">Repo</a></td>
   </tr>
   <tr>
+    <td>Resume</td>
+    <td>HTML, CSS</td>
+    <td><a href="https://github.com/reezmahanan/resume">Repo</a></td>
+  </tr>
+  <tr>
     <td>Animated Weather System</td>
     <td>Python</td>
     <td><a href="https://github.com/reezmahanan/weather-system">Repo</a></td>
@@ -254,9 +306,59 @@
     <td><a href="https://github.com/reezmahanan/solar-system-simulator">Repo</a></td>
   </tr>
   <tr>
+    <td>Calculator</td>
+    <td>HTML</td>
+    <td><a href="https://github.com/reezmahanan/calculator">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Simple Application Form</td>
+    <td>HTML</td>
+    <td><a href="https://github.com/reezmahanan/simple-Application-Form">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Mobile Login</td>
+    <td>HTML</td>
+    <td><a href="https://github.com/reezmahanan/mobile-login">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Logo</td>
+    <td>HTML</td>
+    <td><a href="https://github.com/reezmahanan/Reezma-logo">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Reezma Tech Services</td>
+    <td>HTML, CSS</td>
+    <td><a href="https://github.com/reezmahanan/Reezma-tech-services">Repo</a></td>
+  </tr>
+  <tr>
     <td>To Do List</td>
     <td>HTML, CSS, JS</td>
     <td><a href="https://github.com/reezmahanan/To-Do-list">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Interactive Calendar</td>
+    <td>HTML, CSS</td>
+    <td><a href="https://github.com/reezmahanan/Interactive-Calendar">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Label</td>
+    <td>HTML, CSS</td>
+    <td><a href="https://github.com/reezmahanan/label">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Digital Clock</td>
+    <td>HTML, CSS, JS</td>
+    <td><a href="https://github.com/reezmahanan/Digital-clock">Repo</a></td>
+  </tr>
+  <tr>
+    <td>My Portfolio</td>
+    <td>HTML, CSS, JS</td>
+    <td><a href="https://github.com/reezmahanan/portfolio-website">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Book Haven</td>
+    <td>HTML, CSS, JS</td>
+    <td><a href="https://github.com/reezmahanan/book-haven">Repo</a></td>
   </tr>
 </table>
 </div>
@@ -276,10 +378,11 @@
 ## ⭐ Support & Contributions
 
 If you find my projects useful or inspiring, please give a ⭐!  
-Your feedback, compliments, and contributions are always welcome—let’s build and learn together!
+Your feedback, compliments, and contributions are always welcome—let's build and learn together!
 
 ---
 
 <div align="center">
+  
   <sub>© 2025 Reezma Hanan. All Rights Reserved.</sub>
 </div>
