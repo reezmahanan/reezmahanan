@@ -1,12 +1,21 @@
 <div align="center">
 
-<!-- Main Animated Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=3000&pause=500&color=FF61A6&center=true&vCenter=true&width=700&height=80&lines=Reezma+Hanan;Full-Stack+Developer;Cloud+Enthusiast;Creative+Problem+Solver;Open+Source+Contributor)](https://git.io/typing-svg)
+<h1 style="
+    background: linear-gradient(45deg, #FF61A6, #7B68EE, #61dafb);
+    background-size: 200% 200%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: gradient 3s ease infinite;
+    font-size: 3em;
+    font-weight: bold;
+    margin-bottom: 10px;
+">Reezma Hanan</h1>
 
-<!-- Subtitle with pulse animation -->
-<h3 style="color: #7B68EE; animation: pulse 2s infinite;">Building Digital Solutions That Matter</h3>
+<h3 style="color: #666; margin-top: 0;">Web Developer | IT Student | Tech Explorer</h3>
 
 </div>
+
+
 
 
 
