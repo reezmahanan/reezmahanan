@@ -1,11 +1,12 @@
-
-<!-- Add this section for animated name -->
-
 <div align="center">
 
-# ✨ Reezma Hanan ✨
-
-![Animation](https://github-readme-streak-stats.herokuapp.com/?user=reezmahanan&theme=radical&hide_border=true)
+<h1 style="
+    color: #FF61A6;
+    text-shadow: 0 0 10px #FF61A6, 0 0 20px #FF61A6, 0 0 30px #FF61A6;
+    animation: glow 2s ease-in-out infinite alternate;
+    font-size: 2.5em;
+    font-weight: bold;
+">Reezma Hanan</h1>
 
 </div>
 
