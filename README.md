@@ -1,4 +1,5 @@
-```html
+# Reezma Hanan
+
 <!-- Animated name SVG (simple, lightweight) -->
 <div align="center">
   <svg width="700" height="120" viewBox="0 0 700 120" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Animated Reezma">
@@ -202,7 +203,7 @@
 
 ## 🏆 Certificates
 
-> (Kept the certificate list — consider hosting certificate images in your repo or an images/ folder and referencing those files to avoid broken links.)
+> (Consider hosting certificate images in your repo under an images/ or assets/ folder and referencing those files to avoid broken links.)
 
 <table>
   <tr>
@@ -213,9 +214,11 @@
   <tr>
     <td>Python for Beginners</td>
     <td>UOM CODL</td>
-    <td><img width="200" alt="Python for Beginners" src="https://github.com/user-attachments/assets/b402b5d1-9a87-4fc5-a524-d908040fc256" /></td>
+    <td>
+      <!-- Replace the src below with a real path inside your repo like /images/cert-python.png -->
+      <img width="200" alt="Python for Beginners" src="/images/python-for-beginners.png" />
+    </td>
   </tr>
-  <!-- trimmed for brevity in code view; keep or reorganize in your repo as needed -->
 </table>
 
 ---
@@ -255,7 +258,6 @@
     <td>HTML, CSS, JS</td>
     <td><a href="https://github.com/reezmahanan/To-Do-list">Repo</a></td>
   </tr>
-  <!-- add more projects or reorder as you prefer -->
 </table>
 </div>
 
@@ -281,4 +283,3 @@ Your feedback, compliments, and contributions are always welcome—let’s build
 <div align="center">
   <sub>© 2025 Reezma Hanan. All Rights Reserved.</sub>
 </div>
-```
