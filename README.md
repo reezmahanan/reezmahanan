@@ -25,7 +25,7 @@
 ---
 
 👉 **Check it out live!**  
-[Portfolio Demo](https://portfolio-website-ivory-psi-35.vercel.app/) 
+[Portfolio Demo](https://reezmahanan.github.io/Portfolio-Website/portfolio.html) 
 
 ---
 
