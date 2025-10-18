@@ -1,21 +1,15 @@
 <div align="center">
 
-<h1>
-  <span style="animation: bounce 2s infinite">R</span>
-  <span style="animation: bounce 2s infinite 0.1s">e</span>
-  <span style="animation: bounce 2s infinite 0.2s">e</span>
-  <span style="animation: bounce 2s infinite 0.3s">z</span>
-  <span style="animation: bounce 2s infinite 0.4s">m</span>
-  <span style="animation: bounce 2s infinite 0.5s">a</span>
-  <span> </span>
-  <span style="animation: bounce 2s infinite 0.6s">H</span>
-  <span style="animation: bounce 2s infinite 0.7s">a</span>
-  <span style="animation: bounce 2s infinite 0.8s">n</span>
-  <span style="animation: bounce 2s infinite 0.9s">a</span>
-  <span style="animation: bounce 2s infinite 1.0s">n</span>
-</h1>
+<!-- Animated Name Header -->
+![Reezma Hanan](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=FF61A6&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Reezma+Hanan;💻+Web+Developer;🎓+IT+Student;🚀+Tech+Explorer;💡+Problem+Solver)
+
+<p align="center">
+  <b>"Passionate web developer & software engineer who builds solutions that work."</b>
+</p>
 
 </div>
+
+---
 
 <p align="center">
   <b>"Passionate web developer & software engineer who builds solutions that work."</b>
