@@ -1,12 +1,19 @@
 <div align="center">
 
-<h1 style="
-    color: #FF61A6;
-    text-shadow: 0 0 10px #FF61A6, 0 0 20px #FF61A6, 0 0 30px #FF61A6;
-    animation: glow 2s ease-in-out infinite alternate;
-    font-size: 2.5em;
-    font-weight: bold;
-">Reezma Hanan</h1>
+<h1>
+  <span style="animation: bounce 2s infinite">R</span>
+  <span style="animation: bounce 2s infinite 0.1s">e</span>
+  <span style="animation: bounce 2s infinite 0.2s">e</span>
+  <span style="animation: bounce 2s infinite 0.3s">z</span>
+  <span style="animation: bounce 2s infinite 0.4s">m</span>
+  <span style="animation: bounce 2s infinite 0.5s">a</span>
+  <span> </span>
+  <span style="animation: bounce 2s infinite 0.6s">H</span>
+  <span style="animation: bounce 2s infinite 0.7s">a</span>
+  <span style="animation: bounce 2s infinite 0.8s">n</span>
+  <span style="animation: bounce 2s infinite 0.9s">a</span>
+  <span style="animation: bounce 2s infinite 1.0s">n</span>
+</h1>
 
 </div>
 
