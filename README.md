@@ -9,11 +9,7 @@
 
 </div>
 
----
 
-<p align="center">
-  <b>"Passionate web developer & software engineer who builds solutions that work."</b>
-</p>
 
 ---
 
