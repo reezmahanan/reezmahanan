@@ -263,7 +263,7 @@
  <tr>
     <td>CSS(Basic)</td>
     <td>HackerRank</td>
-    <td><img width="200" alt="CSS(Basic)" src="![WhatsApp Image 2025-10-19 at 00 06 49_524699d3](https://github.com/user-attachments/assets/4caf99a4-da8c-45aa-9b01-ce67eb87c967)" /></td>
+    <td><img width="200" alt="CSS(Basic)" src="![WhatsApp Image 2025-10-19 at 00 06 49_524699d3](https://github.com/user-attachments/assets/58fe106f-28b0-451e-82d2-9d837eb0c473)" /></td>
   </tr>
 </table>
 
