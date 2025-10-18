@@ -349,6 +349,16 @@
     <td>HTML, CSS,JS</td>
     <td><a href="https://github.com/reezmahanan/Digital-clock">Repo</a></td>
   </tr>
+  <tr>
+    <td>My Portfolio</td>
+    <td>HTML, CSS,JS</td>
+    <td><a href="https://github.com/reezmahanan/Digital-clock">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Book Haven</td>
+    <td>HTML, CSS,JS</td>
+    <td><a href="https://github.com/reezmahanan/Digital-clock">Repo</a></td>
+  </tr>
 </table>
 </div>
 
