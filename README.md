@@ -24,42 +24,8 @@
 
 ---
 
-## 🚀 Live Demos
-
-<div align="center">
-
-| Project | Live Demo | Repository | Status |
-|---------|-----------|------------|---------|
-| **Portfolio Website** | [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://reezmahanan-portfolio.vercel.app/) [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)](https://reezmahanan.github.io/Portfolio-Website/portfolio.html) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reezmahanan/portfolio-website) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge) |
-| **Book Haven E-commerce** | [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bookhaven-reezmahanan.vercel.app/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reezmahanan/bookhaven-ecommerce) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge) |
-| **Weather System** | [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://weather-system-reezmahanan.vercel.app/) | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reezmahanan/weather-system) | ![Active](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge) |
-
-</div>
-
----
-
-## 🛠️ Deployment Guide
-
-### Vercel Deployment Steps:
-
-1. **Connect GitHub to Vercel**
-   - Go to [vercel.com](https://vercel.com/)
-   - Sign up with GitHub account
-   - Import your GitHub repositories
-
-2. **Deploy a Project**
-   - Click "New Project"
-   - Select your repository
-   - Vercel auto-detects framework
-   - Click "Deploy"
-
-3. **Custom Domain (Optional)**
-   - Go to project settings
-   - Add your domain in Domains section
-   - Configure DNS records
-
-### Quick Deploy Badges:
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/reezmahanan/portfolio-website)
+👉 **Check it out live!**  
+[Portfolio Demo](https://reezmahanan.github.io/Portfolio-Website/portfolio.html) 
 
 ---
 
@@ -101,14 +67,6 @@
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td><b>🚀 Deployment</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
     </td>
   </tr>
   <tr>
@@ -187,10 +145,6 @@
 
 <div align="center">
 
-<!-- Deployment Platforms -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" alt="Vercel" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="50"/>
-
 <!-- Cloud Platforms -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50"/>
@@ -218,6 +172,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="50"/>
 
 </div>
 
@@ -328,56 +283,87 @@
   <tr>
     <th>🌟 Project</th>
     <th>Technologies</th>
-    <th>Demo</th>
-    <th>Repository</th>
+    <th>Link</th>
   </tr>
   <tr>
-    <td>Portfolio Website</td>
-    <td>HTML, CSS, JS</td>
-    <td><a href="https://reezmahanan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Vercel-Live-000000?style=flat-square&logo=vercel&logoColor=white"/></a></td>
-    <td><a href="https://github.com/reezmahanan/portfolio-website">View Code</a></td>
+    <td>First HTML Invitation</td>
+    <td>HTML, CSS</td>
+    <td><a href="https://github.com/reezmahanan/firsthtml">Repo</a></td>
   </tr>
   <tr>
-    <td>Book Haven E-commerce</td>
-    <td>HTML, CSS, JS</td>
-    <td><a href="https://bookhaven-reezmahanan.vercel.app/"><img src="https://img.shields.io/badge/Vercel-Live-000000?style=flat-square&logo=vercel&logoColor=white"/></a></td>
-    <td><a href="https://github.com/reezmahanan/bookhaven-ecommerce">View Code</a></td>
+    <td>My First HTML Portfolio</td>
+    <td>HTML, CSS</td>
+    <td><a href="https://github.com/reezmahanan/MY-FIRST-HTML-PROJECT">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Resume</td>
+    <td>HTML, CSS</td>
+    <td><a href="https://github.com/reezmahanan/resume">Repo</a></td>
   </tr>
   <tr>
     <td>Animated Weather System</td>
     <td>Python</td>
-    <td><a href="https://weather-system-reezmahanan.vercel.app/"><img src="https://img.shields.io/badge/Vercel-Live-000000?style=flat-square&logo=vercel&logoColor=white"/></a></td>
-    <td><a href="https://github.com/reezmahanan/weather-system">View Code</a></td>
+    <td><a href="https://github.com/reezmahanan/weather-system">Repo</a></td>
   </tr>
   <tr>
-    <td>To Do List</td>
-    <td>HTML, CSS, JS</td>
-    <td><a href="https://todo-reezmahanan.vercel.app/"><img src="https://img.shields.io/badge/Vercel-Live-000000?style=flat-square&logo=vercel&logoColor=white"/></a></td>
-    <td><a href="https://github.com/reezmahanan/To-Do-list">View Code</a></td>
-  </tr>
-  <tr>
-    <td>Digital Clock</td>
-    <td>HTML, CSS, JS</td>
-    <td><a href="https://digital-clock-reezmahanan.vercel.app/"><img src="https://img.shields.io/badge/Vercel-Live-000000?style=flat-square&logo=vercel&logoColor=white"/></a></td>
-    <td><a href="https://github.com/reezmahanan/Digital-clock">View Code</a></td>
-  </tr>
-  <tr>
-    <td>Interactive Calendar</td>
-    <td>HTML, CSS</td>
-    <td><a href="https://calendar-reezmahanan.vercel.app/"><img src="https://img.shields.io/badge/Vercel-Live-000000?style=flat-square&logo=vercel&logoColor=white"/></a></td>
-    <td><a href="https://github.com/reezmahanan/Interactive-Calendar">View Code</a></td>
-  </tr>
-  <tr>
-    <td>Reezma Tech Services</td>
-    <td>HTML, CSS</td>
-    <td><a href="https://tech-services-reezmahanan.vercel.app/"><img src="https://img.shields.io/badge/Vercel-Live-000000?style=flat-square&logo=vercel&logoColor=white"/></a></td>
-    <td><a href="https://github.com/reezmahanan/Reezma-tech-services">View Code</a></td>
+    <td>Solar System Simulator</td>
+    <td>Python</td>
+    <td><a href="https://github.com/reezmahanan/solar-system-simulator">Repo</a></td>
   </tr>
   <tr>
     <td>Calculator</td>
     <td>HTML</td>
-    <td><a href="https://calculator-reezmahanan.vercel.app/"><img src="https://img.shields.io/badge/Vercel-Live-000000?style=flat-square&logo=vercel&logoColor=white"/></a></td>
-    <td><a href="https://github.com/reezmahanan/calculator">View Code</a></td>
+    <td><a href="https://github.com/reezmahanan/calculator">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Simple Application Form</td>
+    <td>HTML</td>
+    <td><a href="https://github.com/reezmahanan/simple-Application-Form">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Mobile Login</td>
+    <td>HTML</td>
+    <td><a href="https://github.com/reezmahanan/mobile-login">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Logo</td>
+    <td>HTML</td>
+    <td><a href="https://github.com/reezmahanan/Reezma-logo">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Reezma Tech Services</td>
+    <td>HTML, CSS</td>
+    <td><a href="https://github.com/reezmahanan/Reezma-tech-services">Repo</a></td>
+  </tr>
+  <tr>
+    <td>To Do List</td>
+    <td>HTML, CSS, JS</td>
+    <td><a href="https://github.com/reezmahanan/To-Do-list">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Interactive Calendar</td>
+    <td>HTML, CSS</td>
+    <td><a href="https://github.com/reezmahanan/Interactive-Calendar">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Label</td>
+    <td>HTML, CSS</td>
+    <td><a href="https://github.com/reezmahanan/label">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Digital Clock</td>
+    <td>HTML, CSS, JS</td>
+    <td><a href="https://github.com/reezmahanan/Digital-clock">Repo</a></td>
+  </tr>
+  <tr>
+    <td>My Portfolio</td>
+    <td>HTML, CSS, JS</td>
+    <td><a href="https://github.com/reezmahanan/portfolio-website">Repo</a></td>
+  </tr>
+  <tr>
+    <td>Book Haven</td>
+    <td>HTML, CSS, JS</td>
+    <td><a href="https://github.com/reezmahanan/bookhaven-ecommerce">Repo</a></td>
   </tr>
 </table>
 </div>
@@ -390,7 +376,6 @@
   <a href="https://linkedin.com/in/reezmahanan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:reezmahanan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://reezmahanan-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
@@ -399,6 +384,9 @@
 
 If you find my projects useful or inspiring, please give a ⭐!  
 Your feedback, compliments, and contributions are always welcome—let's build and learn together!
+
+
+---  
 
 **Quick Deploy:**
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/reezmahanan/portfolio-website)
