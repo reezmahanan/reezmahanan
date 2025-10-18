@@ -260,6 +260,11 @@
     <td>Simplilearn</td>
     <td><img width="200" alt="Introduction to Cyber Security" src="https://github.com/user-attachments/assets/708a3d71-8ed8-43fa-8d48-c4c2ef780977" /></td>
   </tr>
+ <tr>
+    <td>CSS(Basic)</td>
+    <td>HackerRank</td>
+    <td><img width="200" alt="CSS(Basic)" src="![WhatsApp Image 2025-10-19 at 00 06 49_524699d3](https://github.com/user-attachments/assets/4caf99a4-da8c-45aa-9b01-ce67eb87c967)" /></td>
+  </tr>
 </table>
 
 ---
