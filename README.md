@@ -271,6 +271,11 @@
     <td>HackerRank</td>
     <td><img width="200" alt="CSS(Basic)" src="https://github.com/user-attachments/assets/58fe106f-28b0-451e-82d2-9d837eb0c473" /></td>
   </tr>
+   <tr>
+    <td>Introduction to Cloud Computing</td>
+    <td>Simplilearn</td>
+    <td><img width="<img width="940" height="669" alt="Screenshot 2025-10-20 003206" src="https://github.com/user-attachments/assets/f6f704f6-4af2-4628-b44e-19701f4e51fd" /></td>
+  </tr>
 </table>
 
 ---
