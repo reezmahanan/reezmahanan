@@ -274,7 +274,7 @@
    <tr>
     <td>Introduction to Cloud Computing</td>
     <td>Simplilearn</td>
-    <td><img width="<img width="940" height="669" alt="Screenshot 2025-10-20 003206" src="https://github.com/user-attachments/assets/f6f704f6-4af2-4628-b44e-19701f4e51fd" /></td>
+    <td><img width="<img width="200"  alt="Introduction to Cloud Computing" src="https://github.com/user-attachments/assets/f6f704f6-4af2-4628-b44e-19701f4e51fd" /></td>
   </tr>
 </table>
 
