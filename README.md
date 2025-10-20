@@ -200,7 +200,7 @@
 | Introduction to Cyber Security | Simplilearn | <img width="200" alt="Introduction to Cyber Security" src="https://github.com/user-attachments/assets/708a3d71-8ed8-43fa-8d48-c4c2ef780977" /> |
 | CSS (Basic) | HackerRank | <img width="200" alt="CSS(Basic)" src="https://github.com/user-attachments/assets/58fe106f-28b0-451e-82d2-9d837eb0c473" /> |
 | Introduction to Cloud Computing | Simplilearn | <img width="200" alt="Introduction to Cloud Computing" src="https://github.com/user-attachments/assets/f6f704f6-4af2-4628-b44e-19701f4e51fd" /> |
-| Introduction to CSS | SoloLearn | <img width="200" alt="CSS SoloLearn" src="https://github.com/user-attachments/assets/936cb569-7cc0-4380-8195-c5e9f11eb40d" /> |
+| Introduction to CSS | SoloLearn | <img width="200" alt="CSS SoloLearn" src="https://github.com/user-attachments/assets/3a0b3f8c-36a1-4df4-8611-475400b9abd6" /> |
 
 ---
 
