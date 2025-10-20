@@ -276,6 +276,11 @@
     <td>Simplilearn</td>
     <td><img width="200" alt="Introduction to Cloud Computing" src="https://github.com/user-attachments/assets/f6f704f6-4af2-4628-b44e-19701f4e51fd" /></td>
   </tr>
+  <tr>
+    <td>Introduction to CSS</td>
+    <td>SoloLearn</td>
+    <td><img width="200" alt="CSS SoloLearn" src="![936cb569-7cc0-4380-8195-c5e9f11eb40d](https://github.com/user-attachments/assets/31a9e1ef-0234-4b1e-a8cf-4fd3f00c67d7)/></td>
+ </tr>
 </table>
 
 
