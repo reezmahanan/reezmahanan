@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Name Header -->
-![Reezma Hanan](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=FF61A6&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Reezma+Hanan;💻+Web+Developer;🎓+IT+Student;🚀+Tech+Explorer;💡+Problem+Solver)
+![Reezma Hanan](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=FF61A6&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Reezma+Hanan;💻+Web+Developer;🎓+IT+Student;🚀+Tech+Explorer)
 
 <p align="center">
   <b>"Passionate web developer & software engineer who builds solutions that work."</b>
