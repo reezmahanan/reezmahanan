@@ -289,5 +289,5 @@ Your feedback, compliments, and contributions are always welcome—let's build a
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
   
-  <sub>© 2025 Reezma Hanan. All Rights Reserved. | 🌙 Muslim Developer Building with Faith & Code</sub>
+  <sub>© 2025 Reezma Hanan. All Rights Reserved. | </sub>
 </div>
