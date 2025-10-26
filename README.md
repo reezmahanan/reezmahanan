@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 <!-- Animated Name Header -->
@@ -21,6 +22,29 @@
 - 🎯 **Goal:** Become a skilled **Software Developer** by 2028
 - ✉️ Reach me: [reezmahanan@gmail.com](mailto:reezmahanan@gmail.com)
 - 🧩 **Fun Fact:** I love solving logic puzzles and UI redesigns for fun!
+
+---
+
+## ✨ Animations & Fun GIFs
+
+I've added a small animations section so your README can show a friendly developer illustration (like the image you shared), a snake animation, and a short "thank you / happy coding" GIF. To keep this portable, the images are referenced from an `assets/` folder — upload your GIFs there and update the file names if needed.
+
+<p align="center">
+  <!-- Muslim girl developer / coder illustration -->
+  <img src="https://raw.githubusercontent.com/reezmahanan/reezmahanan/16b8494370099684daaa2aff7a27f9d120765ad0/assets/muslim-girl-developer.gif" alt="Muslim girl developer" width="560"/>
+
+  <!-- Snake animation (fun/retro) -->
+  <br/>
+  <img src="https://raw.githubusercontent.com/reezmahanan/reezmahanan/16b8494370099684daaa2aff7a27f9d120765ad0/assets/snake-animation.gif" alt="Snake animation" width="300"/>
+
+  <!-- Thank you / Happy coding gif -->
+  <br/>
+  <img src="https://raw.githubusercontent.com/reezmahanan/reezmahanan/16b8494370099684daaa2aff7a27f9d120765ad0/assets/happy-coding.gif" alt="Happy coding" width="320"/>
+</p>
+
+Notes:
+- Replace the placeholder asset filenames above with the actual filenames you upload (e.g., muslim-girl-dev.gif, snake.gif, thank-you.gif).
+- If you'd rather use external GIF hosts (Giphy, Tenor), you can paste the direct GIF URL instead of the raw.githubusercontent link.
 
 ---
 
@@ -257,3 +281,4 @@ Your feedback, compliments, and contributions are always welcome—let's build a
   
   <sub>© 2025 Reezma Hanan. All Rights Reserved.</sub>
 </div>
+```
