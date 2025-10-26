@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- Animated Name Header -->
@@ -14,41 +13,18 @@
 
 ## 🚀 About Me
 
-- 🎓 IT Student at **Institute of Technology, University of Moratuwa**
-- 💻 Currently learning **Java**, **Python**, **PHP**, **MySQL**, and **Web Development**
-- ☁️ Exploring **Cloud Computing** fundamentals & AWS, Azure, Google Cloud services
+- 🎓 IT Student at *Institute of Technology, University of Moratuwa*
+- 💻 Currently learning *Java, **Python, **PHP, **MySQL, and **Web Development*
+- ☁ Exploring *Cloud Computing* fundamentals & AWS, Azure, Google Cloud services
 - 🧠 Passionate about building real-world software & full-stack apps
 - 🚀 Delving into backend logic, databases, and clean code practices
-- 🎯 **Goal:** Become a skilled **Software Developer** by 2028
-- ✉️ Reach me: [reezmahanan@gmail.com](mailto:reezmahanan@gmail.com)
-- 🧩 **Fun Fact:** I love solving logic puzzles and UI redesigns for fun!
+- 🎯 *Goal:* Become a skilled *Software Developer* by 2028
+- ✉ Reach me: [reezmahanan@gmail.com](mailto:reezmahanan@gmail.com)
+- 🧩 *Fun Fact:* I love solving logic puzzles and UI redesigns for fun!
 
 ---
 
-## ✨ Animations & Fun GIFs
-
-I've added a small animations section so your README can show a friendly developer illustration (like the image you shared), a snake animation, and a short "thank you / happy coding" GIF. To keep this portable, the images are referenced from an `assets/` folder — upload your GIFs there and update the file names if needed.
-
-<p align="center">
-  <!-- Muslim girl developer / coder illustration -->
-  <img src="https://raw.githubusercontent.com/reezmahanan/reezmahanan/16b8494370099684daaa2aff7a27f9d120765ad0/assets/muslim-girl-developer.gif" alt="Muslim girl developer" width="560"/>
-
-  <!-- Snake animation (fun/retro) -->
-  <br/>
-  <img src="https://raw.githubusercontent.com/reezmahanan/reezmahanan/16b8494370099684daaa2aff7a27f9d120765ad0/assets/snake-animation.gif" alt="Snake animation" width="300"/>
-
-  <!-- Thank you / Happy coding gif -->
-  <br/>
-  <img src="https://raw.githubusercontent.com/reezmahanan/reezmahanan/16b8494370099684daaa2aff7a27f9d120765ad0/assets/happy-coding.gif" alt="Happy coding" width="320"/>
-</p>
-
-Notes:
-- Replace the placeholder asset filenames above with the actual filenames you upload (e.g., muslim-girl-dev.gif, snake.gif, thank-you.gif).
-- If you'd rather use external GIF hosts (Giphy, Tenor), you can paste the direct GIF URL instead of the raw.githubusercontent link.
-
----
-
-👉 **Check it out live!**  
+👉 *Check it out live!*  
 [Portfolio Demo](https://reezmahanan.github.io/Portfolio-Website/portfolio.html) 
 
 ---
@@ -94,7 +70,7 @@ Notes:
     </td>
   </tr>
   <tr>
-    <td><b>☁️ Cloud (Beginner)</b></td>
+    <td><b>☁ Cloud (Beginner)</b></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
       <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
@@ -110,7 +86,7 @@ Notes:
     </td>
   </tr>
   <tr>
-    <td><b>🗄️ Databases</b></td>
+    <td><b>🗄 Databases</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     </td>
@@ -165,7 +141,7 @@ Notes:
 
 ---
 
-## 🛠️ Tools & Technologies Icons
+## 🛠 Tools & Technologies Icons
 
 <div align="center">
 
@@ -272,7 +248,7 @@ Your feedback, compliments, and contributions are always welcome—let's build a
 
 ---
 
-**Quick Deploy:**
+*Quick Deploy:*
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/reezmahanan/portfolio-website)
 
 ---
@@ -281,4 +257,3 @@ Your feedback, compliments, and contributions are always welcome—let's build a
   
   <sub>© 2025 Reezma Hanan. All Rights Reserved.</sub>
 </div>
-```
