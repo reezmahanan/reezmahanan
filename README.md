@@ -13,14 +13,14 @@
 
 ## 🚀 About Me
 
-- 🎓 IT Student at *Institute of Technology, University of Moratuwa*
-- 💻 Currently learning *Java, **Python, **PHP, **MySQL, and **Web Development*
-- ☁ Exploring *Cloud Computing* fundamentals & AWS, Azure, Google Cloud services
-- 🧠 Passionate about building real-world software & full-stack apps
-- 🚀 Delving into backend logic, databases, and clean code practices
-- 🎯 *Goal:* Become a skilled *Software Developer* by 2028
-- ✉ Reach me: [reezmahanan@gmail.com](mailto:reezmahanan@gmail.com)
-- 🧩 *Fun Fact:* I love solving logic puzzles and UI redesigns for fun!
+🎓 **IT Student** at *Institute of Technology, University of Moratuwa*  
+💻 **Currently learning:** Java, Python, PHP, MySQL & Web Development  
+☁️ **Exploring:** Cloud Computing fundamentals 
+🧠 **Passionate about** building real-world software & full-stack applications  
+🚀 **Delving into** backend logic, databases, and clean code practices  
+🎯 **Goal:** Become a skilled *Software Developer* by 2028 
+📫 **Reach me:** [reezmahanan@gmail.com](mailto:reezmahanan@gmail.com)
+🧩 **Fun Fact:** I love solving logic puzzles and UI redesigns for fun!
 
 ---
 
