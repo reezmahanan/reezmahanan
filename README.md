@@ -25,7 +25,7 @@
 ---
 
 👉 *Check it out live!*  
-[Portfolio Demo](https://reezmahanan.github.io/Portfolio-Website/portfolio.html) 
+[Portfolio Demo](comingsoon!) 
 
 ---
 
@@ -224,8 +224,8 @@
 | Interactive Calendar | HTML, CSS | [Repo](https://github.com/reezmahanan/Interactive-Calendar) |
 | Label | HTML, CSS | [Repo](https://github.com/reezmahanan/label) |
 | Digital Clock | HTML, CSS, JS | [Repo](https://github.com/reezmahanan/Digital-clock) |
-| My Portfolio | HTML, CSS, JS | [Repo](https://github.com/reezmahanan/portfolio-website) |
-| Book Haven | HTML, CSS, JS | [Repo](https://github.com/reezmahanan/bookhaven-ecommerce) |
+| My Portfolio | HTML, CSS, JS, PHP, MySql | [Repo](comingsoon!) |
+| NETH Bookhive | HTML, CSS, JS, PHP, MySql | [Repo](comingsoon!) |
 
 </div>
 
