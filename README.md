@@ -224,8 +224,8 @@
 | Interactive Calendar | HTML, CSS | [Repo](https://github.com/reezmahanan/Interactive-Calendar) |
 | Label | HTML, CSS | [Repo](https://github.com/reezmahanan/label) |
 | Digital Clock | HTML, CSS, JS | [Repo](https://github.com/reezmahanan/Digital-clock) |
-| My Portfolio | HTML, CSS, JS, PHP, MySql | [Repo](comingsoon!) |
-| NETH Bookhive | HTML, CSS, JS, PHP, MySql | [Repo](comingsoon!) |
+| My Portfolio | HTML, CSS, JS, PHP, MySql | coming soon! |
+| NETH Bookhive | HTML, CSS, JS, PHP, MySql |coming soon!  |
 
 </div>
 
