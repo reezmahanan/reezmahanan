@@ -25,7 +25,7 @@
 ---
 
 👉 *Check it out live!*  
-[Portfolio Demo](comingsoon!) 
+[Portfolio Demo]comingsoon! 
 
 ---
 
