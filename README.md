@@ -25,7 +25,7 @@
 ---
 
 👉 *Check it out live!*  
-comingsoon! 
+coming soon! 
 
 ---
 
