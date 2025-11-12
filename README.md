@@ -225,7 +225,8 @@ coming soon!
 | Label | HTML, CSS | [Repo](https://github.com/reezmahanan/label) |
 | Digital Clock | HTML, CSS, JS | [Repo](https://github.com/reezmahanan/Digital-clock) |
 | My Portfolio | HTML, CSS, JS, PHP, MySql | coming soon! |
-| NETH Bookhive | HTML, CSS, JS, PHP, MySql |coming soon!  |
+| Event Hub | HTML, CSS, JS, PHP, MySql |[Repo]( https://github.com/reezmahanan/Student-Event-Management-Web-Application) |
+| Book Nest | HTML, CSS, JS, PHP, MySql |[Repo]( https://github.com/reezmahanan/Student-Event-Management-Web-Application) |
 
 </div>
 
