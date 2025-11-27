@@ -227,7 +227,7 @@ coming soon!
 | My Portfolio | HTML, CSS, JS |[Repo](https://github.com/reezmahanan/Portfolio-Website) |
 | Event Hub | HTML, CSS, JS, PHP, MySql |[Repo]( https://github.com/reezmahanan/Student-Event-Management-Web-Application) |
 | Book Nest(Group Project) | HTML, CSS, JS, PHP, MySql |[Repo](https://github.com/reezmahanan/BookNest) |
-
+| Weather App | HTML, CSS, JS, PHP |[Repo](https://github.com/reezmahanan/Weather-App) |
 </div>
 
 ---
