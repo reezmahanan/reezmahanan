@@ -95,22 +95,17 @@ const reezma = {
 
 <br/>
 
-<!-- Stats Cards Side by Side -->
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff61a6&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" width="100%"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ff61a6&text_color=ffffff" alt="Top Languages" width="100%"/>
-    </td>
-  </tr>
-</table>
+<!-- Stats Cards -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=reezmahanan&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+</p>
 
 <br/>
-
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com/?user=reezmahanan&theme=radical&hide_border=true&background=0d1117&ring=ff61a6&fire=ff61a6&currStreakLabel=ff61a6&sideLabels=00d9ff&dates=ffffff" alt="GitHub Streak" width="60%"/>
 
 <!-- Contribution Snake Animation -->
 <picture>
