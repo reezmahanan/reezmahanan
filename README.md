@@ -24,37 +24,17 @@
 
 </div>
 
-<div align="center">
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-<img align="right" alt="Developer" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+- 🎓 IT Student at **Institute of Technology, University of Moratuwa**
+- 💻 Currently learning: **Java, Python, PHP, MySQL & Web Development**
+- ☁️ Exploring: **Cloud Computing, AI/ML, Backend Development**
+- 🚀 Passionate about building real-world software & full-stack applications
+- 🎯 Goal: Become a skilled **Software Developer by 2028**
+- 📫 Reach me: **reezmahanan@gmail.com**
+- 🧩 Fun Fact: I love solving logic puzzles and UI redesigns for fun!
 
-```javascript
-const reezma = {
-  pronouns: "she/her",
-  role: "Software Engineer in Training",
-  education: "IT @ Institute of Technology, UOM",
-  location: "🇱🇰 Sri Lanka",
-  
-  currentlyLearning: ["Java", "Python", "PHP", "MySQL"],
-  exploring: ["Cloud Computing", "AI/ML", "Backend Development"],
-  
-  goals: {
-    2025: "Master Full-Stack Development",
-    2026: "Cloud Architecture Certification",
-    2028: "Skilled Software Engineer"
-  },
-  
-  interests: ["Problem Solving", "UI/UX Design", "Logic Puzzles"],
-  funFact: "I solve logic puzzles for breakfast! 🧩",
-  
-  contact: "reezmahanan@gmail.com",
-  motto: "Code with passion, build with purpose 🚀"
-};
-```
-
-<br clear="both"/>
+<br/>
 
 <div align="center">
 
