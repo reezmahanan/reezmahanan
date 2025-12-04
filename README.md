@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Reezma%20Hanan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF61A6&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Reezma+Hanan;💻+Web+Developer;🎓+IT+Student+%40+UOM;🚀+Building+The+Future;☁️+Cloud+%26+AI+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF61A6&center=true&vCenter=true&width=600&lines=Hi+I'm+Reezma+Hanan;Software+Engineer+in+Training;IT+Student+at+UOM;Building+The+Future;Cloud+and+AI+Enthusiast" alt="Typing SVG" />
 
 <br/>
 
@@ -370,16 +370,16 @@ const reezma = {
 
 ### 🚀 Quick Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/reezmahanan/portfolio-website)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/reezmahanan/reezmahanan)
 
 ---
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer\" width=\"100%\"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
 
 ### 💭 Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true\" alt=\"Random Dev Quote\"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
 
 ---
 
