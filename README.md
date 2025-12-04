@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reezma%20Hanan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20|%20Software%20Engineer%20|%20Tech%20Explorer&descAlignY=51&descAlign=50" width="100%"/>
 
 <!-- Hijabi Coding Girl Animation -->
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/developer/dev_girl_with_headphones.gif" alt="Coding Girl" width="400"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="Hijabi Coding Girl" width="400"/>
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+solutions+that+work+%F0%9F%92%BB;Passionate+about+clean+code+%26+innovation+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
@@ -31,13 +31,13 @@
 
 ```typescript
 const reezma = {
-    role: "Full-Stack Developer in Training",
+    role: "Software Engineer in Training",
     education: "IT @ Institute of Technology, UOM",
     location: "Sri Lanka 🇱🇰",
-    currentFocus: ["Java", "Python", "PHP", "MySQL", "Cloud Computing"],
-    learningPath: "Backend Logic → Full-Stack Mastery",
-    goal: "Skilled Software Developer by 2028",
-    interests: ["Clean Code", "Problem Solving", "UI/UX Design"],
+    currentFocus: ["Java", "Python", "PHP", "MySQL", "Cloud Computing", "AI/ML"],
+    learningPath: "Software Engineering → Cloud Architecture → AI/ML",
+    goal: "Skilled Software Engineer & Cloud Architect by 2028",
+    interests: ["Software Engineering", "Cloud Computing", "AI/ML", "Problem Solving"],
     funFact: "I solve logic puzzles for breakfast! 🧩",
     contact: "reezmahanan@gmail.com",
     motto: "Code with passion, build with purpose 🚀"
@@ -48,10 +48,11 @@ const reezma = {
 <summary>📚 <b>More About My Journey</b></summary>
 <br>
 
-- 🎯 **Mission**: Transform ideas into functional, elegant solutions
-- 🌱 **Currently Exploring**: Cloud architecture & microservices
-- 💡 **Philosophy**: Write code that humans can read
-- 🎨 **Side Interest**: UI/UX redesigns and digital design
+- 🎯 **Mission**: Build scalable, efficient software solutions
+- 🌱 **Currently Exploring**: Cloud architecture, microservices & AI/ML
+- 💡 **Philosophy**: Write clean, maintainable code
+- 🤖 **Passionate About**: Machine Learning & Artificial Intelligence
+- ☁️ **Cloud Focus**: AWS, Azure, Google Cloud platforms
 - ⚡ **Quick Learner**: Always adapting to new technologies
 - 🤝 **Team Player**: Love collaborating on innovative projects
 
@@ -316,11 +317,11 @@ const reezma = {
 
 ```mermaid
 graph LR
-    A[2025] --> B[Master Full-Stack]
-    B --> C[Cloud Certification]
-    C --> D[Open Source Contributions]
-    D --> E[2026: Industry Projects]
-    E --> F[2028: Senior Developer]
+    A[2025] --> B[Software Engineering Mastery]
+    B --> C[Cloud Certifications]
+    C --> D[AI/ML Specialization]
+    D --> E[2026: Cloud Architecture]
+    E --> F[2028: Senior Software Engineer]
     style A fill:#ff61a6,stroke:#fff,stroke-width:2px
     style F fill:#00ff88,stroke:#fff,stroke-width:2px
 ```
@@ -331,10 +332,11 @@ graph LR
 
 - [x] Complete 15+ certifications
 - [x] Build 20+ projects
+- [ ] AWS/Azure/GCP certifications
+- [ ] Build AI/ML projects
 - [ ] Contribute to open source
-- [ ] AWS/Azure certification
-- [ ] Launch personal portfolio site
-- [ ] Freelance projects
+- [ ] Master cloud architecture
+- [ ] Learn advanced algorithms & data structures
 
 </div>
 
@@ -355,9 +357,10 @@ graph LR
 <div align="center">
 
 ```ascii
-    🧩 Solving Logic Puzzles
-    🎨 Redesigning UIs for Fun  
-    📚 Reading Tech Blogs
+    🧩 Solving Logic Puzzles & DSA Problems
+    🤖 Exploring AI/ML Concepts
+    ☁️ Learning Cloud Technologies
+    📚 Reading Tech Blogs & Documentation
     🎬 Video Editing
     ☕ Coffee Breaks (Essential!)
 ```
@@ -455,3 +458,4 @@ If you find my projects helpful or inspiring, consider:
 
 <!-- Easter Egg -->
 <!-- Thanks for reading! Have a great day! 🚀 -->
+
