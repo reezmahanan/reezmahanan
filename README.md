@@ -61,7 +61,9 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=reezmahanan&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Profile Trophy" />
+  <a href="https://github.com/reezmahanan">
+    <img src="https://github-profile-trophy.vercel.app/?username=reezmahanan&theme=radical&no-frame=true&no-bg=true&row=1&column=7&rank=SSS,SS,S,AAA,AA,A,B,C" alt="Profile Trophy" />
+  </a>
 </p>
 
 </div>
@@ -77,8 +79,12 @@
 
 <!-- Stats Cards -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
+  <a href="https://github.com/reezmahanan">
+    <img src="https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" height="180"/>
+  </a>
+  <a href="https://github.com/reezmahanan">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" height="180"/>
+  </a>
 </p>
 
 <p align="center">
