@@ -29,10 +29,6 @@
 ---
 
 ## 🌟 About Me
-
-```typescript
-const reezma = {
-    role: "Software Engineer in Training",
     education: "IT @ Institute of Technology, UOM",
     location: "Sri Lanka 🇱🇰",
     currentFocus: ["Java", "Python", "PHP", "MySQL", "Cloud Computing", "AI/ML"],
@@ -42,8 +38,7 @@ const reezma = {
     funFact: "I solve logic puzzles for breakfast! 🧩",
     contact: "reezmahanan@gmail.com",
     motto: "Code with passion, build with purpose 🚀"
-};
-```
+
 
 <details>
 <summary>📚 <b>More About My Journey</b></summary>
@@ -148,25 +143,7 @@ const reezma = {
 
 ---
 
-## 📈 Coding Activity & Stats
 
-<div align="center">
-
-<!-- WakaTime Stats (if you have it) -->
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<!-- Metrics (Uncomment when WakaTime is configured) -->
-<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=reezmahanan&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61A6&text_color=FFF" alt="WakaTime Stats"/> -->
-
-<!-- Code Time Badge -->
-<a href="https://github.com/reezmahanan">
-  <img src="https://img.shields.io/badge/Code%20Time-Coming%20Soon-blueviolet?style=for-the-badge" alt="Code Time"/>
-</a>
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -393,13 +370,7 @@ If you find my projects helpful or inspiring, consider:
 
 ---
 
-## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- Coming Soon: Technical tutorials and project insights!
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 🌈 Fun Facts & Stats
 
