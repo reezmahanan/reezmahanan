@@ -92,8 +92,8 @@ const reezma = {
 
 <br/>
 
-<!-- Contribution Graph (will work once you have commits) -->
-<img src="https://ghchart.rshah.org/FF61A6/reezmahanan" alt="Contribution Graph" width="100%"/>
+<!-- Contribution Calendar Graph -->
+<img src="https://ghchart.rshah.org/ff61a6/reezmahanan" alt="GitHub Contribution Graph" width="100%"/>
 
 </div>
 
