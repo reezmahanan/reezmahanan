@@ -4,8 +4,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reezma%20Hanan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20|%20Software%20Engineer%20|%20Tech%20Explorer&descAlignY=51&descAlign=50" width="100%"/>
 
 <!-- Hijabi Coding Girl Illustration -->
-<!-- Replace the URL below with your uploaded image URL: https://raw.githubusercontent.com/reezmahanan/reezmahanan/main/assets/YOUR-IMAGE.png -->
-<img src="https://img.freepik.com/free-photo/muslim-lady-working-laptop_23-2148204918.jpg" alt="Hijabi Software Engineer" width="400" style="border-radius: 15px;"/>
+<img src="https://i.imgur.com/8xR5PYL.png" alt="Hijabi Software Engineer" width="400" style="border-radius: 15px;"/>
+<!-- To use your own image: Upload to your GitHub repo at /assets/ and use: https://raw.githubusercontent.com/reezmahanan/reezmahanan/main/assets/YOUR-IMAGE.png -->
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+solutions+that+work+%F0%9F%92%BB;Passionate+about+clean+code+%26+innovation+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
@@ -21,7 +21,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=reezmahanan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/reezmahanan?label=Followers&style=for-the-badge&color=ff69b4" alt="followers" />
-  <img src="https://img.shields.io/github/stars/reezmahanan?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+  <img src="https://img.shields.io/github/stars/reezmahanan?label=Stars&style=for-the-badge&color=yellow" alt="stars"
 </p>
 
 </div>
@@ -459,3 +459,4 @@ If you find my projects helpful or inspiring, consider:
 
 <!-- Easter Egg -->
 <!-- Thanks for reading! Have a great day! 🚀 -->
+
