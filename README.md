@@ -82,7 +82,7 @@ const reezma = {
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=reezmahanan&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Profile Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=reezmahanan&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Profile Trophy" />
 
 </div>
 
@@ -99,10 +99,10 @@ const reezma = {
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=ff61a6&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff61a6&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" width="100%"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff61a6&text_color=ffffff" alt="Top Languages" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ff61a6&text_color=ffffff" alt="Top Languages" width="100%"/>
     </td>
   </tr>
 </table>
