@@ -30,7 +30,7 @@
 
 </div>
 
-<img align="right" alt="Developer" width="400" src="https://github.com/user-attachments/assets/d68e47d7-a0c2-4ad1-a51f-5a0b5ed37cfd">
+<img align="right" alt="Developer" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```javascript
 const reezma = {
