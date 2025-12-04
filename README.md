@@ -305,7 +305,7 @@
 ### 🌐 Find Me Around The Web
 
 <p align="center">
-  <a href="https://linkedin.com/in/reezmahanan">
+  <a href="https://www.linkedin.com/in/reezma-hanan">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
   <a href="mailto:reezmahanan@gmail.com">
