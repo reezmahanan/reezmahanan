@@ -60,9 +60,9 @@
 
 ### 🏆 GitHub Trophies
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=reezmahanan&theme=radical&margin-w=15&margin-h=10&no-bg=true" alt="Profile Trophy" />
-</a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=reezmahanan&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="Profile Trophy" />
+</p>
 
 </div>
 
@@ -77,8 +77,8 @@
 
 <!-- Stats Cards -->
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
