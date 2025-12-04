@@ -11,11 +11,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+solutions+that+work+%F0%9F%92%BB;Passionate+about+clean+code+%26+innovation+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <!-- Animated Snake eating contributions -->
+<!-- Note: Uncomment after setting up GitHub Action workflow -->
+<!-- To enable: Create .github/workflows/snake.yml in your profile repo -->
+<!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reezmahanan/reezmahanan/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reezmahanan/reezmahanan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/reezmahanan/reezmahanan/output/github-contribution-grid-snake.svg">
 </picture>
+-->
 
 <!-- Profile Badges -->
 <p>
@@ -30,7 +34,7 @@
 
 ## 🌟 About Me
 
-typescript
+```typescript
 const reezma = {
     role: "Software Engineer in Training",
     education: "IT @ Institute of Technology, UOM",
@@ -43,7 +47,7 @@ const reezma = {
     contact: "reezmahanan@gmail.com",
     motto: "Code with passion, build with purpose 🚀"
 };
-
+```
 
 <details>
 <summary>📚 <b>More About My Journey</b></summary>
@@ -65,7 +69,7 @@ const reezma = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=reezmahanan&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=reezmahanan&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
 
 </div>
 
