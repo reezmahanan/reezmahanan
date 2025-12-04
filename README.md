@@ -3,10 +3,6 @@
 <!-- Animated Typing Header with Gradient -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reezma%20Hanan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20|%20Software%20Engineer%20|%20Tech%20Explorer&descAlignY=51&descAlign=50" width="100%"/>
 
-<!-- Hijabi Coding Girl Illustration -->
-<img src="https://i.imgur.com/8xR5PYL.png" alt="Hijabi Software Engineer" width="400" style="border-radius: 15px;"/>
-<!-- To use your own image: Upload to your GitHub repo at /assets/ and use: https://raw.githubusercontent.com/reezmahanan/reezmahanan/main/assets/YOUR-IMAGE.png -->
-
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+solutions+that+work+%F0%9F%92%BB;Passionate+about+clean+code+%26+innovation+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
@@ -80,21 +76,24 @@ const reezma = {
 <div align="center">
 
 <!-- GitHub Stats Cards -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF61A6&icon_color=FF61A6&text_color=FFF" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61A6&text_color=FFF" alt="Top Languages"/>
+<a href="https://github.com/reezmahanan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/reezmahanan">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
+</a>
+
+<br/>
 
 <!-- GitHub Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=reezmahanan&theme=radical&hide_border=true&background=0D1117&ring=FF61A6&fire=FF61A6&currStreakLabel=FF61A6" alt="GitHub Streak"/>
+<a href="https://github.com/reezmahanan">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=reezmahanan&theme=radical&hide_border=true" alt="GitHub Streak"/>
+</a>
 
-<!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=reezmahanan&custom_title=Contribution%20Graph&bg_color=0D1117&color=FF61A6&line=FF61A6&point=FFFFFF&area_color=FF61A6&area=true&hide_border=true" width="100%"/>
+<br/>
 
-<!-- Detailed Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reezmahanan&theme=radical" width="100%" alt="Profile Details"/>
-
-<!-- Productivity Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reezmahanan&theme=radical&utcOffset=5.5" height="180em" alt="Productive Time"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reezmahanan&theme=radical" height="180em" alt="Repos per Language"/>
+<!-- Contribution Graph (will work once you have commits) -->
+<img src="https://ghchart.rshah.org/FF61A6/reezmahanan" alt="Contribution Graph" width="100%"/>
 
 </div>
 
