@@ -82,7 +82,9 @@ const reezma = {
 
 ### 🏆 GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=reezmahanan&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="Profile Trophy" />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=reezmahanan&theme=radical&margin-w=15&margin-h=10&no-bg=true" alt="Profile Trophy" />
+</a>
 
 </div>
 
