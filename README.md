@@ -21,7 +21,7 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=reezmahanan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/reezmahanan?label=Followers&style=for-the-badge&color=ff69b4" alt="followers" />
-  <img src="https://img.shields.io/github/stars/reezmahanan?label=Stars&style=for-the-badge&color=yellow" alt="stars"
+  <img src="https://img.shields.io/github/stars/reezmahanan?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 </p>
 
 </div>
@@ -459,4 +459,3 @@ If you find my projects helpful or inspiring, consider:
 
 <!-- Easter Egg -->
 <!-- Thanks for reading! Have a great day! 🚀 -->
-
