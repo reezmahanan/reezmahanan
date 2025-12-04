@@ -1,62 +1,135 @@
 <div align="center">
 
-<!-- Animated Name Header -->
-![Reezma Hanan](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=35&duration=4000&pause=1000&color=FF61A6&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Reezma+Hanan;💻+Web+Developer;🎓+IT+Student;🚀+Tech+Explorer)
+<!-- Gradient Wave Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Reezma%20Hanan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
+
+<!-- Animated Typing -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF61A6&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Reezma+Hanan;💻+Web+Developer;🎓+IT+Student+%40+UOM;🚀+Building+The+Future;☁️+Cloud+%26+AI+Enthusiast" alt="Typing SVG" />
+
+<br/>
+
+<!-- Animated Badges -->
+<img src="https://img.shields.io/badge/💼_Role-Software_Engineer_in_Training-FF61A6?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/🎯_Goal-Senior_Dev_by_2028-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/🌍_Location-Sri_Lanka-00FF88?style=for-the-badge&labelColor=1a1a2e" />
+
+<br/><br/>
 
 <p align="center">
-  <b>"Passionate web developer & software engineer who builds solutions that work."</b>
+  <b><i>"Code with passion, build with purpose, innovate with purpose"</i></b>
 </p>
+
+<!-- Decorative Line -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
-
----
-
-## 🚀 About Me
-
-🎓 *IT Student* at Institute of Technology, University of Moratuwa  
-💻 *Currently learning:* Java, Python, PHP, MySQL & Web Development  
-☁ *Exploring:* Cloud Computing fundamentals  
-🧠 *Passionate about* building real-world software & full-stack applications  
-🚀 *Delving into* backend logic, databases, and clean code practices  
-🎯 *Goal:* Become a skilled Software Developer by 2028  
-📫 *Reach me:* [reezmahanan@gmail.com](mailto:reezmahanan@gmail.com)  
-🧩 *Fun Fact:* I love solving logic puzzles and UI redesigns for fun!
-
----
-
-👉 Check it out live!  
-coming soon! 
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reezmahanan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=reezmahanan&theme=radical&margin-w=15&margin-h=10&no-bg=true" alt="Profile Trophy" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats & Contributions
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=reezmahanan&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="100%"/>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-<img src="https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+</div>
 
-<img src="https://streak-stats.demolab.com/?user=reezmahanan&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+```javascript
+const reezma = {
+  pronouns: "she/her",
+  role: "Software Engineer in Training",
+  education: "IT @ Institute of Technology, UOM",
+  location: "🇱🇰 Sri Lanka",
+  
+  currentlyLearning: ["Java", "Python", "PHP", "MySQL"],
+  exploring: ["Cloud Computing", "AI/ML", "Backend Development"],
+  
+  goals: {
+    2025: "Master Full-Stack Development",
+    2026: "Cloud Architecture Certification",
+    2028: "Senior Software Engineer"
+  },
+  
+  interests: ["Problem Solving", "UI/UX Design", "Logic Puzzles"],
+  funFact: "I solve logic puzzles for breakfast! 🧩",
+  
+  contact: "reezmahanan@gmail.com",
+  motto: "Code with passion, build with purpose 🚀"
+};
+```
+
+<br clear="both"/>
+
+<div align="center">
+
+### 🌟 Quick Highlights
+
+| 🎓 Education | 💼 Experience | 🏆 Achievements |
+|-------------|---------------|----------------|
+| IT @ UOM | 20+ Projects | 19+ Certificates |
+| Cloud Computing | Full-Stack Dev | HackerRank ⭐ |
+| AI/ML Basics | Database Design | Cisco Certified |
 
 </div>
 
 ---
 
-## 🧑‍💻 Technical Skills
+<div align="center">
+
+### 📊 Profile Analytics
+
+<img src="https://komarev.com/ghpvc/?username=reezmahanan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/reezmahanan?label=Followers&style=for-the-badge&color=ff69b4" alt="followers" />
+<img src="https://img.shields.io/github/stars/reezmahanan?label=Total%20Stars&style=for-the-badge&color=yellow" alt="stars" />
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=reezmahanan&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Profile Trophy" />
+
+</div>
+
+<div align="center">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> GitHub Stats & Contributions
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=reezmahanan&bg_color=0d1117&color=ff61a6&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+
+<br/>
+
+<!-- Stats Cards Side by Side -->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&bg_color=0d1117&title_color=ff61a6&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" width="100%"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff61a6&text_color=ffffff" alt="Top Languages" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com/?user=reezmahanan&theme=radical&hide_border=true&background=0d1117&ring=ff61a6&fire=ff61a6&currStreakLabel=ff61a6&sideLabels=00d9ff&dates=ffffff" alt="GitHub Streak" width="60%"/>
+
+<!-- Contribution Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reezmahanan/reezmahanan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reezmahanan/reezmahanan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/reezmahanan/reezmahanan/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+<div align="center">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Technical Skills & Expertise
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
+
+### 💻 Programming & Development
 
 <table>
   <tr>
@@ -176,9 +249,15 @@ coming soon!
 
 </div>
 
----
+<div align="center">
 
-## 🏆 Certificates
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px"> Certifications & Achievements
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+### 📜 19+ Professional Certificates Earned
+
+</div>
 
 | Certificate | Issuer | Image |
 |-------------|---------|-------|
@@ -202,9 +281,15 @@ coming soon!
 | Introduction to Cloud Computing | Simplilearn | <img width="200" alt="Introduction to Cloud Computing" src="https://github.com/user-attachments/assets/f6f704f6-4af2-4628-b44e-19701f4e51fd" /> |
 | Introduction to CSS | SoloLearn | <img width="200" alt="CSS SoloLearn" src="https://github.com/user-attachments/assets/3a0b3f8c-36a1-4df4-8611-475400b9abd6" /> |
 
----
+<div align="center">
 
-## 📂 Projects
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30px"> Featured Projects
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+### 🚀 18+ Real-World Projects Built
+
+</div>
 
 <div align="center">
 
@@ -230,31 +315,92 @@ coming soon!
 | Weather App | HTML, CSS, JS, PHP |[Repo](https://github.com/reezmahanan/Weather-App) |
 </div>
 
----
+<div align="center">
 
-## 📫 Let's Connect
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px"> Let's Connect & Collaborate
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+### 🌐 Find Me Around The Web
 
 <p align="center">
-  <a href="https://linkedin.com/in/reezmahanan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:reezmahanan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/reezmahanan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  </a>
+  <a href="mailto:reezmahanan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+  </a>
+  <a href="https://github.com/reezmahanan">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/reezmahanan">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=00EA64"/>
+  </a>
 </p>
 
----
+<br/>
 
-## ⭐ Support & Contributions
+### 💬 Open For
 
-If you find my projects useful or inspiring, please give a ⭐!  
-Your feedback, compliments, and contributions are always welcome—let's build and learn together!
+<p align="center">
+  <img src="https://img.shields.io/badge/🤝-Collaborations-FF61A6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💼-Internships-00D9FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🎓-Learning_Together-00FF88?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💡-Project_Ideas-FFD700?style=for-the-badge"/>
+</p>
 
----
+</div>
 
-Quick Deploy:
+<div align="center">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30px"> Support My Journey
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+### ⭐ If you find my work inspiring
+
+<p align="center">
+  <img src="https://img.shields.io/badge/⭐_Star-My_Repos-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🍴_Fork-Projects-FF61A6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/📣_Share-With_Others-00D9FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💬_Feedback-Welcome-00FF88?style=for-the-badge"/>
+</p>
+
+<br/>
+
+### 🚀 Quick Deploy
+
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/reezmahanan/portfolio-website)
 
 ---
 
-<div align="center">
-  
-  <sub>© 2025 Reezma Hanan. All Rights Reserved.</sub>
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer\" width=\"100%\"/>
+
+### 💭 Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true\" alt=\"Random Dev Quote\"/>
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made_with-💖_and_☕-FF61A6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Built_by-Reezma_Hanan-00D9FF?style=for-the-badge"/>
+</p>
+
+<sub>© 2025 Reezma Hanan • Last Updated: December 2025 • Built with passion in Sri Lanka 🇱🇰</sub>
+
+<br/><br/>
+
+<!-- Thank You Message -->
+<h3 align="center">✨ Thanks for visiting! Have an amazing day! ✨</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</p>
+
 </div>
