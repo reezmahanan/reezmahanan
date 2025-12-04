@@ -374,9 +374,9 @@ const reezma = {
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
 
-### 💭 Quote of the Day
+### 💭 Dev Quote of the Day
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House" alt="Dev Quote"/>
 
 ---
 
@@ -385,7 +385,7 @@ const reezma = {
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made_with-💖_and_☕-FF61A6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Made_with-💖-FF61A6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Built_by-Reezma_Hanan-00D9FF?style=for-the-badge"/>
 </p>
 
