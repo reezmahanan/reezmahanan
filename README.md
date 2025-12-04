@@ -3,6 +3,9 @@
 <!-- Animated Typing Header with Gradient -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Reezma%20Hanan&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20|%20Software%20Engineer%20|%20Tech%20Explorer&descAlignY=51&descAlign=50" width="100%"/>
 
+<!-- Hijabi Coding Girl Animation -->
+<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/images/developer/dev_girl_with_headphones.gif" alt="Coding Girl" width="400"/>
+
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF61F6&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+solutions+that+work+%F0%9F%92%BB;Passionate+about+clean+code+%26+innovation+%F0%9F%9A%80;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
