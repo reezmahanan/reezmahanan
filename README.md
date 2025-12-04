@@ -71,8 +71,8 @@ const reezma = {
 <div align="center">
 
 <!-- GitHub Stats Cards -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF61A6&icon_color=FF61A6&text_color=FFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61A6&text_color=FFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=FF61A6&icon_color=FF61A6&text_color=FFF" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61A6&text_color=FFF" alt="Top Languages"/>
 
 <!-- GitHub Streak Stats -->
 <img src="https://streak-stats.demolab.com?user=reezmahanan&theme=radical&hide_border=true&background=0D1117&ring=FF61A6&fire=FF61A6&currStreakLabel=FF61A6" alt="GitHub Streak"/>
@@ -81,11 +81,11 @@ const reezma = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=reezmahanan&custom_title=Contribution%20Graph&bg_color=0D1117&color=FF61A6&line=FF61A6&point=FFFFFF&area_color=FF61A6&area=true&hide_border=true" width="100%"/>
 
 <!-- Detailed Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reezmahanan&theme=radical" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reezmahanan&theme=radical" width="100%" alt="Profile Details"/>
 
 <!-- Productivity Stats -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reezmahanan&theme=radical&utcOffset=5.5" height="180em"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reezmahanan&theme=radical" height="180em"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reezmahanan&theme=radical&utcOffset=5.5" height="180em" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reezmahanan&theme=radical" height="180em" alt="Repos per Language"/>
 
 </div>
 
@@ -148,8 +148,8 @@ const reezma = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!-- Metrics -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=reezmahanan&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61A6&text_color=FFF" alt="WakaTime Stats"/>
+<!-- Metrics (Uncomment when WakaTime is configured) -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=reezmahanan&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF61A6&text_color=FFF" alt="WakaTime Stats"/> -->
 
 <!-- Code Time Badge -->
 <a href="https://github.com/reezmahanan">
@@ -257,12 +257,31 @@ const reezma = {
 <summary>🖼️ <b>View Certificate Gallery</b></summary>
 <br>
 
-<img src="https://github.com/user-attachments/assets/b402b5d1-9a87-4fc5-a524-d908040fc256" width="250" alt="Python"/>
-<img src="https://github.com/user-attachments/assets/901bd465-48d9-4a2d-85c7-d8e6f25b5a51" width="250" alt="Web Design"/>
-<img src="https://github.com/user-attachments/assets/ff60ec2b-4d5f-4b7b-bd10-70acb348594e" width="250" alt="Python SoloLearn"/>
-<img src="https://github.com/user-attachments/assets/75104083-2c70-48ca-aabb-efccfae77c21" width="250" alt="SQL"/>
-<img src="https://github.com/user-attachments/assets/4313cec7-e719-4858-be24-ad1b462bd5f0" width="250" alt="HTML"/>
-<img src="https://github.com/user-attachments/assets/6dc5e013-7d80-4ce1-8a8d-e28ee4482824" width="250" alt="Java"/>
+### 📜 View & Verify Certificates
+
+| Certificate | Platform | Image | Verify |
+|-------------|----------|-------|--------|
+| **Python for Beginners** | UOM CODL | <img src="https://github.com/user-attachments/assets/b402b5d1-9a87-4fc5-a524-d908040fc256" width="200" alt="Python"/> | [View Certificate](#) |
+| **Web Design for Beginners** | UOM CODL | <img src="https://github.com/user-attachments/assets/901bd465-48d9-4a2d-85c7-d8e6f25b5a51" width="200" alt="Web Design"/> | [View Certificate](#) |
+| **Python for Beginners** | SoloLearn | <img src="https://github.com/user-attachments/assets/ff60ec2b-4d5f-4b7b-bd10-70acb348594e" width="200" alt="Python SoloLearn"/> | [View Certificate](https://www.sololearn.com/en/certificates/CC-YOUR-CERT-ID) |
+| **SQL** | SoloLearn | <img src="https://github.com/user-attachments/assets/75104083-2c70-48ca-aabb-efccfae77c21" width="200" alt="SQL"/> | [View Certificate](https://www.sololearn.com/en/certificates/CC-YOUR-CERT-ID) |
+| **HTML** | SoloLearn | <img src="https://github.com/user-attachments/assets/4313cec7-e719-4858-be24-ad1b462bd5f0" width="200" alt="HTML"/> | [View Certificate](https://www.sololearn.com/en/certificates/CC-YOUR-CERT-ID) |
+| **Java** | SoloLearn | <img src="https://github.com/user-attachments/assets/6dc5e013-7d80-4ce1-8a8d-e28ee4482824" width="200" alt="Java"/> | [View Certificate](https://www.sololearn.com/en/certificates/CC-YOUR-CERT-ID) |
+| **Cyber Security** | Cisco | <img src="https://github.com/user-attachments/assets/39c1eb9f-1f52-4119-ab39-f3a25c404c89" width="200" alt="Cyber Security"/> | [View Certificate](#) |
+| **Agile Scrum Foundation** | Simplilearn | <img src="https://github.com/user-attachments/assets/40df952e-ee56-491b-a8ec-32c704a659dd" width="200" alt="Agile"/> | [View Certificate](#) |
+| **UI/UX for Beginners** | Great Learning | <img src="https://github.com/user-attachments/assets/8611355c-f9ee-4791-adab-bc72be7e9d56" width="200" alt="UI/UX"/> | [View Certificate](#) |
+| **HTML** | Great Learning | <img src="https://github.com/user-attachments/assets/2fb025ee-46b8-4949-b3ba-4a9ceb4bc3e1" width="200" alt="HTML"/> | [View Certificate](#) |
+| **MySQL Tutorial** | Great Learning | <img src="https://github.com/user-attachments/assets/3c62470d-4844-4bb2-beb6-569e878bca57" width="200" alt="MySQL"/> | [View Certificate](#) |
+| **Programming Basics** | Great Learning | <img src="https://github.com/user-attachments/assets/7c524fff-72d7-4199-8ffe-a7d3edd2a525" width="200" alt="Programming"/> | [View Certificate](#) |
+| **Python Fundamentals** | Great Learning | <img src="https://github.com/user-attachments/assets/a602a5be-b2c9-476c-8b55-26afd6feddb8" width="200" alt="Python"/> | [View Certificate](#) |
+| **Python Projects** | Great Learning | <img src="https://github.com/user-attachments/assets/315d12cd-f931-4b4d-83b7-20e2aec23a2a" width="200" alt="Python Project"/> | [View Certificate](#) |
+| **OOPs in Java** | Simplilearn | <img src="https://github.com/user-attachments/assets/8415eddb-eed0-4d18-abb0-17b67314c71e" width="200" alt="OOPs"/> | [View Certificate](#) |
+| **Intro to Cyber Security** | Simplilearn | <img src="https://github.com/user-attachments/assets/708a3d71-8ed8-43fa-8d48-c4c2ef780977" width="200" alt="Cyber"/> | [View Certificate](#) |
+| **CSS (Basic)** | HackerRank | <img src="https://github.com/user-attachments/assets/58fe106f-28b0-451e-82d2-9d837eb0c473" width="200" alt="CSS"/> | [View Certificate](https://www.hackerrank.com/certificates/YOUR-CERT-ID) |
+| **Intro to Cloud Computing** | Simplilearn | <img src="https://github.com/user-attachments/assets/f6f704f6-4af2-4628-b44e-19701f4e51fd" width="200" alt="Cloud"/> | [View Certificate](#) |
+| **CSS** | SoloLearn | <img src="https://github.com/user-attachments/assets/3a0b3f8c-36a1-4df4-8611-475400b9abd6" width="200" alt="CSS"/> | [View Certificate](https://www.sololearn.com/en/certificates/CC-YOUR-CERT-ID) |
+
+> 💡 **Note**: Replace `#` with your actual certificate URLs from the respective platforms.
 
 </details>
 
@@ -277,7 +296,9 @@ const reezma = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/reezmahanan)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reezmahanan@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/reezmahanan)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF61A6?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF61A6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/reezmahanan/Portfolio-Website)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/reezmahanan)
+[![SoloLearn](https://img.shields.io/badge/SoloLearn-3a464b?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/en/profile/YOUR-PROFILE-ID)
 
 ### 💬 Let's Collaborate!
 
@@ -297,9 +318,8 @@ graph LR
     C --> D[Open Source Contributions]
     D --> E[2026: Industry Projects]
     E --> F[2028: Senior Developer]
-    
-    style A fill:#ff61a6
-    style F fill:#00ff88
+    style A fill:#ff61a6,stroke:#fff,stroke-width:2px
+    style F fill:#00ff88,stroke:#fff,stroke-width:2px
 ```
 
 <div align="center">
@@ -432,4 +452,3 @@ If you find my projects helpful or inspiring, consider:
 
 <!-- Easter Egg -->
 <!-- Thanks for reading! Have a great day! 🚀 -->
-
