@@ -76,21 +76,15 @@ const reezma = {
 <div align="center">
 
 <!-- GitHub Stats Cards -->
-<a href="https://github.com/reezmahanan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/reezmahanan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&langs_count=8&theme=radical&hide_border=true" alt="Top Languages"/>
 
-<br/>
+<br/><br/>
 
 <!-- GitHub Streak Stats -->
-<a href="https://github.com/reezmahanan">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=reezmahanan&theme=radical&hide_border=true" alt="GitHub Streak"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=reezmahanan&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
-<br/>
+<br/><br/>
 
 <!-- Contribution Calendar Graph -->
 <img src="https://ghchart.rshah.org/ff61a6/reezmahanan" alt="GitHub Contribution Graph" width="100%"/>
@@ -345,36 +339,6 @@ const reezma = {
 
 ---
 
-## 🎮 When I'm Not Coding...
-
-<div align="center">
-
-```ascii
-    🧩 Solving Logic Puzzles & DSA Problems
-    🤖 Exploring AI/ML Concepts
-    ☁️ Learning Cloud Technologies
-    📚 Reading Tech Blogs & Documentation
-    🎬 Video Editing
-    ☕ Coffee Breaks (Essential!)
-```
-
-</div>
-
----
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   8 hrs 35 mins   ████████████░░░░░░░░░   45.2%
-Python       4 hrs 12 mins   ██████░░░░░░░░░░░░░░░   22.1%
-PHP          3 hrs 45 mins   █████░░░░░░░░░░░░░░░░   19.8%
-HTML/CSS     2 hrs 24 mins   ███░░░░░░░░░░░░░░░░░░   12.9%
-```
-<!--END_SECTION:waka-->
-
----
-
 ## 🤝 Support My Work
 
 <div align="center">
@@ -384,35 +348,7 @@ If you find my projects helpful or inspiring, consider:
 ⭐ **Starring** my repositories  
 🐛 **Reporting** issues or bugs  
 💡 **Suggesting** new features  
-🤝 **Contributing** to my projects  
-☕ **Buying me a coffee** (coming soon!)
-
-[![](https://img.shields.io/badge/Support-Buy%20Me%20A%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/reezmahanan)
-
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming Soon: Technical tutorials and project insights!
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🌈 Fun Facts & Stats
-
-<div align="center">
-
-| Metric | Value |
-|--------|-------|
-| ☕ Coffee Consumed | ∞ |
-| 🐛 Bugs Fixed | 1000+ |
-| 💻 Lines of Code | 50,000+ |
-| 📚 Courses Completed | 18+ |
-| 🚀 Projects Built | 20+ |
-| 🌟 Stars Earned | Growing! |
+🤝 **Contributing** to my projects
 
 </div>
 
