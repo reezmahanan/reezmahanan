@@ -10,7 +10,7 @@
 
 <!-- Animated Badges -->
 <img src="https://img.shields.io/badge/💼_Role-Software_Engineer_in_Training-FF61A6?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🎯_Goal-Senior_Dev_by_2028-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/🎯_Goal-Skilled_Dev_by_2028-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/🌍_Location-Sri_Lanka-00FF88?style=for-the-badge&labelColor=1a1a2e" />
 
 <br/><br/>
@@ -30,7 +30,7 @@
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Developer" width="400" src="https://github.com/user-attachments/assets/d68e47d7-a0c2-4ad1-a51f-5a0b5ed37cfd">
 
 ```javascript
 const reezma = {
@@ -45,7 +45,7 @@ const reezma = {
   goals: {
     2025: "Master Full-Stack Development",
     2026: "Cloud Architecture Certification",
-    2028: "Senior Software Engineer"
+    2028: "Skilled Software Engineer"
   },
   
   interests: ["Problem Solving", "UI/UX Design", "Logic Puzzles"],
