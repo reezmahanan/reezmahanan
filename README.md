@@ -317,22 +317,9 @@ const reezma = {
 
 ---
 
-## 🎯 Current Goals & Roadmap
-
-```mermaid
-graph LR
-    A[2025] --> B[Software Engineering Mastery]
-    B --> C[Cloud Certifications]
-    C --> D[AI/ML Specialization]
-    D --> E[2026: Cloud Architecture]
-    E --> F[2028: Senior Software Engineer]
-    style A fill:#ff61a6,stroke:#fff,stroke-width:2px
-    style F fill:#00ff88,stroke:#fff,stroke-width:2px
-```
+## 🎯 Current Goals & 2025 Milestones
 
 <div align="center">
-
-### 📅 2025 Milestones
 
 - [x] Complete 15+ certifications
 - [x] Build 20+ projects
@@ -341,6 +328,8 @@ graph LR
 - [ ] Contribute to open source
 - [ ] Master cloud architecture
 - [ ] Learn advanced algorithms & data structures
+
+**Goal: Senior Software Engineer by 2028 🚀**
 
 </div>
 
