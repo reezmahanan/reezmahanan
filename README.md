@@ -30,7 +30,7 @@
 
 ## 🌟 About Me
 
-```typescript
+typescript
 const reezma = {
     role: "Software Engineer in Training",
     education: "IT @ Institute of Technology, UOM",
@@ -43,7 +43,7 @@ const reezma = {
     contact: "reezmahanan@gmail.com",
     motto: "Code with passion, build with purpose 🚀"
 };
-```
+
 
 <details>
 <summary>📚 <b>More About My Journey</b></summary>
