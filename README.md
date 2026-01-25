@@ -261,6 +261,8 @@
 | CSS (Basic) | HackerRank | <img width="200" alt="CSS(Basic)" src="https://github.com/user-attachments/assets/58fe106f-28b0-451e-82d2-9d837eb0c473" /> |
 | Introduction to Cloud Computing | Simplilearn | <img width="200" alt="Introduction to Cloud Computing" src="https://github.com/user-attachments/assets/f6f704f6-4af2-4628-b44e-19701f4e51fd" /> |
 | Introduction to CSS | SoloLearn | <img width="200" alt="CSS SoloLearn" src="https://github.com/user-attachments/assets/3a0b3f8c-36a1-4df4-8611-475400b9abd6" /> |
+| Java (Basic) | HackerRank | <img width="200" alt="Java(Basic)" src="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5" />|
+| SQL (Basic) | HackerRank | <img width="200" alt="SQL(Basic)" src="https://github.com/user-attachments/assets/dd15f2fe-7e86-4979-b50e-cc47f980a6ae" />|
 
 <div align="center">
 
