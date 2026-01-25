@@ -87,7 +87,9 @@
   </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=reezmahanan&" alt="reezmahanan" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=reezmahanan&theme=radical&hide_border=true" alt="GitHub Streak" height="180"/>
+</p>
 
 <br/>
 
