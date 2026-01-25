@@ -28,7 +28,7 @@
 
 - 🎓 IT Student at **Institute of Technology, University of Moratuwa**
 - 💻 Currently learning: **Java, Python, PHP, MySQL & Web Development**
-- ☁️ Exploring: **Cloud Computing, AI/ML, Backend Development**
+- ☁️ Exploring: **Cloud Computing, Cyber Security, AI/ML, Backend Development**
 - 🚀 Passionate about building real-world software & full-stack applications
 - 🎯 Goal: Become a skilled **Software Developer by 2028**
 - 📫 Reach me: **reezmahanan@gmail.com**
@@ -292,7 +292,7 @@
 | Interactive Calendar | HTML, CSS | [Repo](https://github.com/reezmahanan/Interactive-Calendar) |
 | Label | HTML, CSS | [Repo](https://github.com/reezmahanan/label) |
 | Digital Clock | HTML, CSS, JS | [Repo](https://github.com/reezmahanan/Digital-clock) |
-| My Portfolio | HTML, CSS, JS, PHP |[Repo](https://github.com/reezmahanan/Portfolio-Website) |
+| My Portfolio | HTML, CSS, JS|[Repo](https://github.com/reezmahanan/Portfolio-Website) |
 | Event Hub | HTML, CSS, JS, PHP, MySql |[Repo]( https://github.com/reezmahanan/Student-Event-Management-Web-Application) |
 | Book Nest(Group Project) | HTML, CSS, JS, PHP, MySql |[Repo](https://github.com/reezmahanan/BookNest) |
 | Weather App | HTML, CSS, JS, PHP |[Repo](https://github.com/reezmahanan/Weather-App) |
