@@ -278,6 +278,7 @@
 | Introduction to CSS | SoloLearn | <img width="200" alt="CSS SoloLearn" src="https://github.com/user-attachments/assets/3a0b3f8c-36a1-4df4-8611-475400b9abd6" /> |
 | Java (Basic) | HackerRank | <img width="200" alt="Java(Basic)" src="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5" />|
 | SQL (Basic) | HackerRank | <img width="200" alt="SQL(Basic)" src="https://github.com/user-attachments/assets/dd15f2fe-7e86-4979-b50e-cc47f980a6ae" />|
+| Front-End Web Development | UOM CODL | <img width="200" alt="Web Design for Beginners"  src="https://github.com/user-attachments/assets/60d5d685-26e1-420c-845c-77f39e1e6465" />|
 
 <div align="center">
 
