@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Reezma%20Hanan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF61A6&center=true&vCenter=true&width=600&lines=Hi+I'm+Reezma+Hanan;Software+Engineer+in+Training;IT+Student+at+UOM;Building+The+Future;Cloud+and+AI+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF61A6&center=true&vCenter=true&width=600&lines=Hi+I'm+Reezma+Hanan;Aspiring+Software+Engineer;IT+Undergraduate+at+UOM;Open+to+Internship+Opportunities" />
 
 <br/>
 
