@@ -263,6 +263,8 @@
 | SQL | SoloLearn | <img width="200" alt="SQL SoloLearn" src="https://github.com/user-attachments/assets/75104083-2c70-48ca-aabb-efccfae77c21" /> |
 | HTML | SoloLearn | <img width="200" alt="HTML SoloLearn" src="https://github.com/user-attachments/assets/4313cec7-e719-4858-be24-ad1b462bd5f0" /> |
 | Java | SoloLearn | <img width="200" alt="Java SoloLearn" src="https://github.com/user-attachments/assets/6dc5e013-7d80-4ce1-8a8d-e28ee4482824" /> |
+| Introduction to Git| Microsoft | <img width="200" alt="Git"  src="https://github.com/user-attachments/assets/54776ea4-ec42-4b50-9108-40ea13519724" />|
+| Introduction to Github Copilot | Microsoft | <img width="200" alt="GithubCopilot"  src="https://github.com/user-attachments/assets/cef427dc-028d-44b6-b023-43f63b0d7d78" />|
 | Cyber Security | Cisco Networking Academy | <img width="200" alt="Cyber Security" src="https://github.com/user-attachments/assets/39c1eb9f-1f52-4119-ab39-f3a25c404c89" /> |
 | Agile Scrum Foundation | Simplilearn | <img width="200" alt="Agile Scrum Foundation" src="https://github.com/user-attachments/assets/40df952e-ee56-491b-a8ec-32c704a659dd" /> |
 | UI/UX for Beginners | Great Learning Academy | <img width="200" alt="UI/UX for Beginners" src="https://github.com/user-attachments/assets/8611355c-f9ee-4791-adab-bc72be7e9d56" /> |
@@ -275,6 +277,8 @@
 | Introduction to Cyber Security | Simplilearn | <img width="200" alt="Introduction to Cyber Security" src="https://github.com/user-attachments/assets/708a3d71-8ed8-43fa-8d48-c4c2ef780977" /> |
 | CSS (Basic) | HackerRank | <img width="200" alt="CSS(Basic)" src="https://github.com/user-attachments/assets/58fe106f-28b0-451e-82d2-9d837eb0c473" /> |
 | Introduction to Cloud Computing | Simplilearn | <img width="200" alt="Introduction to Cloud Computing" src="https://github.com/user-attachments/assets/f6f704f6-4af2-4628-b44e-19701f4e51fd" /> |
+| Describe  Cloud Computing | Microsoft | <img width="200" alt="Cloud Computing"  src="https://github.com/user-attachments/assets/caf21974-5cce-47fc-808b-7d1cc7726e45" />|
+| Introduction to AI Concepts| Microsoft | <img width="200" alt="Introduction to AI Concepts"  src="https://github.com/user-attachments/assets/68cb27b6-96cd-4b1c-86a1-25d613ab8b1d" />|
 | Introduction to CSS | SoloLearn | <img width="200" alt="CSS SoloLearn" src="https://github.com/user-attachments/assets/3a0b3f8c-36a1-4df4-8611-475400b9abd6" /> |
 | Java (Basic) | HackerRank | <img width="200" alt="Java(Basic)" src="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5" />|
 | SQL (Basic) | HackerRank | <img width="200" alt="SQL(Basic)" src="https://github.com/user-attachments/assets/dd15f2fe-7e86-4979-b50e-cc47f980a6ae" />|
