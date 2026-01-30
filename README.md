@@ -10,9 +10,8 @@
 
 <!-- Animated Badges -->
 <img src="https://img.shields.io/badge/💼_Role-Software_Engineer_in_Training-FF61A6?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🎯_Goal-Skilled_Dev_by_2028-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/🎯_Goal-Seeking_Internship-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/🌍_Location-Sri_Lanka-00FF88?style=for-the-badge&labelColor=1a1a2e" />
-
 <br/><br/>
 
 <p align="center">
