@@ -20,26 +20,27 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-- **🎓 Education**  
+- 🎓 **Education**  
   IT Undergraduate at Institute of Technology, University of Moratuwa
 
-- **💻 Currently Learning**  
+- 💻 **Currently Learning**  
   Java, Python, PHP, MySQL, and Web Development
 
-- **🔍 Exploring**  
+- 🔍 **Exploring**  
   Cloud Computing, Cybersecurity, AI/ML, and Backend Development
 
-- **🚀 Passion**  
+- 🚀 **Passion**  
   Building real-world software and full-stack applications
 
-- **🎯 Goal**  
+- 🎯 **Goal**  
   Become a skilled Software Developer by 2028
 
-- **📫 Contact**  
+- 📫 **Contact**  
   [reezmahanan@gmail.com](mailto:reezmahanan@gmail.com)
 
-- **🧩 Fun Fact**  
+- 🧩 **Fun Fact**  
   I enjoy solving logic puzzles and redesigning UIs for fun!
+
 
 ---
 
