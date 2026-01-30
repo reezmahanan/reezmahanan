@@ -15,23 +15,21 @@
 <br/><br/>
 
 <p align="center">
-  <b><i>"Code with passion, build with purpose, innovate with purpose"</i></b>
+  <b><i>"Code with passion, build with purpose, innovate with impact"</i></b>
 </p>
 
 <!-- Decorative Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-</div>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-- 🎓 IT Student at **Institute of Technology, University of Moratuwa**
-- 💻 Currently learning: **Java, Python, PHP, MySQL & Web Development**
-- ☁️ Exploring: **Cloud Computing, Cyber Security, AI/ML, Backend Development**
-- 🚀 Passionate about building real-world software & full-stack applications
+- 🎓 IT Undergraduate at **Institute of Technology, University of Moratuwa**
+- 💻 Currently learning: **Java, Python, PHP, MySQL, and Web Development**
+- ☁️ Exploring: **Cloud Computing, Cybersecurity, AI/ML, and Backend Development**
+- 🚀 Passionate about building real-world software and full-stack applications
 - 🎯 Goal: Become a skilled **Software Developer by 2028**
 - 📫 Reach me: **reezmahanan@gmail.com**
-- 🧩 Fun Fact: I love solving logic puzzles and UI redesigns for fun!
+- 🧩 Fun Fact: I enjoy solving logic puzzles and redesigning UIs for fun!
 
 <br/>
 
@@ -41,8 +39,8 @@
 
 | 🎓 Education | 💼 Experience | 🏆 Achievements |
 |-------------|---------------|----------------|
-| IT @ UOM | 20+ Projects | 19+ Certificates |
-| Cloud Computing | Full-Stack Dev | HackerRank ⭐ |
+| IT @ UOM | Academic & Personal Projects | 19+ Certificates |
+| Cloud & Cyber Security | Full-Stack Fundamentals | HackerRank ⭐ |
 | AI/ML Basics | Database Design | Cisco Certified |
 
 </div>
