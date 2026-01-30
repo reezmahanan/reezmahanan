@@ -283,7 +283,7 @@
 | Java (Basic) | HackerRank | <img width="200" alt="Java(Basic)" src="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5" />|
 | SQL (Basic) | HackerRank | <img width="200" alt="SQL(Basic)" src="https://github.com/user-attachments/assets/dd15f2fe-7e86-4979-b50e-cc47f980a6ae" />|
 | Front-End Web Development | UOM CODL | <img width="200" alt="Web Design for Beginners"  src="https://github.com/user-attachments/assets/60d5d685-26e1-420c-845c-77f39e1e6465" />|
-|Cyber Scecurity Essential(LFC108)  | The Linux Foundation | <img width="200" alt="Cyber Scecurity Essential"   src="https://github.com/user-attachments/assets/e2af4b8a-df7d-4be4-91a2-c229685cb44c" />|
+|Cyber Security Essential(LFC108)  | The Linux Foundation | <img width="200" alt="Cyber Security Essential"   src="https://github.com/user-attachments/assets/e2af4b8a-df7d-4be4-91a2-c229685cb44c" />|
 
 <div align="center">
 
