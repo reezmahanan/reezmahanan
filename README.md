@@ -279,8 +279,22 @@
 | Java (Basic) | HackerRank | <img width="200" alt="Java(Basic)" src="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5" />|
 | SQL (Basic) | HackerRank | <img width="200" alt="SQL(Basic)" src="https://github.com/user-attachments/assets/dd15f2fe-7e86-4979-b50e-cc47f980a6ae" />|
 | Front-End Web Development | UOM CODL | <img width="200" alt="Web Design for Beginners"  src="https://github.com/user-attachments/assets/60d5d685-26e1-420c-845c-77f39e1e6465" />|
-|Cyber Scecurity Essential (LFC108)  | The Linux Foundation | <img width="200" alt="Cyber Scecurity Essential"   src="https://github.com/user-attachments/assets/e2af4b8a-df7d-4be4-91a2-c229685cb44c" />|
+|Cyber Scecurity Essential(LFC108)  | The Linux Foundation | <img width="200" alt="Cyber Scecurity Essential"   src="https://github.com/user-attachments/assets/e2af4b8a-df7d-4be4-91a2-c229685cb44c" />|
 
+<div align="center">
+
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35px"> Badges & Achievements
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+## 🏅 Badges & Achievements
+</div>
+
+| Badge | Platform | Image |
+|------|----------|-------|
+| Cyber Security  | Cisco Networking Academy | <img width="150" alt="Cyber Security" src="https://github.com/user-attachments/assets/2a168050-4437-4be6-9830-984408e0307a" />|
+| Cyber Security Essential(LFC108) | The Linux Foundation | <img width="150" alt="Cyber Security" src="https://github.com/user-attachments/assets/22312c5a-3561-4904-b62f-bbd495d8d022" />|
+| Introduction to Generative AI  | Google Cloud | <img width="150" alt="Introduction to Generative AI"  src="https://github.com/user-attachments/assets/6949b148-049c-481d-83b5-a64167c86980" />|
 
 <div align="center">
 
