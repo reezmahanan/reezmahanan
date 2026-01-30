@@ -18,6 +18,8 @@
   <b><i>"Code with passion, build with purpose, innovate with impact"</i></b>
 </p>
 
+<div align="center">
+
 <!-- Decorative Line -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -33,7 +35,7 @@
 
 <br/>
 
-<div align="center">
+</div>
 
 ### 🌟 Quick Highlights
 
