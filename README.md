@@ -20,33 +20,32 @@
 
 <div align="center">
 
-<!-- Decorative Line -->
-# <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-• **🎓 Education**  
-  IT Undergraduate at Institute of Technology, University of Moratuwa  
+- **🎓 Education**  
+  IT Undergraduate at Institute of Technology, University of Moratuwa
 
-• **💻 Currently Learning**  
-  Java, Python, PHP, MySQL, and Web Development  
+- **💻 Currently Learning**  
+  Java, Python, PHP, MySQL, and Web Development
 
-• **🔍 Exploring**  
-  Cloud Computing, Cybersecurity, AI/ML, and Backend Development  
+- **🔍 Exploring**  
+  Cloud Computing, Cybersecurity, AI/ML, and Backend Development
 
-• **🚀 Passion**  
-  Building real-world software and full-stack applications  
+- **🚀 Passion**  
+  Building real-world software and full-stack applications
 
-• **🎯 Goal**  
-  Become a skilled Software Developer by 2028  
+- **🎯 Goal**  
+  Become a skilled Software Developer by 2028
 
-• **📫 Contact**  
-  [reezmahanan@gmail.com](mailto:reezmahanan@gmail.com)  
+- **📫 Contact**  
+  [reezmahanan@gmail.com](mailto:reezmahanan@gmail.com)
 
-• **🧩 Fun Fact**  
+- **🧩 Fun Fact**  
   I enjoy solving logic puzzles and redesigning UIs for fun!
 
 ---
 
-<div align="left">
+<div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
