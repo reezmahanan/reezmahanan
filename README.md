@@ -18,8 +18,6 @@
   <b><i>"Code with passion, build with purpose, innovate with impact"</i></b>
 </p>
 
-<div align="center">
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
 - **🎓 Education**  
