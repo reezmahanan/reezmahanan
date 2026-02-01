@@ -411,7 +411,7 @@
   <img src="https://img.shields.io/badge/Built_by-Reezma_Hanan-00D9FF?style=for-the-badge"/>
 </p>
 
-<sub>© 2026 Reezma Hanan • Last Updated: Jan 2026 • Built with passion in Sri Lanka 🇱🇰</sub>
+<sub>© 2026 Reezma Hanan • Last Updated: Feb 2026 • Built with passion in Sri Lanka 🇱🇰</sub>
 
 <br/><br/>
 
