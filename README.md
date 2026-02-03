@@ -284,6 +284,7 @@
 | SQL (Basic) | HackerRank | <img width="200" alt="SQL(Basic)" src="https://github.com/user-attachments/assets/dd15f2fe-7e86-4979-b50e-cc47f980a6ae" />|
 | Front-End Web Development | UOM CODL | <img width="200" alt="Web Design for Beginners"  src="https://github.com/user-attachments/assets/60d5d685-26e1-420c-845c-77f39e1e6465" />|
 |Cyber Security Essential(LFC108)  | The Linux Foundation | <img width="200" alt="Cyber Security Essential"   src="https://github.com/user-attachments/assets/e2af4b8a-df7d-4be4-91a2-c229685cb44c" />|
+|Hands-On Introduction to Git with GitHub | Udemy | <img width="200" alt="Github"   src="https://github.com/user-attachments/assets/a258b2af-adf3-4bb8-90af-a296a6caf7e9" />|
 
 <div align="center">
 
