@@ -333,6 +333,8 @@
 | Event Hub | HTML, CSS, JS, PHP, MySql |[Repo]( https://github.com/reezmahanan/Student-Event-Management-Web-Application) |
 | Book Nest(Group Project) | HTML, CSS, JS, PHP, MySql |[Repo](https://github.com/reezmahanan/BookNest) |
 | Weather App | HTML, CSS, JS, PHP |[Repo](https://github.com/reezmahanan/Weather-App) |
+|TasteVerse | HTML, CSS, JS |[Repo](https://github.com/reezmahanan/TasteVerse.git) |
+
 </div>
 
 <div align="center">
