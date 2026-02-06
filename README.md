@@ -315,25 +315,17 @@
 
 | Project | Technologies | Link |
 |---------|--------------|------|
-| First HTML Invitation | HTML, CSS | [Repo](https://github.com/reezmahanan/firsthtml) |
-| My First HTML Portfolio | HTML, CSS | [Repo](https://github.com/reezmahanan/MY-FIRST-HTML-PROJECT) |
-| Resume | HTML, CSS | [Repo](https://github.com/reezmahanan/resume) |
-| Animated Weather System | Python | [Repo](https://github.com/reezmahanan/weather-system) |
-| Solar System Simulator | Python | [Repo](https://github.com/reezmahanan/solar-system-simulator) |
-| Calculator | HTML | [Repo](https://github.com/reezmahanan/calculator) |
-| Simple Application Form | HTML | [Repo](https://github.com/reezmahanan/simple-Application-Form) |
-| Mobile Login | HTML | [Repo](https://github.com/reezmahanan/mobile-login) |
-| Logo | HTML | [Repo](https://github.com/reezmahanan/Reezma-logo) |
-| Reezma Tech Services | HTML, CSS | [Repo](https://github.com/reezmahanan/Reezma-tech-services) |
-| To Do List | HTML, CSS, JS | [Repo](https://github.com/reezmahanan/To-Do-list) |
-| Interactive Calendar | HTML, CSS | [Repo](https://github.com/reezmahanan/Interactive-Calendar) |
-| Label | HTML, CSS | [Repo](https://github.com/reezmahanan/label) |
-| Digital Clock | HTML, CSS, JS | [Repo](https://github.com/reezmahanan/Digital-clock) |
-| My Portfolio | HTML, CSS, JS|[Repo](https://github.com/reezmahanan/Portfolio-Website) |
 | Event Hub | HTML, CSS, JS, PHP, MySql |[Repo]( https://github.com/reezmahanan/Student-Event-Management-Web-Application) |
 | Book Nest(Group Project) | HTML, CSS, JS, PHP, MySql |[Repo](https://github.com/reezmahanan/BookNest) |
+| My Portfolio | HTML, CSS, JS|[Repo](https://github.com/reezmahanan/Portfolio-Website) |
 | Weather App | HTML, CSS, JS, PHP |[Repo](https://github.com/reezmahanan/Weather-App) |
 |TasteVerse | HTML, CSS, JS |[Repo](https://github.com/reezmahanan/TasteVerse.git) |
+| Reezma Tech Services | HTML, CSS | [Repo](https://github.com/reezmahanan/Reezma-tech-services) |
+|Library Management System |Java | [Repo](https://github.com/reezmahanan/Library-Management-System) |
+|Student Management System |Java | [Repo](https://github.com/reezmahanan/Student-Management-System) |
+| Animated Weather System | Python | [Repo](https://github.com/reezmahanan/weather-system) |
+| Solar System Simulator | Python | [Repo](https://github.com/reezmahanan/solar-system-simulator) |
+
 
 </div>
 
