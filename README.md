@@ -320,7 +320,7 @@
 | My Portfolio | HTML, CSS, JS|[Repo](https://github.com/reezmahanan/Portfolio-Website) |
 | Weather App | HTML, CSS, JS, PHP |[Repo](https://github.com/reezmahanan/Weather-App) |
 |TasteVerse | HTML, CSS, JS |[Repo](https://github.com/reezmahanan/TasteVerse.git) |
-| Reezma Tech Services | HTML, CSS | [Repo](https://github.com/reezmahanan/Reezma-tech-services) |
+| Reezma Tech Services | HTML, CSS ,JS | [Repo](https://github.com/reezmahanan/Reezma-tech-services) |
 |Library Management System |Java | [Repo](https://github.com/reezmahanan/Library-Management-System) |
 |Student Management System |Java | [Repo](https://github.com/reezmahanan/Student-Management-System) |
 | Animated Weather System | Python | [Repo](https://github.com/reezmahanan/weather-system) |
