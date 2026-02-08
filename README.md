@@ -37,7 +37,19 @@
 
 <div align="center">
 
+### 🚀 Contributor Programs & Contributions
 
+| Program | Role | Project Links |
+|--------|------|--------------------|
+| **SWOC (Social Winter of Code)** | Open Source Contributor | [View Contributions](https://github.com/archangel2006/SafeHaven) |
+| **OSCG (Open Source Connect Global)** | Open Source Contributor | [View Contributions](https://github.com/Gooichand/blockchain-evidence) |
+
+</div>
+
+---
+
+<div align="center">
+  
 ### 🌟 Quick Highlights
 
 | 🎓 Education | 💼 Experience | 🏆 Achievements |
