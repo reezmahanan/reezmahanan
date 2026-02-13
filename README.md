@@ -314,7 +314,7 @@
 | Cyber Security  | Cisco Networking Academy | <img width="150" alt="Cyber Security" src="https://github.com/user-attachments/assets/2a168050-4437-4be6-9830-984408e0307a" />|
 | Cyber Security Essential(LFC108) | The Linux Foundation | <img width="150" alt="Cyber Security" src="https://github.com/user-attachments/assets/22312c5a-3561-4904-b62f-bbd495d8d022" />|
 | Introduction to Generative AI  | Google Cloud | <img width="150" alt="Introduction to Generative AI"  src="https://github.com/user-attachments/assets/6949b148-049c-481d-83b5-a64167c86980" />|
-|Github for Beginners  | Github | <img width="150" alt="Introduction to Generative AI"  src=" src="https://github.com/user-attachments/assets/3b665081-35e2-45c7-9473-b6687e689d65" />|
+|Github for Beginners  | Github | <img width="150" alt="github"  src="https://github.com/user-attachments/assets/3b665081-35e2-45c7-9473-b6687e689d65" />|
 
 <div align="center">
 
