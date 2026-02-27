@@ -199,6 +199,16 @@
   </tr>
 
   <tr>
+    <td><b>💼 Productivity</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Gamma_AI-7B68EE?style=for-the-badge"/>
+    </td>
+  </tr>
+
+  <tr>
     <td><b>🎬 Video Editing</b></td>
     <td>
       <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge"/>
@@ -206,7 +216,7 @@
     </td>
   </tr>
 
-  <tr>
+ <tr>
     <td><b>📚 Learning Platforms</b></td>
     <td>
       <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
