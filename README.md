@@ -357,7 +357,7 @@
 | Weather App | HTML, CSS, JS, PHP |[Repo](https://github.com/reezmahanan/Weather-App) |
 |TasteVerse | HTML, CSS, JS |[Repo](https://github.com/reezmahanan/TasteVerse.git) |
 | Reezma Tech Services | HTML, CSS,JS | [Repo](https://github.com/reezmahanan/Reezma-tech-service)
-|CareerBridge| HTML, CSS,JS | [Repo](https://github.com/reezmahanan/Reezma-tech-services) |
+|CareerBridge| HTML, CSS,JS | [Repo](https://github.com/reezmahanan/CareerBridge) |
 |Library Management System |Java | [Repo](https://github.com/reezmahanan/Library-Management-System) |
 |Student Management System |Java | [Repo](https://github.com/reezmahanan/Student-Management-System) |
 | Animated Weather System | Python | [Repo](https://github.com/reezmahanan/weather-system) |
