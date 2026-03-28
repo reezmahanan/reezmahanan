@@ -284,11 +284,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="50"/>
 
 
-<!-- Embedded / Simulation -->
-<img src="https://upload.wikimedia.org/wikipedia/en/5/5a/Proteus_Design_Suite_Logo.png" width="50"/>
+
 </div>
 
 
@@ -369,9 +367,9 @@
 | Book Nest(Group Project) | HTML, CSS, JS, PHP, MySql |[Repo](https://github.com/reezmahanan/BookNest) |
 | My Portfolio | HTML, CSS, JS|[Repo](https://github.com/reezmahanan/Portfolio-Website) |
 | Weather App | HTML, CSS, JS, PHP |[Repo](https://github.com/reezmahanan/Weather-App) |
-|TasteVerse | HTML, CSS, JS |[Repo](https://github.com/reezmahanan/TasteVerse.git) |
+| TasteVerse | HTML, CSS, JS |[Repo](https://github.com/reezmahanan/TasteVerse.git) |
 | Reezma Tech Services | HTML, CSS,JS | [Repo](https://github.com/reezmahanan/Reezma-tech-service)
-|CareerBridge| HTML, CSS,JS | [Repo](https://github.com/reezmahanan/CareerBridge) |
+| CareerBridge| HTML, CSS,JS | [Repo](https://github.com/reezmahanan/CareerBridge) |
 |Library Management System |Java | [Repo](https://github.com/reezmahanan/Library-Management-System) |
 |Student Management System |Java | [Repo](https://github.com/reezmahanan/Student-Management-System) |
 | Animated Weather System | Python | [Repo](https://github.com/reezmahanan/weather-system) |
