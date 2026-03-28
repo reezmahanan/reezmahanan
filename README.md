@@ -177,6 +177,7 @@
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
       <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
       <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white"/>
     </td>
   </tr>
 
@@ -188,6 +189,9 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+    <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+  </td>
     </td>
   </tr>
 
@@ -195,6 +199,9 @@
     <td><b>🖥 Embedded Systems</b></td>
     <td>
       <img src="https://img.shields.io/badge/Microchip_Studio-CC0000?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Proteus_8_Professional-1C79B3?style=for-the-badge"/>
+  </td>
+</tr>
     </td>
   </tr>
 
