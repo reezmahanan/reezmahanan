@@ -140,8 +140,6 @@
     <td><b>☁ Cloud (Beginner)</b></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
       <img src="https://img.shields.io/badge/Cloud_Fundamentals-4A154B?style=for-the-badge"/>
     </td>
   </tr>
