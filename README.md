@@ -358,9 +358,10 @@
 
 | Project | Technologies | Link |
 |---------|--------------|------|
-| Event Hub | HTML, CSS, JS, PHP, MySql |[Repo]( https://github.com/reezmahanan/Student-Event-Management-Web-Application) |
-| Book Nest(Group Project) | HTML, CSS, JS, PHP, MySql |[Repo](https://github.com/reezmahanan/BookNest) |
+| Event Hub | HTML, CSS, JS, PHP, MySQL |[Repo]( https://github.com/reezmahanan/Student-Event-Management-Web-Application) |
+| Book Nest(Group Project) | HTML, CSS, JS, PHP, MySQL |[Repo](https://github.com/reezmahanan/BookNest) |
 | My Portfolio | HTML, CSS, JS|[Repo](https://github.com/reezmahanan/Portfolio-Website) |
+|SCM - Inventory Management System | React , Spring Boot , MySQL|[Repo](https://github.com/reezmahanan/SCM-Inventory-Management) |
 |ReciPick | React , Vite , CSS|[Repo](https://github.com/reezmahanan/RECIPICK) |
 | Weather App | HTML, CSS, JS, PHP |[Repo](https://github.com/reezmahanan/Weather-App) |
 | TasteVerse | HTML, CSS, JS |[Repo](https://github.com/reezmahanan/TasteVerse.git) |
