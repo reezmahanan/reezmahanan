@@ -27,7 +27,7 @@
 
 - 🎓 IT Student at **Institute of Technology, University of Moratuwa**
 - 💻 Currently learning: **Java, Python, PHP, MySQL & Web Development**
-- ☁️ Exploring: **Cloud Computing, Cyber Security, AI/ML, Backend Development**
+- ☁️ Exploring: **Cloud Computing, Cyber Security, Backend Development**
 - 🚀 Passionate about building real-world software & full-stack applications
 - 🎯 Goal: Become a skilled **Software Developer by 2028**
 - 📫 Reach me: **reezmahanan@gmail.com**
