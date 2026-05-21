@@ -29,7 +29,7 @@
 - 💻 Currently learning: **Java, Python, PHP, MySQL & Web Development**
 - ☁️ Exploring: **Cloud Computing, Cyber Security, Backend Development**
 - 🚀 Passionate about building real-world software & full-stack applications
-- 🎯 Goal: Become a skilled **Software Developer by 2028**
+- 🎯 Goal: Become a skilled **Software Developer **
 - 📫 Reach me: **reezmahanan@gmail.com**
 - 🧩 Fun Fact: I love solving logic puzzles and UI redesigns for fun!
 
