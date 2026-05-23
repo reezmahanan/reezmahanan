@@ -55,8 +55,8 @@
 | 🎓 Education | 💼 Experience | 🏆 Achievements |
 |-------------|---------------|----------------|
 | IT @ UOM | Academic,Personal & Open Source Projects | 19+ Certificates |
-| Cloud & Cyber Security | Full-Stack Fundamentals | HackerRank ⭐ |
-| AI/ML Basics | Database Design | Cisco Certified |
+| Cloud & Cyber Security | Full-Stack Fundamentals | HackerRank ⭐& Cisco |
+
 
 </div>
 
