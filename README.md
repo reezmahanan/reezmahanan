@@ -50,12 +50,12 @@
 
 <div align="center">
   
-### 🌟 Quick Highlights
+###  Quick Highlights
 
-| 🎓 Education | 💼 Experience | 🏆 Achievements |
+|  Education |  Experience |  Achievements |
 |-------------|---------------|----------------|
 | IT @ UOM | Academic,Personal & Open Source Projects | 19+ Certificates |
-| Cloud & Cyber Security | Full-Stack Fundamentals | HackerRank ⭐& Cisco |
+| Cloud & Cyber Security | Full-Stack Fundamentals | HackerRank & Cisco |
 
 
 </div>
@@ -216,7 +216,6 @@
     <td><b>🎬 Video Editing</b></td>
     <td>
       <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/InShot-0099FF?style=for-the-badge"/>
     </td>
   </tr>
 
