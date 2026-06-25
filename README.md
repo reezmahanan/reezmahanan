@@ -50,7 +50,7 @@
 
 <div align="center">
   
-###  Quick Highlights
+### ✨ Quick Highlights
 
 |  Education |  Experience |  Achievements |
 |-------------|---------------|----------------|
