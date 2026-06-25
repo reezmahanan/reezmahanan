@@ -126,7 +126,7 @@
 
 <table>
   <tr>
-    <td><b>💻 Languages</b></td>
+    <td><b> Languages</b></td>
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -137,7 +137,7 @@
   </tr>
 
   <tr>
-    <td><b>☁ Cloud (Beginner)</b></td>
+    <td><b> Cloud (Beginner)</b></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
       <img src="https://img.shields.io/badge/Cloud_Fundamentals-4A154B?style=for-the-badge"/>
@@ -145,7 +145,7 @@
   </tr>
 
   <tr>
-    <td><b>🌐 Web</b></td>
+    <td><b> Web</b></td>
     <td>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -153,14 +153,14 @@
   </tr>
 
   <tr>
-    <td><b>🗄 Databases</b></td>
+    <td><b> Databases</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
     </td>
   </tr>
 
   <tr>
-    <td><b>🚀 Frameworks & Libraries</b></td>
+    <td><b>Frameworks & Libraries</b></td>
     <td>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -169,7 +169,7 @@
   </tr>
 
   <tr>
-    <td><b>🎨 Design</b></td>
+    <td><b>Design</b></td>
     <td>
       <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
       <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
@@ -179,7 +179,7 @@
   </tr>
 
   <tr>
-    <td><b>🔧 Dev Tools</b></td>
+    <td><b>Dev Tools</b></td>
     <td>
       <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
       <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -193,7 +193,7 @@
   </tr>
 
   <tr>
-    <td><b>🖥 Embedded Systems</b></td>
+    <td><b> Embedded Systems</b></td>
     <td>
       <img src="https://img.shields.io/badge/Microchip_Studio-CC0000?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Proteus_8_Professional-1C79B3?style=for-the-badge"/>
@@ -203,24 +203,23 @@
   </tr>
 
   <tr>
-    <td><b>💼 Productivity</b></td>
+    <td><b> Productivity</b></td>
     <td>
       <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
       <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
       <img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Gamma_AI-7B68EE?style=for-the-badge"/>
     </td>
   </tr>
 
   <tr>
-    <td><b>🎬 Video Editing</b></td>
+    <td><b> Video Editing</b></td>
     <td>
       <img src="https://img.shields.io/badge/CapCut-000000?style=for-the-badge"/>
     </td>
   </tr>
 
  <tr>
-    <td><b>📚 Learning Platforms</b></td>
+    <td><b>Learning Platforms</b></td>
     <td>
       <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
       <img src="https://img.shields.io/badge/Cisco_Networking_Academy-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
