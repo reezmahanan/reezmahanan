@@ -43,7 +43,8 @@
 |--------|------|--------------------|
 | **SWOC (Social Winter of Code)** | Open Source Contributor | [View Contributions](https://github.com/archangel2006/SafeHaven) |
 | **OSCG (Open Source Connect Global)** | Open Source Contributor | [View Contributions](https://github.com/Gooichand/blockchain-evidence) |
-
+| **SSOC (Social Summer of Code)** | Open Source Contributor | [View Contributions](https://github.com/AnthropicBots/E-commerce.git) |
+| **GSSOC (GirlScript Summer of Code)** | Open Source Contributor | [View Contributions](https://github.com/SAPTARSHI-coder/EaseMotion-css.git) |
 </div>
 
 ---
@@ -132,6 +133,7 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
       <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
     </td>
   </tr>
@@ -186,8 +188,11 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
       <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
-       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-    <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+      <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+    
   </td>
     </td>
   </tr>
@@ -201,6 +206,13 @@
 </tr>
     </td>
   </tr>
+
+<tr>
+  <td><b>Business Tools</b></td>
+  <td>
+    <img src="https://img.shields.io/badge/Zoho_Books-E42527?style=for-the-badge&logo=zoho&logoColor=white"/>
+  </td>
+</tr>
 
   <tr>
     <td><b> Productivity</b></td>
@@ -249,6 +261,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="50"/>
 
 <!-- Frameworks -->
@@ -277,7 +290,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="50"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" width="50"/>
 
 
 </div>
@@ -324,7 +338,7 @@
 |Cyber Security Essential(LFC108)  | The Linux Foundation | <img width="200" alt="Cyber Security Essential"   src="https://github.com/user-attachments/assets/e2af4b8a-df7d-4be4-91a2-c229685cb44c" />|
 |Hands-On Introduction to Git with GitHub | Udemy | <img width="200" alt="Github"   src="https://github.com/user-attachments/assets/a258b2af-adf3-4bb8-90af-a296a6caf7e9" />|
 |Docker for Absolute Beginner | KodeKloud| <img width="200" alt="docker"    src="https://github.com/user-attachments/assets/2c597dcf-47b4-47c3-a4bb-6ba9f0e86961" />|
-
+| Introduction to C | SoloLearn | <img width="200" alt="C SoloLearn" src="https://github.com/user-attachments/assets/2506be40-a342-4c38-bd8c-98065424a7b4" />|
 
 <div align="center">
 
