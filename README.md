@@ -408,6 +408,9 @@
   <a href="https://www.hackerrank.com/profile/reezmahanan">
     <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=00EA64"/>
   </a>
+  <a href="https://medium.com/@reezmahanan">
+    <img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000"/>
+  </a>
 </p>
 
 <br/>
