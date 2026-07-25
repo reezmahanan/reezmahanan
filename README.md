@@ -139,7 +139,7 @@
   </tr>
 
   <tr>
-    <td><b> Cloud (Beginner)</b></td>
+    <td><b> Cloud </b></td>
     <td>
       <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
       <img src="https://img.shields.io/badge/Cloud_Fundamentals-4A154B?style=for-the-badge"/>
@@ -248,7 +248,7 @@
 
 ---
 
-## 🛠 Tools & Technologies Icons
+## 🛠 Tools & Technologies 
 
 <div align="center">
 
