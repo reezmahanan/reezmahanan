@@ -4,18 +4,20 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Reezma%20Hanan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF61A6&center=true&vCenter=true&width=600&lines=Hi+I'm+Reezma+Hanan;Aspiring+Software+Engineer;IT+Undergraduate+at+ITUM;Open+to+Internship+Opportunities" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF61A6&center=true&vCenter=true&width=700&lines=Hi+I'm+Reezma+Hanan;Aspiring+Full-Stack+Developer;React+%7C+Spring+Boot+Developer;Open+to+Internship+Opportunities;Open+Source+Contributor;Learning+AWS,+AI+%26+Machine+Learning" />
 
 <br/>
 
 <!-- Animated Badges -->
-<img src="https://img.shields.io/badge/💼_Role-Software_Engineer_in_Training-FF61A6?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🎯_Goal-Seeking_Internship-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🌍_Location-Sri_Lanka-00FF88?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/💻_Role-Aspiring_Full--Stack_Developer-FF61A6?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/🔍_Status-Open_to_Internship_Opportunities-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/⚛️_Stack-React_+_Spring_Boot-FFA500?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/🌍_Open_Source-Contributor-8A2BE2?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/📍_Location-Sri_Lanka-00FF88?style=for-the-badge&labelColor=1a1a2e" />
 <br/><br/>
 
 <p align="center">
-  <b><i>"Code with passion, build with purpose, innovate with impact"</i></b>
+  <b><i>"Learn continuously, build consistently, and create solutions that matter. 🚀"</i></b>
 </p>
 
 <!-- Decorative Line -->
@@ -23,15 +25,42 @@
 
 </div>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">  👨‍💻 About Me
 
-- 🎓 IT Student at **Institute of Technology, University of Moratuwa**
-- 💻 Currently learning: **Java, Python, PHP, MySQL & Web Development**
-- ☁️ Exploring: **Cloud Computing, Cyber Security, Backend Development**
-- 🚀 Passionate about building real-world software & full-stack applications
-- 🎯 Goal: Become a skilled **Software Developer **
-- 📫 Reach me: **reezmahanan@gmail.com**
-- 🧩 Fun Fact: I love solving logic puzzles and UI redesigns for fun!
+```javascript
+const reezma = {
+  role: "Aspiring Full-Stack Developer",
+  currentStatus: "Open to Internship Opportunities",
+  techStack: {
+    frontend: ["React"],
+    backend: ["Spring Boot", "Java"],
+    database: ["MySQL"]
+  },
+  interests: [
+    "Full-Stack Web Development",
+    "Backend Systems",
+    "Cloud Computing",
+    "Artificial Intelligence & Machine Learning",
+    "Open Source"
+  ],
+  techMindset: "Build scalable applications with clean, maintainable code",
+  learningFocus: [
+    "React",
+    "Spring Boot",
+    "AWS Cloud",
+    "AI & Machine Learning"
+  ],
+  belief: "Learn continuously, build consistently 🚀"
+};
+```
+
+🔍 Open to Software Engineering & Full-Stack Internship Opportunities
+⚛️ Building modern web applications with **React** & **Spring Boot**
+☕ Passionate about Java, backend development, and scalable architectures
+🌍 Open Source Contributor passionate about collaborating and building impactful projects
+☁️ Exploring AWS Cloud, AI & Machine Learning
+🚀 Always learning, always building
+
 
 <br/>
 
@@ -50,16 +79,13 @@
 ---
 
 <div align="center">
-  
 ### ✨ Quick Highlights
 
-|  Education |  Experience |  Achievements |
-|-------------|---------------|----------------|
-| IT @ UOM | Academic,Personal & Open Source Projects | 19+ Certificates |
-| Cloud & Cyber Security | Full-Stack Fundamentals | HackerRank & Cisco |
-
-
-</div>
+| 🎓 Education | 💻 Experience | 🏆 Achievements |
+|--------------|---------------|-----------------|
+| IT Undergraduate @ ITUM | Academic, Personal & Open Source Projects | 19+ Professional Certificates |
+| React • Spring Boot • Java | Open Source Contributor | Cisco, HackerRank & GitHub |
+| AWS Cloud & Backend Development | Open to Internship Opportunities | Continuous Learner 🚀 |
 
 ---
 
@@ -393,35 +419,33 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### 🌐 Find Me Around The Web
+### 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reezma-hanan">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:reezmahanan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836"/>
+    <img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/reezmahanan">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/profile/reezmahanan">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=00EA64"/>
+    <img src="https://img.shields.io/badge/HackerRank-Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
   </a>
   <a href="https://medium.com/@reezmahanan">
-    <img src="https://img.shields.io/badge/Medium-Follow-000000?style=for-the-badge&logo=medium&logoColor=white&labelColor=000000"/>
+    <img src="https://img.shields.io/badge/Medium-Read_Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 </p>
 
-<br/>
-
-### 💬 Open For
+### 💬 Open To
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🤝-Collaborations-FF61A6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💼-Internships-00D9FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🎓-Learning_Together-00FF88?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💡-Project_Ideas-FFD700?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💼-Software_Engineering_Internships-00D9FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🤝-Open_Source_Collaboration-FF61A6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚀-React_&_Spring_Boot_Projects-FFA500?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/☁️-AWS_&_Cloud_Learning-00FF88?style=for-the-badge"/>
 </p>
 
 </div>
@@ -432,20 +456,16 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### ⭐ If you find my work inspiring
 
-<p align="center">
-  <img src="https://img.shields.io/badge/⭐_Star-My_Repos-FFD700?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🍴_Fork-Projects-FF61A6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/📣_Share-With_Others-00D9FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💬_Feedback-Welcome-00FF88?style=for-the-badge"/>
-</p>
+## ⭐ Support My Journey
 
-<br/>
+If you enjoy my projects or find them useful, consider:
 
-### 🚀 Quick Deploy
+⭐ Starring my repositories  
+🍴 Forking a project and contributing  
+💬 Sharing feedback and suggestions  
+🤝 Collaborating on open-source projects
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/reezmahanan/reezmahanan)
 
 ---
 
@@ -467,8 +487,14 @@
   <img src="https://img.shields.io/badge/Built_by-Reezma_Hanan-00D9FF?style=for-the-badge"/>
 </p>
 
-<sub>© 2026 Reezma Hanan • Last Updated: July 2026 • Built with passion in Sri Lanka 🇱🇰</sub>
+<p align="center">
+  <img src="https://img.shields.io/badge/Built_with-❤️_&_Coffee-FF61A6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-00D9FF?style=for-the-badge"/>
+</p>
 
+<sub>
+© 2026 Reezma Hanan • Software Engineering Enthusiast • Sri Lanka 🇱🇰
+</sub>
 <br/><br/>
 
 <!-- Thank You Message -->
