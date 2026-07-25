@@ -54,17 +54,18 @@ const reezma = {
 };
 ```
 
-🔍 Open to Software Engineering & Full-Stack Internship Opportunities
-⚛️ Building modern web applications with **React** & **Spring Boot**
-☕ Passionate about Java, backend development, and scalable architectures
-🌍 Open Source Contributor passionate about collaborating and building impactful projects
-☁️ Exploring AWS Cloud, AI & Machine Learning
-🚀 Always learning, always building
+-🔍 Open to Software Engineering & Full-Stack Internship Opportunities
+-⚛️ Building modern web applications with **React** & **Spring Boot**
+-☕ Passionate about Java, backend development, and scalable architectures
+-🌍 Open Source Contributor passionate about collaborating and building impactful projects
+-☁️ Exploring AWS Cloud, AI & Machine Learning
+-🚀 Always learning, always building
 
 
 <br/>
 
 <div align="center">
+
 
 ### 🚀 Contributor Programs & Contributions
 
@@ -79,6 +80,8 @@ const reezma = {
 ---
 
 <div align="center">
+
+  
 ### ✨ Quick Highlights
 
 | 🎓 Education | 💻 Experience | 🏆 Achievements |
