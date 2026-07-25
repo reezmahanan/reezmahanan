@@ -27,6 +27,8 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">  👨‍💻 About Me
 
+
+
 ```javascript
 const reezma = {
   role: "Aspiring Full-Stack Developer",
@@ -54,15 +56,17 @@ const reezma = {
 };
 ```
 
--🔍 Open to Software Engineering & Full-Stack Internship Opportunities
--⚛️ Building modern web applications with **React** & **Spring Boot**
--☕ Passionate about Java, backend development, and scalable architectures
--🌍 Open Source Contributor passionate about collaborating and building impactful projects
--☁️ Exploring AWS Cloud, AI & Machine Learning
--🚀 Always learning, always building
+- 🔍 Open to **Software Engineering** & **Full-Stack Internship Opportunities**
+- ⚛️ Building modern web applications with **React** & **Spring Boot**
+- ☕ Passionate about **Java**, backend development, and scalable architectures
+- 🌍 Open Source Contributor passionate about collaborating and building impactful projects
+- ☁️ Exploring **AWS Cloud**, **AI**, and **Machine Learning**
+- 🚀 Always learning, always building
 
 
 <br/>
+
+---
 
 <div align="center">
 
