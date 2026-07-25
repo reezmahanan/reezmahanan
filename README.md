@@ -54,7 +54,7 @@ const reezma = {
     "AWS Cloud",
     "AI & Machine Learning"
   ],
-  belief: "Learn continuously, build consistently 🚀"
+  belief: "Learn continuously, contributing openly, building consistently 🌱"
 };
 ```
 
