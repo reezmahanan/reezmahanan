@@ -9,7 +9,7 @@
 <br/>
 
 <!-- Animated Badges -->
-<img src="https://img.shields.io/badge/💼_Career-Aspiring_Software_Engineer-FF61A6?style=for-the-badge&labelColor=1a1a2e" />
+
 <img src="https://img.shields.io/badge/💻_Role-Aspiring_Full--Stack_Developer-9B59B6?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/🔍_Status-Open_to_Software_Engineering_Internships-00D9FF?style=for-the-badge&labelColor=1a1a2e" />
 <img src="https://img.shields.io/badge/⚛️_Stack-React_+_Spring_Boot-FFA500?style=for-the-badge&labelColor=1a1a2e" />
