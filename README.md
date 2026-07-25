@@ -495,12 +495,6 @@ If you enjoy my projects or find them useful, consider:
   <img src="https://img.shields.io/badge/Made_with-💖-FF61A6?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Built_by-Reezma_Hanan-00D9FF?style=for-the-badge"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Built_with-❤️_&_Coffee-FF61A6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open_Source-Contributor-00D9FF?style=for-the-badge"/>
-</p>
-
 <sub>
 © 2026 Reezma Hanan • Software Engineering Enthusiast • Sri Lanka 🇱🇰
 </sub>
