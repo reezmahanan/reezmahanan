@@ -71,8 +71,7 @@ I am an **Information Technology Undergraduate at ITUM** passionate about buildi
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
   </a>&nbsp;
-  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=canva&logoColor=00C4CC" height="40" title="Canva"/>&nbsp;
-  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" height="40" title="CapCut"/>
+ 
 </p>
 
 
@@ -84,22 +83,22 @@ I am an **Information Technology Undergraduate at ITUM** passionate about buildi
 
 Here are the key projects highlighting my design, frontend, and full-stack backend capabilities:
 
-### 1. 📦 [SCM - Inventory Management System](https://github.com/reezmahanan/SCM-IMS)
+### 1.  [SCM - Inventory Management System](https://github.com/reezmahanan/SCM-IMS)
 * **Description:** A robust enterprise supply chain and inventory control system built for tracking products, managing stock, and viewing business insights.
 * **Tech Stack:** `React`, `Spring Boot`, `MySQL`, `REST API`
 * **Key Achievements:** Implemented secure JWT authentication, dynamic dashboard analytics, and relational database integrity constraints.
 
-### 2. 📚 [Book Nest (Group Project)](https://github.com/reezmahanan/BookNest)
+### 2.  [Book Nest (Group Project)](https://github.com/reezmahanan/BookNest)
 * **Description:** A digital bookstore web application supporting user authentication, book catalog browsing, searching, and cart functionality.
 * **Tech Stack:** `HTML5`, `CSS3`, `JavaScript`, `PHP`, `MySQL`
 * **Key Achievements:** Developed in a team setting utilizing standard Git workflows, highlighting collaborative coordination and MVC-pattern PHP backend design.
 
-### 3. 🎟️ [Event Hub](https://github.com/reezmahanan/Student-Event-Management-Web-Application)
+### 3. ️ [Event Hub](https://github.com/reezmahanan/Student-Event-Management-Web-Application)
 * **Description:** A student event management web application that simplifies organizing and registering for campus events.
 * **Tech Stack:** `HTML5`, `CSS3`, `JavaScript`, `PHP`, `MySQL`
 * **Key Achievements:** Built full CRUD functionalities for administrators to coordinate events and users to securely book slots.
 
-### 4. 🍳 [ReciPick](https://github.com/reezmahanan/RECIPICK)
+### 4.  [ReciPick](https://github.com/reezmahanan/RECIPICK)
 * **Description:** A clean and responsive recipe search application that helps users find culinary instructions based on available ingredients.
 * **Tech Stack:** `React`, `Vite`, `CSS3`
 * **Key Achievements:** Achieved lightning-fast client-side search and modern components design with highly polished styling.
