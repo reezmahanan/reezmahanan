@@ -410,7 +410,7 @@ const reezma = {
 |Reezma-Hanan-Portfolio | React|[Repo](https://github.com/reezmahanan/Reezma-Hanan-Portfolio) |
 |SCM - Inventory Management System | React , Spring Boot , MySQL|[Repo](https://github.com/reezmahanan/SCM-IMS) |
 |ReciPick | React , Vite , CSS|[Repo](https://github.com/reezmahanan/RECIPICK) |
-| Weather App | HTML, CSS, JS, PHP |[Repo](https://github.com/reezmahanan/Weather-App) |
+| Weather App | React ,Vite|[Repo](https://github.com/reezmahanan/Weather-App) |
 | TasteVerse(Frontend) | HTML, CSS, JS |[Repo](https://github.com/reezmahanan/TasteVerse.git) |
 | Reezma Tech Services(Frontend) | HTML, CSS, JS | [Repo](https://github.com/reezmahanan/Reezma-tech-service)
 | CareerBridge(Frontend)| HTML, CSS, JS | [Repo](https://github.com/reezmahanan/CareerBridge) |
