@@ -83,7 +83,7 @@ I am an **Information Technology Undergraduate at ITUM** passionate about buildi
 
 Here are the key projects highlighting my design, frontend, and full-stack backend capabilities:
 
-### 1.  [SCM - Inventory Management System](https://github.com/reezmahanan/SCM-IMS)
+### 1.  [SCM - Inventory Management System(Group Project)](https://github.com/reezmahanan/SCM-IMS)
 * **Description:** A robust enterprise supply chain and inventory control system built for tracking products, managing stock, and viewing business insights.
 * **Tech Stack:** `React`, `Spring Boot`, `MySQL`, `REST API`
 * **Key Achievements:** Implemented secure JWT authentication, dynamic dashboard analytics, and relational database integrity constraints.
