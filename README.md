@@ -397,7 +397,7 @@ const reezma = {
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### 🚀 18+ Real-World Projects Built
+### 🚀 5+ Real-World Projects Built
 
 </div>
 
@@ -414,10 +414,7 @@ const reezma = {
 | TasteVerse(Frontend) | HTML, CSS, JS |[Repo](https://github.com/reezmahanan/TasteVerse.git) |
 | Reezma Tech Services(Frontend) | HTML, CSS, JS | [Repo](https://github.com/reezmahanan/Reezma-tech-service)
 | CareerBridge(Frontend)| HTML, CSS, JS | [Repo](https://github.com/reezmahanan/CareerBridge) |
-|Library Management System |Java | [Repo](https://github.com/reezmahanan/Library-Management-System) |
-|Student Management System |Java | [Repo](https://github.com/reezmahanan/Student-Management-System) |
-| Animated Weather System | Python | [Repo](https://github.com/reezmahanan/weather-system) |
-| Solar System Simulator | Python | [Repo](https://github.com/reezmahanan/solar-system-simulator) |
+
 
 
 </div>
