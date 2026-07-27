@@ -36,12 +36,11 @@ I am an **Information Technology Undergraduate at ITUM** passionate about buildi
 - 🚀 **Continuous Growth:** Expanding my skillset into **AWS Cloud**, and **AI/ML**
 
 ---
-
 ## 🛠️ Technical Skills & Expertise
 
 ### 💻 Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,js,py,php,c,matlab" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,php,c,matlab" />
 </a>
 
 ### ⚛️ Frameworks & Libraries
@@ -69,7 +68,6 @@ I am an **Information Technology Undergraduate at ITUM** passionate about buildi
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
   </a>&nbsp;
- 
 </p>
 
 
