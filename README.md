@@ -9,7 +9,6 @@
 <br/>
 
 <!-- Status & Focus Badges -->
-<a href="https://spectacular-narwhal-9eb659.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-spectacular--narwhal-FF61A6?style=for-the-badge&labelColor=1a1a2e" /></a>
 <a href="https://www.linkedin.com/in/reezma-hanan"><img src="https://img.shields.io/badge/💻_Role-Aspiring_Full--Stack_Developer-9B59B6?style=for-the-badge&labelColor=1a1a2e" /></a>
 <a href="mailto:reezmahanan@gmail.com"><img src="https://img.shields.io/badge/🔍_Status-Open_to_Internships-00D9FF?style=for-the-badge&labelColor=1a1a2e" /></a>
 <a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/⚛️_Stack-React_+_Spring_Boot-FFA500?style=for-the-badge&labelColor=1a1a2e" /></a>
@@ -65,41 +64,14 @@ I am an **Information Technology Undergraduate at ITUM** passionate about buildi
   <img src="https://skillicons.dev/icons?i=git,github,npm,postman,idea,vscode" />
 </a>
 
-### 🔌 Embedded Systems & Hardware
-<p align="left">
-  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=arduino&logoColor=00979D" height="40" title="Microchip Studio (Arduino)"/>&nbsp;
-  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=kicad&logoColor=31698a" height="40" title="Proteus 8 Professional (KiCad)"/>
-</p>
-
 ### 🎨 UI/UX & Design
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
   </a>&nbsp;
-  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=canva&logoColor=00C4CC" height="40" title="Canva"/>&nbsp;
-  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" height="40" title="CapCut"/>
+ 
 </p>
 
-### 📊 Productivity & Business
-<p align="left">
-  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=microsoftexcel&logoColor=217346" height="40" title="Microsoft Excel"/>&nbsp;
-  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=microsoftword&logoColor=2B579A" height="40" title="Microsoft Word"/>&nbsp;
-  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=microsoftpowerpoint&logoColor=B7472A" height="40" title="Microsoft PowerPoint"/>&nbsp;
-  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=zoho&logoColor=E42527" height="40" title="Zoho Books"/>
-</p>
-
-### 🎓 Learning Platforms
-<p align="left">
-  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=00EA64" height="40" title="HackerRank"/>&nbsp;
-  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=cisco&logoColor=1BA0D7" height="40" title="Cisco Academy"/>&nbsp;
-  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=microsoft&logoColor=0078D4" height="40" title="Microsoft Learn"/>&nbsp;
-  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=udemy&logoColor=A435F0" height="40" title="Codl LMS UOM (Udemy)"/>&nbsp;
-  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=w3schools&logoColor=04AAAB" height="40" title="W3Schools"/>&nbsp;
-  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=sololearn&logoColor=149EF2" height="40" title="SoloLearn"/>&nbsp;
-  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" height="40" title="GeeksforGeeks"/>&nbsp;
-  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="40" title="AWS Educate"/>&nbsp;
-  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=coursera&logoColor=0056D2" height="40" title="Simplilearn (Coursera)"/>
-</p>
 
 ---
 
@@ -195,7 +167,7 @@ Here are the key projects highlighting my design, frontend, and full-stack backe
 | **Reezma-Hanan-Portfolio** | React | [Repo](https://github.com/reezmahanan/Reezma-Hanan-Portfolio) • [Live](https://spectacular-narwhal-9eb659.netlify.app/) |
 | **Weather App** | React, Vite | [Link](https://github.com/reezmahanan/Weather-App) |
 | **TasteVerse (Frontend)** | HTML, CSS, JS | [Link](https://github.com/reezmahanan/TasteVerse.git) |
-| **Reezma Tech Services (Frontend)** | HTML, CSS, JS | [Link](https://github.com/reezmahanan/Reezma-tech-service) |
+| **Reezma Tech Services (Frontend)** | HTML, CSS, JS | [Link](https://github.com/reezmahanan/Reezma-tech-services) |
 | **CareerBridge (Frontend)** | HTML, CSS, JS | [Link](https://github.com/reezmahanan/CareerBridge) |
 
 </details>
