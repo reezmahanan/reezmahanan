@@ -9,6 +9,7 @@
 <br/>
 
 <!-- Status & Focus Badges -->
+<a href="https://spectacular-narwhal-9eb659.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-spectacular--narwhal-FF61A6?style=for-the-badge&labelColor=1a1a2e" /></a>
 <a href="https://www.linkedin.com/in/reezma-hanan"><img src="https://img.shields.io/badge/💻_Role-Aspiring_Full--Stack_Developer-9B59B6?style=for-the-badge&labelColor=1a1a2e" /></a>
 <a href="mailto:reezmahanan@gmail.com"><img src="https://img.shields.io/badge/🔍_Status-Open_to_Internships-00D9FF?style=for-the-badge&labelColor=1a1a2e" /></a>
 <a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/⚛️_Stack-React_+_Spring_Boot-FFA500?style=for-the-badge&labelColor=1a1a2e" /></a>
@@ -63,52 +64,134 @@ I am an **Information Technology Undergraduate at ITUM** passionate about buildi
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,npm,postman,idea,vscode" />
 </a>
-
-
+### 🔌 Embedded Systems & Hardware
+<p align="left">
+  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=arduino&logoColor=00979D" height="40" title="Microchip Studio (Arduino)"/>&nbsp;
+  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=kicad&logoColor=31698a" height="40" title="Proteus 8 Professional (KiCad)"/>
+</p>
 
 ### 🎨 UI/UX & Design
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
   </a>&nbsp;
- 
+  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=canva&logoColor=00C4CC" height="40" title="Canva"/>&nbsp;
+  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF" height="40" title="CapCut"/>
 </p>
 
+### 📊 Productivity & Business
+<p align="left">
+  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=microsoftexcel&logoColor=217346" height="40" title="Microsoft Excel"/>&nbsp;
+  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=microsoftword&logoColor=2B579A" height="40" title="Microsoft Word"/>&nbsp;
+  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=microsoftpowerpoint&logoColor=B7472A" height="40" title="Microsoft PowerPoint"/>&nbsp;
+  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=zoho&logoColor=E42527" height="40" title="Zoho Books"/>
+</p>
 
-
+### 🎓 Learning Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=hackerrank&logoColor=00EA64" height="40" title="HackerRank"/>&nbsp;
+  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=cisco&logoColor=1BA0D7" height="40" title="Cisco Academy"/>&nbsp;
+  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=microsoft&logoColor=0078D4" height="40" title="Microsoft Learn"/>&nbsp;
+  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=udemy&logoColor=A435F0" height="40" title="Codl LMS UOM (Udemy)"/>&nbsp;
+  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=w3schools&logoColor=04AAAB" height="40" title="W3Schools"/>&nbsp;
+  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=sololearn&logoColor=149EF2" height="40" title="SoloLearn"/>&nbsp;
+  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" height="40" title="GeeksforGeeks"/>&nbsp;
+  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=FF9900" height="40" title="AWS Educate"/>&nbsp;
+  <img src="https://img.shields.io/badge/-%20-1a1a2e?style=for-the-badge&logo=coursera&logoColor=0056D2" height="40" title="Simplilearn (Coursera)"/>
+</p>
 
 ---
 
-## 🚀 Featured Projects
+## ⚙️ Software Development Workflow
+
+> How I think about building clean, scalable software — from user requirements to production-ready code.
+
+```mermaid
+graph LR
+    A["📄 Requirements"] --> B["📐 System & DB Design"]
+    B --> C["⚛️ React UI"]
+    B --> D["☕ Spring Boot API"]
+    C --> E["🔄 Integration & Testing"]
+    D --> E
+    E --> F["🐳 Containerization"]
+    F --> G["🚀 Deployment"]
+
+    style A fill:#0d1117,stroke:#00d9ff,stroke-width:2px,color:#ffffff
+    style B fill:#0d1117,stroke:#00d9ff,stroke-width:2px,color:#ffffff
+    style C fill:#0d1117,stroke:#ffa500,stroke-width:2px,color:#ffffff
+    style D fill:#0d1117,stroke:#6db33f,stroke-width:2px,color:#ffffff
+    style E fill:#0d1117,stroke:#00ff88,stroke-width:2px,color:#ffffff
+    style F fill:#0d1117,stroke:#2496ed,stroke-width:2px,color:#ffffff
+    style G fill:#0d1117,stroke:#8a2be2,stroke-width:2px,color:#ffffff
+```
+
+---
+
+## 📌 Featured Projects
 
 Here are the key projects highlighting my design, frontend, and full-stack backend capabilities:
 
-### 1.  [SCM - Inventory Management System](https://github.com/reezmahanan/SCM-IMS)
-* **Description:** A robust enterprise supply chain and inventory control system built for tracking products, managing stock, and viewing business insights.
-* **Tech Stack:** `React`, `Spring Boot`, `MySQL`, `REST API`
-* **Key Achievements:** Implemented secure JWT authentication, dynamic dashboard analytics, and relational database integrity constraints.
-
-### 2.  [Book Nest (Group Project)](https://github.com/reezmahanan/BookNest)
-* **Description:** A digital bookstore web application supporting user authentication, book catalog browsing, searching, and cart functionality.
-* **Tech Stack:** `HTML5`, `CSS3`, `JavaScript`, `PHP`, `MySQL`
-* **Key Achievements:** Developed in a team setting utilizing standard Git workflows, highlighting collaborative coordination and MVC-pattern PHP backend design.
-
-### 3. ️ [Event Hub](https://github.com/reezmahanan/Student-Event-Management-Web-Application)
-* **Description:** A student event management web application that simplifies organizing and registering for campus events.
-* **Tech Stack:** `HTML5`, `CSS3`, `JavaScript`, `PHP`, `MySQL`
-* **Key Achievements:** Built full CRUD functionalities for administrators to coordinate events and users to securely book slots.
-
-### 4.  [ReciPick](https://github.com/reezmahanan/RECIPICK)
-* **Description:** A clean and responsive recipe search application that helps users find culinary instructions based on available ingredients.
-* **Tech Stack:** `React`, `Vite`, `CSS3`
-* **Key Achievements:** Achieved lightning-fast client-side search and modern components design with highly polished styling.
+<table width="100%">
+  <tr>
+    <!-- Project 1 -->
+    <td width="50%" valign="top">
+      <h4>📦 <a href="https://github.com/reezmahanan/SCM-IMS">SCM - Inventory Management System</a></h4>
+      <p>A robust enterprise supply chain and inventory control system built for tracking products, managing stock, and viewing business insights.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/github/stars/reezmahanan/SCM-IMS?style=flat-square&color=blue" />&nbsp;
+        <img src="https://img.shields.io/github/last-commit/reezmahanan/SCM-IMS?style=flat-square" />
+      </p>
+    </td>
+    <!-- Project 2 -->
+    <td width="50%" valign="top">
+      <h4>📚 <a href="https://github.com/reezmahanan/BookNest">Book Nest (Group Project)</a></h4>
+      <p>A digital bookstore web application supporting user authentication, book catalog browsing, searching, and cart functionality.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/github/stars/reezmahanan/BookNest?style=flat-square&color=blue" />&nbsp;
+        <img src="https://img.shields.io/github/last-commit/reezmahanan/BookNest?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 3 -->
+    <td width="50%" valign="top">
+      <h4>🎟️ <a href="https://github.com/reezmahanan/Student-Event-Management-Web-Application">Event Hub</a></h4>
+      <p>A student event management web application that simplifies organizing and registering for campus events.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/github/stars/reezmahanan/Student-Event-Management-Web-Application?style=flat-square&color=blue" />&nbsp;
+        <img src="https://img.shields.io/github/last-commit/reezmahanan/Student-Event-Management-Web-Application?style=flat-square" />
+      </p>
+    </td>
+    <!-- Project 4 -->
+    <td width="50%" valign="top">
+      <h4>🍳 <a href="https://github.com/reezmahanan/RECIPICK">ReciPick</a></h4>
+      <p>A clean and responsive recipe search application that helps users find culinary instructions based on available ingredients.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/github/stars/reezmahanan/RECIPICK?style=flat-square&color=blue" />&nbsp;
+        <img src="https://img.shields.io/github/last-commit/reezmahanan/RECIPICK?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary>📂 View More Projects</summary>
 
 | Project | Stack | Repository |
 | :--- | :--- | :--- |
-| **Reezma-Hanan-Portfolio** | React | [Link](https://github.com/reezmahanan/Reezma-Hanan-Portfolio) |
+| **Reezma-Hanan-Portfolio** | React | [Repo](https://github.com/reezmahanan/Reezma-Hanan-Portfolio) • [Live](https://spectacular-narwhal-9eb659.netlify.app/) |
 | **Weather App** | React, Vite | [Link](https://github.com/reezmahanan/Weather-App) |
 | **TasteVerse (Frontend)** | HTML, CSS, JS | [Link](https://github.com/reezmahanan/TasteVerse.git) |
 | **Reezma Tech Services (Frontend)** | HTML, CSS, JS | [Link](https://github.com/reezmahanan/Reezma-tech-service) |
@@ -237,12 +320,12 @@ I actively collaborate on community-driven open-source projects, which allows me
   <tr>
     <td>
       <a href="https://github.com/reezmahanan">
-        <img src="https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff61a6&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" height="180"/>
+        <img src="https://github-stats-extended.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff61a6&icon_color=00d9ff&text_color=ffffff&cache=1" alt="GitHub Stats" height="180"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/reezmahanan">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ff61a6&text_color=ffffff" alt="Top Languages" height="180"/>
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ff61a6&text_color=ffffff&cache=1" alt="Top Languages" height="180"/>
       </a>
     </td>
   </tr>
@@ -256,7 +339,7 @@ I actively collaborate on community-driven open-source projects, which allows me
 
 #### 🏆 GitHub Trophies
 <a href="https://github.com/reezmahanan">
-  <img src="https://github-profile-trophy.vercel.app/?username=reezmahanan&theme=radical&no-frame=true&no-bg=false&row=1&column=7" alt="Profile Trophy" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=reezmahanan&row=2&column=7&no-bg=true&no-frame=true&cache=1" alt="Profile Trophy" />
 </a>
 
 <br/><br/>
@@ -278,6 +361,7 @@ I'm always excited about new challenges, learning opportunities, and collaborati
 
 <div align="center">
 
+<a href="https://spectacular-narwhal-9eb659.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF61A6?style=for-the-badge&logo=react&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/reezma-hanan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="mailto:reezmahanan@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
@@ -285,6 +369,17 @@ I'm always excited about new challenges, learning opportunities, and collaborati
 <a href="https://medium.com/@reezmahanan"><img src="https://img.shields.io/badge/Medium-Read_Articles-000000?style=for-the-badge&logo=medium&logoColor=white"/></a>
 
 <br/><br/>
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+</p>
+
+
+<p align="center">
+  ⭐ If something here was useful, a star on a repo goes a long way.
+</p>
+
+<br/>
 
 <!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
