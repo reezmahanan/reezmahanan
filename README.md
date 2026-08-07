@@ -40,7 +40,7 @@ I am an **Information Technology Undergraduate at ITUM** passionate about buildi
 
 ### 💻 Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,py,php,c,matlab" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,py,php,c" />
 </a>
 
 ### ⚛️ Frameworks & Libraries
