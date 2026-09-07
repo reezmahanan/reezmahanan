@@ -106,7 +106,7 @@ Here are the key projects highlighting my design, frontend, and full-stack backe
   <tr>
     <!-- Project 1 -->
     <td width="50%" valign="top">
-      <h4>📦 <a href="https://github.com/reezmahanan/SCM-IMS">SCM - Inventory Management System</a></h4>
+      <h4>📦 <a href="https://github.com/reezmahanan/SCM-IMS">SCM - Inventory Management System(Group Project) </a></h4>
       <p>A robust enterprise supply chain and inventory control system built for tracking products, managing stock, and viewing business insights.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
@@ -118,7 +118,7 @@ Here are the key projects highlighting my design, frontend, and full-stack backe
     </td>
     <!-- Project 2 -->
     <td width="50%" valign="top">
-      <h4>📚 <a href="https://github.com/reezmahanan/BookNest">Book Nest (Group Project)</a></h4>
+      <h4>📚 <a href="https://github.com/reezmahanan/BookNest">Book Nest(Group Project)</a></h4>
       <p>A digital bookstore web application supporting user authentication, book catalog browsing, searching, and cart functionality.</p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />&nbsp;
