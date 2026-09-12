@@ -26,7 +26,7 @@
 
 </div>
 
-## 👨💻 About Me
+## 👨‍💻 About Me
 
 I am an **Information Technology Undergraduate at ITUM** passionate about building modern web applications, robust backend systems, and data-driven solutions. With a strong foundation in **Java, React, Spring Boot, Laravel, Node.js, and Python**, I focus on writing clean, scalable, and maintainable code. 
 
