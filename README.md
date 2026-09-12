@@ -4,14 +4,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Reezma%20Hanan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF61A6&center=true&vCenter=true&width=850&lines=Hi+I'm+Reezma+Hanan;Aspiring+Software+Engineer;Full-Stack+Web+Developer;React+%7C+Spring+Boot+Developer;Open+to+Software+Engineering+Internships;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF61A6&center=true&vCenter=true&width=850&lines=Hi+I'm+Reezma+Hanan;Aspiring+Software+Engineer;Full-Stack+Web+Developer;React+%7C+Spring+Boot+%7C+Laravel;Machine+Learning+Enthusiast;Open+to+Software+Engineering+Internships;Open+Source+Contributor" />
 
 <br/>
 
 <!-- Status & Focus Badges -->
 <a href="https://www.linkedin.com/in/reezma-hanan"><img src="https://img.shields.io/badge/💻_Role-Aspiring_Full--Stack_Developer-9B59B6?style=for-the-badge&labelColor=1a1a2e" /></a>
 <a href="mailto:reezmahanan@gmail.com"><img src="https://img.shields.io/badge/🔍_Status-Open_to_Internships-00D9FF?style=for-the-badge&labelColor=1a1a2e" /></a>
-<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/⚛️_Stack-React_+_Spring_Boot-FFA500?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/⚛️_Stack-React_+_Spring_Boot_+_Laravel-FFA500?style=for-the-badge&labelColor=1a1a2e" /></a>
 <a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/🌍_Open_Source-Contributor-8A2BE2?style=for-the-badge&labelColor=1a1a2e" /></a>
 <a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/📍_Location-Sri_Lanka-00FF88?style=for-the-badge&labelColor=1a1a2e" /></a>
 
@@ -26,14 +26,14 @@
 
 </div>
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
-I am an **Information Technology Undergraduate at ITUM** passionate about building modern web applications, backend systems, and cloud architectures. With a strong foundation in Java, React, and Spring Boot, I focus on writing clean, scalable, and maintainable code. 
+I am an **Information Technology Undergraduate at ITUM** passionate about building modern web applications, robust backend systems, and data-driven solutions. With a strong foundation in **Java, React, Spring Boot, Laravel, Node.js, and Python**, I focus on writing clean, scalable, and maintainable code. 
 
 - 🔍 **Active Search:** Open to **Software Engineering** and **Full-Stack Developer Internships** where I can add value while expanding my technical skills.
-- ⚡ **Technical Strengths:** Full-stack development with **React & Spring Boot**, database design, and version control.
+- ⚡ **Technical Strengths:** Full-stack development with **React, Spring Boot, Node.js & Laravel**, RESTful API architecture, database design, and Machine Learning.
 - 🤝 **Community & Collaboration:** Active Open Source Contributor, participating in global programs like SWOC, GSSOC, and others.
-- 🚀 **Continuous Growth:** Expanding my skillset into **AWS Cloud**, and **AI/ML**
+- 🚀 **Continuous Growth:** Expanding my skillset into **AWS Cloud**, and **AI/ML systems**.
 
 ---
 ## 🛠️ Technical Skills & Expertise
@@ -45,12 +45,12 @@ I am an **Information Technology Undergraduate at ITUM** passionate about buildi
 
 ### ⚛️ Frameworks & Libraries
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=spring,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,laravel" />
 </a>
 
 ### 🌐 Frontend & Databases
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,mysql" />
 </a>
 
 ### ☁️ Cloud & DevOps
@@ -80,34 +80,37 @@ I am an **Information Technology Undergraduate at ITUM** passionate about buildi
 ```mermaid
 graph LR
     A["📄 Requirements"] --> B["📐 System & DB Design"]
-    B --> C["⚛️ React UI"]
-    B --> D["☕ Spring Boot API"]
-    C --> E["🔄 Integration & Testing"]
-    D --> E
-    E --> F["🐳 Containerization"]
-    F --> G["🚀 Deployment"]
+    B --> C["⚛️ Frontend (React / HTML5 & CSS3 / Blade)"]
+    B --> D["☕ Backend APIs (Spring Boot / Node / Laravel)"]
+    B --> E["🤖 ML Models (Scikit-Learn)"]
+    C --> F["🔄 Integration & Validation"]
+    D --> F
+    E --> F
+    F --> G["🐳 Containerization"]
+    G --> H["🚀 Deployment"]
 
     style A fill:#0d1117,stroke:#00d9ff,stroke-width:2px,color:#ffffff
     style B fill:#0d1117,stroke:#00d9ff,stroke-width:2px,color:#ffffff
     style C fill:#0d1117,stroke:#ffa500,stroke-width:2px,color:#ffffff
     style D fill:#0d1117,stroke:#6db33f,stroke-width:2px,color:#ffffff
-    style E fill:#0d1117,stroke:#00ff88,stroke-width:2px,color:#ffffff
-    style F fill:#0d1117,stroke:#2496ed,stroke-width:2px,color:#ffffff
-    style G fill:#0d1117,stroke:#8a2be2,stroke-width:2px,color:#ffffff
+    style E fill:#0d1117,stroke:#ff61a6,stroke-width:2px,color:#ffffff
+    style F fill:#0d1117,stroke:#00ff88,stroke-width:2px,color:#ffffff
+    style G fill:#0d1117,stroke:#2496ed,stroke-width:2px,color:#ffffff
+    style H fill:#0d1117,stroke:#8a2be2,stroke-width:2px,color:#ffffff
 ```
 
 ---
 
 ## 📌 Featured Projects
 
-Here are the key projects highlighting my design, frontend, and full-stack backend capabilities:
+Here are key projects highlighting my full-stack, backend architecture, and machine learning capabilities:
 
 <table width="100%">
   <tr>
-    <!-- Project 1 -->
+    <!-- Project 1: SCM IMS -->
     <td width="50%" valign="top">
-      <h4>📦 <a href="https://github.com/reezmahanan/SCM-IMS">SCM - Inventory Management System(Group Project) </a></h4>
-      <p>A robust enterprise supply chain and inventory control system built for tracking products, managing stock, and viewing business insights.</p>
+      <h4>📦 <a href="https://github.com/reezmahanan/SCM-IMS">SCM - Inventory Management System (Group Project)</a></h4>
+      <p>An enterprise supply chain and inventory control system built for tracking products, managing stock, and viewing business insights.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />&nbsp;
@@ -116,42 +119,43 @@ Here are the key projects highlighting my design, frontend, and full-stack backe
         <img src="https://img.shields.io/github/last-commit/reezmahanan/SCM-IMS?style=flat-square" />
       </p>
     </td>
-    <!-- Project 2 -->
+    <!-- Project 2: StudyScore AI -->
     <td width="50%" valign="top">
-      <h4>📚 <a href="https://github.com/reezmahanan/BookNest">Book Nest(Group Project)</a></h4>
-      <p>A digital bookstore web application supporting user authentication, book catalog browsing, searching, and cart functionality.</p>
+      <h4>🎓 <a href="https://github.com/reezmahanan/StudyScore-AI">StudyScore AI – Student Performance Prediction</a></h4>
+      <p>An end-to-end Machine Learning web application predicting exam scores from study hours using Linear Regression with 99.4% R² accuracy.</p>
       <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/github/stars/reezmahanan/BookNest?style=flat-square&color=blue" />&nbsp;
-        <img src="https://img.shields.io/github/last-commit/reezmahanan/BookNest?style=flat-square" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/github/stars/reezmahanan/StudyScore-AI?style=flat-square&color=blue" />&nbsp;
+        <img src="https://img.shields.io/github/last-commit/reezmahanan/StudyScore-AI?style=flat-square" />
       </p>
     </td>
   </tr>
   <tr>
-    <!-- Project 3 -->
+    <!-- Project 3: POS System -->
     <td width="50%" valign="top">
-      <h4>🎟️ <a href="https://github.com/reezmahanan/Student-Event-Management-Web-Application">Event Hub</a></h4>
-      <p>A student event management web application that simplifies organizing and registering for campus events.</p>
+      <h4>🛒 <a href="https://github.com/reezmahanan/POS-System">Retail Point of Sale (POS) System</a></h4>
+      <p>A complete, lightweight, and modern POS system for retail shops featuring inventory control, automated billing, and sales analytics.</p>
       <p>
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/github/stars/reezmahanan/Student-Event-Management-Web-Application?style=flat-square&color=blue" />&nbsp;
-        <img src="https://img.shields.io/github/last-commit/reezmahanan/Student-Event-Management-Web-Application?style=flat-square" />
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/github/stars/reezmahanan/POS-System?style=flat-square&color=blue" />&nbsp;
+        <img src="https://img.shields.io/github/last-commit/reezmahanan/POS-System?style=flat-square" />
       </p>
     </td>
-    <!-- Project 4 -->
+    <!-- Project 4: STYLEO Ceylon Full-Stack E-Commerce -->
     <td width="50%" valign="top">
-      <h4>🍳 <a href="https://github.com/reezmahanan/RECIPICK">ReciPick</a></h4>
-      <p>A clean and responsive recipe search application that helps users find culinary instructions based on available ingredients.</p>
+      <h4>🛍️ <a href="https://github.com/reezmahanan/Project-01">STYLEO Ceylon – E-Commerce Platform</a></h4>
+      <p>Modern clothing store platform featuring a zero-dependency responsive frontend (HTML5/CSS3/Vanilla JS) connected to a Node.js/Express REST API.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/github/stars/reezmahanan/RECIPICK?style=flat-square&color=blue" />&nbsp;
-        <img src="https://img.shields.io/github/last-commit/reezmahanan/RECIPICK?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/github/stars/reezmahanan/Project-01?style=flat-square&color=blue" />&nbsp;
+        <img src="https://img.shields.io/github/last-commit/reezmahanan/Project-01?style=flat-square" />
       </p>
     </td>
   </tr>
@@ -162,6 +166,9 @@ Here are the key projects highlighting my design, frontend, and full-stack backe
 
 | Project | Stack | Repository |
 | :--- | :--- | :--- |
+| **Book Nest (Group Project)** | PHP, JavaScript, MySQL | [Repo](https://github.com/reezmahanan/BookNest) |
+| **Event Hub** | PHP, JavaScript, MySQL | [Repo](https://github.com/reezmahanan/Student-Event-Management-Web-Application) |
+| **ReciPick** | React, Vite, CSS3 | [Repo](https://github.com/reezmahanan/RECIPICK) |
 | **Reezma-Hanan-Portfolio** | React | [Repo](https://github.com/reezmahanan/Reezma-Hanan-Portfolio) • [Live](https://spectacular-narwhal-9eb659.netlify.app/) |
 | **Weather App** | React, Vite | [Link](https://github.com/reezmahanan/Weather-App) |
 | **TasteVerse (Frontend)** | HTML, CSS, JS | [Link](https://github.com/reezmahanan/TasteVerse.git) |
@@ -363,3 +370,4 @@ I'm always excited about new challenges, learning opportunities, and collaborati
 ### ✨ Thank you for visiting! ✨
 
 </div>
+```
