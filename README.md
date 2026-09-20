@@ -4,21 +4,22 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Reezma%20Hanan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=FF61A6&center=true&vCenter=true&width=850&lines=Hi+I'm+Reezma+Hanan;Aspiring+Software+Engineer;Full-Stack+Web+Developer;React+%7C+Spring+Boot+%7C+Laravel;Machine+Learning+Enthusiast;Open+to+Software+Engineering+Internships;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF61A6&center=true&vCenter=true&width=880&lines=Hi+I'm+Reezma+Hanan;Aspiring+Software+Engineer;Full-Stack+Developer+(React+%7C+Spring+Boot+%7C+Node.js);Database+Architect+(MySQL+%7C+MongoDB);Laravel+%7C+Python+%7C+Machine+Learning;Open+to+Software+Engineering+Internships;Open+Source+Contributor" />
 
 <br/>
 
 <!-- Status & Focus Badges -->
 <a href="https://www.linkedin.com/in/reezma-hanan"><img src="https://img.shields.io/badge/💻_Role-Aspiring_Full--Stack_Developer-9B59B6?style=for-the-badge&labelColor=1a1a2e" /></a>
 <a href="mailto:reezmahanan@gmail.com"><img src="https://img.shields.io/badge/🔍_Status-Open_to_Internships-00D9FF?style=for-the-badge&labelColor=1a1a2e" /></a>
-<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/⚛️_Stack-React_+_Spring_Boot_+_Laravel-FFA500?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/⚛️_Stack-React_•_Spring_Boot_•_Node-FFA500?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/🗄️_Databases-MySQL_•_MongoDB-47A248?style=for-the-badge&labelColor=1a1a2e" /></a>
 <a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/🌍_Open_Source-Contributor-8A2BE2?style=for-the-badge&labelColor=1a1a2e" /></a>
 <a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/📍_Location-Sri_Lanka-00FF88?style=for-the-badge&labelColor=1a1a2e" /></a>
 
 <br/><br/>
 
 <p align="center">
-  <b><i>"Learn continuously, build consistently, and create solutions that matter. 🚀"</i></b>
+  <b><i>"Learn continuously, build consistently, and engineer scalable solutions that matter. 🚀"</i></b>
 </p>
 
 <!-- Decorative Line -->
@@ -28,66 +29,69 @@
 
 ## 👨‍💻 About Me
 
-I am an **Information Technology Undergraduate at ITUM** passionate about building modern web applications, robust backend systems, and data-driven solutions. With a strong foundation in **Java, React, Spring Boot, Laravel, Node.js, and Python**, I focus on writing clean, scalable, and maintainable code. 
+I am an **Information Technology Undergraduate at ITUM (University of Moratuwa)** passionate about engineering resilient full-stack web applications, RESTful microservices, and data-driven systems. With proven experience across **Java, React, Spring Boot, Node.js, Express, Laravel, Python, MySQL, and MongoDB**, I focus on writing modular, self-documenting, and scalable production code.
 
-- 🔍 **Active Search:** Open to **Software Engineering** and **Full-Stack Developer Internships** where I can add value while expanding my technical skills.
-- ⚡ **Technical Strengths:** Full-stack development with **React, Spring Boot, Node.js & Laravel**, RESTful API architecture, database design, and Machine Learning.
-- 🤝 **Community & Collaboration:** Active Open Source Contributor, participating in global programs like SWOC, GSSOC, and others.
-- 🚀 **Continuous Growth:** Expanding my skillset into **AWS Cloud**, and **AI/ML systems**.
+- 🔍 **Active Career Search:** Actively seeking **Software Engineering** and **Full-Stack Developer Internships** where I can solve real-world problems and collaborate with high-performing engineering teams.
+- ⚡ **Core Engineering Focus:** Modern 3-tier architectures, asynchronous client-server communication, database modeling (ACID Relational & Document NoSQL), and Machine Learning integration.
+- 🤝 **Community & Open Source:** Active Open Source Contributor across global programs including SWOC, GSSOC, SSOC, and OSCG.
+- 🚀 **Continuous Growth:** Deepening expertise in **Cloud Architecture (AWS/Docker)**, DevOps automation, and scalable distributed backends.
 
 ---
-## 🛠️ Technical Skills & Expertise
 
-### 💻 Languages
+## 🛠️ Technical Skills & Architecture
+
+### 💻 Programming Languages
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,js,ts,py,php,c" />
 </a>
 
-### ⚛️ Frameworks & Libraries
+### ⚛️ Frameworks & Runtimes
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,laravel" />
 </a>
 
-### 🌐 Frontend & Databases
+### 🗄️ Databases & Persistence
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </a>
 
-### ☁️ Cloud & DevOps
+### 🌐 Frontend & Styling
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
+</a>
+
+### ☁️ Cloud, DevOps & Systems
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=aws,docker,linux" />
 </a>
 
-### 🔧 Developer Tools
+### 🔧 Developer Tools & Testing
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,npm,postman,idea,vscode" />
 </a>
 
-### 🎨 UI/UX & Design
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
-  </a>&nbsp;
-</p>
-
+### 🎨 UI/UX & Prototyping
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</a>
 
 ---
 
-## ⚙️ Software Development Workflow
+## ⚙️ Software Engineering Lifecycle
 
-> How I think about building clean, scalable software — from user requirements to production-ready code.
+> How I translate complex domain requirements into secure, high-performance production systems:
 
 ```mermaid
 graph LR
-    A["📄 Requirements"] --> B["📐 System & DB Design"]
-    B --> C["⚛️ Frontend (React / HTML5 & CSS3 / Blade)"]
-    B --> D["☕ Backend APIs (Spring Boot / Node / Laravel)"]
-    B --> E["🤖 ML Models (Scikit-Learn)"]
-    C --> F["🔄 Integration & Validation"]
+    A["📄 Requirements Analysis"] --> B["📐 Architecture & DB Design"]
+    B --> C["⚛️ Client Tier (React / ES6+ / Blade)"]
+    B --> D["☕ Server Tier (Spring Boot / Express / Laravel)"]
+    B --> E["🤖 Intelligence Tier (Scikit-Learn)"]
+    C --> F["🔄 API Integration & Validation"]
     D --> F
     E --> F
-    F --> G["🐳 Containerization"]
-    G --> H["🚀 Deployment"]
+    F --> G["🐳 Containerization (Docker)"]
+    G --> H["🚀 Cloud Deployment (CI/CD)"]
 
     style A fill:#0d1117,stroke:#00d9ff,stroke-width:2px,color:#ffffff
     style B fill:#0d1117,stroke:#00d9ff,stroke-width:2px,color:#ffffff
@@ -103,77 +107,98 @@ graph LR
 
 ## 📌 Featured Projects
 
-Here are key projects highlighting my full-stack, backend architecture, and machine learning capabilities:
+Highlighting full-stack architecture, relational and NoSQL database modeling, and machine learning capabilities:
 
 <table width="100%">
   <tr>
-    <!-- Project 1: SCM IMS -->
+    <!-- Project 1: AgriDirect -->
     <td width="50%" valign="top">
-      <h4>📦 <a href="https://github.com/reezmahanan/SCM-IMS">SCM - Inventory Management System (Group Project)</a></h4>
-      <p>An enterprise supply chain and inventory control system built for tracking products, managing stock, and viewing business insights.</p>
+      <h4>🌾 <a href="https://github.com/reezmahanan/AgriDirect">AgriDirect – Farm-to-Business B2B Harvest Exchange</a></h4>
+      <p>A full-stack agricultural marketplace and real-time auction engine eliminating middlemen. Features dual farmer/buyer roles, Dambulla & Manning wholesale benchmark integration, embedded bidding, and cold-chain escrow contract fulfillment.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/github/stars/reezmahanan/SCM-IMS?style=flat-square&color=blue" />&nbsp;
-        <img src="https://img.shields.io/github/last-commit/reezmahanan/SCM-IMS?style=flat-square" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/github/stars/reezmahanan/AgriDirect?style=flat-square&color=blue" />
       </p>
     </td>
-    <!-- Project 2: StudyScore AI -->
+    <!-- Project 2: STYLEO Ceylon -->
     <td width="50%" valign="top">
-      <h4>🎓 <a href="https://github.com/reezmahanan/StudyScore-AI">StudyScore AI – Student Performance Prediction</a></h4>
-      <p>An end-to-end Machine Learning web application predicting exam scores from study hours using Linear Regression with 99.4% R² accuracy.</p>
+      <h4>🛍️ <a href="https://github.com/reezmahanan/STYLEO-Ceylon">STYLEO Ceylon – Full-Stack E-Commerce System</a></h4>
+      <p>A production-ready 3-tier apparel platform featuring asynchronous native <code>fetch()</code> client engine, Express REST API, and a normalized MySQL 8 database with ACID transactional checkout and live courier tracking.</p>
       <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/github/stars/reezmahanan/StudyScore-AI?style=flat-square&color=blue" />&nbsp;
-        <img src="https://img.shields.io/github/last-commit/reezmahanan/StudyScore-AI?style=flat-square" />
+        <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/github/stars/reezmahanan/STYLEO-Ceylon?style=flat-square&color=blue" />
       </p>
     </td>
   </tr>
   <tr>
-    <!-- Project 3: POS System -->
+    <!-- Project 3: SCM IMS -->
     <td width="50%" valign="top">
-      <h4>🛒 <a href="https://github.com/reezmahanan/POS-System">Retail Point of Sale (POS) System</a></h4>
-      <p>A complete, lightweight, and modern POS system for retail shops featuring inventory control, automated billing, and sales analytics.</p>
+      <h4>📦 <a href="https://github.com/reezmahanan/SCM-IMS">SCM - Inventory Management System (Enterprise)</a></h4>
+      <p>Enterprise supply chain and multi-tier inventory control system engineered for stock movements, vendor logistics, automated alerts, and real-time business performance analytics.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/github/stars/reezmahanan/SCM-IMS?style=flat-square&color=blue" />
+      </p>
+    </td>
+    <!-- Project 4: StudyScore AI -->
+    <td width="50%" valign="top">
+      <h4>🎓 <a href="https://github.com/reezmahanan/StudyScore-AI">StudyScore AI – Student Performance Predictor</a></h4>
+      <p>End-to-end Machine Learning web application forecasting academic examination scores based on structured study time variables, achieving a 99.4% R² regression fit score.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/github/stars/reezmahanan/StudyScore-AI?style=flat-square&color=blue" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- Project 5: POS System -->
+    <td width="50%" valign="top">
+      <h4>🛒 <a href="https://github.com/reezmahanan/POS-System">Retail Point of Sale (POS) Engine</a></h4>
+      <p>A full-featured POS system for retail operations featuring SKU barcode cataloging, automated receipt billing, transaction logs, and daily sales analytics.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/github/stars/reezmahanan/POS-System?style=flat-square&color=blue" />&nbsp;
-        <img src="https://img.shields.io/github/last-commit/reezmahanan/POS-System?style=flat-square" />
+        <img src="https://img.shields.io/github/stars/reezmahanan/POS-System?style=flat-square&color=blue" />
       </p>
     </td>
-    <!-- Project 4: STYLEO Ceylon Full-Stack E-Commerce -->
+    <!-- Project 6: Portfolio -->
     <td width="50%" valign="top">
-      <h4>🛍️ <a href="https://github.com/reezmahanan/Project-01">STYLEO Ceylon – E-Commerce Platform</a></h4>
-      <p>Modern clothing store platform featuring a zero-dependency responsive frontend (HTML5/CSS3/Vanilla JS) connected to a Node.js/Express REST API.</p>
+      <h4>🌐 <a href="https://github.com/reezmahanan/Reezma-Hanan-Portfolio">Modern Developer Portfolio</a></h4>
+      <p>Clean, mobile-optimized personal portfolio built with modern React featuring interactive project showcases, skill matrices, and direct contact integration.</p>
       <p>
-        <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/github/stars/reezmahanan/Project-01?style=flat-square&color=blue" />&nbsp;
-        <img src="https://img.shields.io/github/last-commit/reezmahanan/Project-01?style=flat-square" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
+        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/github/stars/reezmahanan/Reezma-Hanan-Portfolio?style=flat-square&color=blue" />
       </p>
     </td>
   </tr>
 </table>
 
 <details>
-<summary>📂 View More Projects</summary>
+<summary>📂 <b>View More Repositories & Prototypes</b></summary>
 
-| Project | Stack | Repository |
+| Project | Domain / Stack | Repository |
 | :--- | :--- | :--- |
-| **Book Nest (Group Project)** | PHP, JavaScript, MySQL | [Repo](https://github.com/reezmahanan/BookNest) |
-| **Event Hub** | PHP, JavaScript, MySQL | [Repo](https://github.com/reezmahanan/Student-Event-Management-Web-Application) |
-| **ReciPick** | React, Vite, CSS3 | [Repo](https://github.com/reezmahanan/RECIPICK) |
-| **Reezma-Hanan-Portfolio** | React | [Repo](https://github.com/reezmahanan/Reezma-Hanan-Portfolio) • [Live](https://spectacular-narwhal-9eb659.netlify.app/) |
-| **Weather App** | React, Vite | [Link](https://github.com/reezmahanan/Weather-App) |
-| **TasteVerse (Frontend)** | HTML, CSS, JS | [Link](https://github.com/reezmahanan/TasteVerse.git) |
-| **Reezma Tech Services (Frontend)** | HTML, CSS, JS | [Link](https://github.com/reezmahanan/Reezma-tech-services) |
-| **CareerBridge (Frontend)** | HTML, CSS, JS | [Link](https://github.com/reezmahanan/CareerBridge) |
+| **Book Nest** | PHP, JavaScript, MySQL | [View Code](https://github.com/reezmahanan/BookNest) |
+| **Event Hub** | PHP, JavaScript, MySQL | [View Code](https://github.com/reezmahanan/Student-Event-Management-Web-Application) |
+| **ReciPick** | React, Vite, CSS3 | [View Code](https://github.com/reezmahanan/RECIPICK) |
+| **Weather App** | React, OpenWeather API | [View Code](https://github.com/reezmahanan/Weather-App) |
+| **TasteVerse** | HTML5, CSS3, JavaScript | [View Code](https://github.com/reezmahanan/TasteVerse.git) |
+| **Reezma Tech Services** | HTML5, CSS3, JavaScript | [View Code](https://github.com/reezmahanan/Reezma-tech-services) |
+| **CareerBridge** | Responsive Web UI | [View Code](https://github.com/reezmahanan/CareerBridge) |
 
 </details>
 
@@ -181,9 +206,9 @@ Here are key projects highlighting my full-stack, backend architecture, and mach
 
 ## 🏆 Highlighted Certifications & Professional Badges
 
-*Selected professional credentials representing my technical competence in industry tools and frameworks:*
+*Selected professional credentials representing technical competence in industry standards:*
 
-### 📜 Top Certifications
+### 📜 Industry Certifications
 
 <table width="100%">
   <tr>
@@ -233,34 +258,32 @@ Here are key projects highlighting my full-stack, backend architecture, and mach
 </div>
 
 <details>
-<summary>📑 View Additional 20+ Certifications & Foundations</summary>
-
-Here are my other credentials in specific technologies and fundamental knowledge:
+<summary>📑 <b>View Additional 20+ Certifications & Technical Credentials</b></summary>
 
 | Certificate | Issuer | View Certificate |
 | :--- | :--- | :--- |
-| **Introduction to Git** | Microsoft | [Image Link](https://github.com/user-attachments/assets/54776ea4-ec42-4b50-9108-40ea13519724) |
-| **Introduction to Github Copilot** | Microsoft | [Image Link](https://github.com/user-attachments/assets/cef427dc-028d-44b6-b023-43f63b0d7d78) |
-| **Describe Cloud Computing** | Microsoft | [Image Link](https://github.com/user-attachments/assets/caf21974-5cce-47fc-808b-7d1cc7726e45) |
-| **Introduction to AI Concepts** | Microsoft | [Image Link](https://github.com/user-attachments/assets/68cb27b6-96cd-4b1c-86a1-25d613ab8b1d) |
-| **Python for Beginners** | UOM CODL | [Image Link](https://github.com/user-attachments/assets/b402b5d1-9a87-4fc5-a524-d908040fc256) |
-| **Web Design for Beginners** | UOM CODL | [Image Link](https://github.com/user-attachments/assets/901bd465-48d9-4a2d-85c7-d8e6f25b5a51) |
-| **OOPs in Java** | Simplilearn | [Image Link](https://github.com/user-attachments/assets/8415eddb-eed0-4d18-abb0-17b67314c71e) |
-| **Introduction to Cloud Computing** | Simplilearn | [Image Link](https://github.com/user-attachments/assets/f6f704f6-4af2-4628-b44e-19701f4e51fd) |
-| **Introduction to Cyber Security** | Simplilearn | [Image Link](https://github.com/user-attachments/assets/708a3d71-8ed8-43fa-8d48-c4c2ef780977) |
-| **UI/UX for Beginners** | Great Learning Academy | [Image Link](https://github.com/user-attachments/assets/8611355c-f9ee-4791-adab-bc72be7e9d56) |
-| **HTML** | Great Learning Academy | [Image Link](https://github.com/user-attachments/assets/2fb025ee-46b8-4949-b3ba-4a9ceb4bc3e1) |
-| **MySQL Tutorial** | Great Learning Academy | [Image Link](https://github.com/user-attachments/assets/3c62470d-4844-4bb2-beb6-569e878bca57) |
-| **Programming Basics** | Great Learning Academy | [Image Link](https://github.com/user-attachments/assets/7c524fff-72d7-4199-8ffe-a7d3edd2a525) |
-| **Python Fundamentals for Beginners** | Great Learning Academy | [Image Link](https://github.com/user-attachments/assets/a602a5be-b2c9-476c-8b55-26afd6feddb8) |
-| **Python Project for Beginners** | Great Learning Academy | [Image Link](https://github.com/user-attachments/assets/315d12cd-f931-4b4d-83b7-20e2aec23a2a) |
-| **Hands-On Introduction to Git with GitHub** | Udemy | [Image Link](https://github.com/user-attachments/assets/a258b2af-adf3-4bb8-90af-a296a6caf7e9) |
-| **Java** | SoloLearn | [Image Link](https://github.com/user-attachments/assets/6dc5e013-7d80-4ce1-8a8d-e28ee4482824) |
-| **SQL** | SoloLearn | [Image Link](https://github.com/user-attachments/assets/75104083-2c70-48ca-aabb-efccfae77c21) |
-| **HTML** | SoloLearn | [Image Link](https://github.com/user-attachments/assets/4313cec7-e719-4858-be24-ad1b462bd5f0) |
-| **CSS** | SoloLearn | [Image Link](https://github.com/user-attachments/assets/3a0b3f8c-36a1-4df4-8611-475400b9abd6) |
-| **Python for Beginners** | SoloLearn | [Image Link](https://github.com/user-attachments/assets/ff60ec2b-4d5f-4b7b-bd10-70acb348594e) |
-| **Introduction to C** | SoloLearn | [Image Link](https://github.com/user-attachments/assets/2506be40-a342-4c38-bd8c-98065424a7b4) |
+| **Introduction to Git** | Microsoft | [View Credential](https://github.com/user-attachments/assets/54776ea4-ec42-4b50-9108-40ea13519724) |
+| **Introduction to Github Copilot** | Microsoft | [View Credential](https://github.com/user-attachments/assets/cef427dc-028d-44b6-b023-43f63b0d7d78) |
+| **Describe Cloud Computing** | Microsoft | [View Credential](https://github.com/user-attachments/assets/caf21974-5cce-47fc-808b-7d1cc7726e45) |
+| **Introduction to AI Concepts** | Microsoft | [View Credential](https://github.com/user-attachments/assets/68cb27b6-96cd-4b1c-86a1-25d613ab8b1d) |
+| **Python for Beginners** | UOM CODL | [View Credential](https://github.com/user-attachments/assets/b402b5d1-9a87-4fc5-a524-d908040fc256) |
+| **Web Design for Beginners** | UOM CODL | [View Credential](https://github.com/user-attachments/assets/901bd465-48d9-4a2d-85c7-d8e6f25b5a51) |
+| **OOPs in Java** | Simplilearn | [View Credential](https://github.com/user-attachments/assets/8415eddb-eed0-4d18-abb0-17b67314c71e) |
+| **Introduction to Cloud Computing** | Simplilearn | [View Credential](https://github.com/user-attachments/assets/f6f704f6-4af2-4628-b44e-19701f4e51fd) |
+| **Introduction to Cyber Security** | Simplilearn | [View Credential](https://github.com/user-attachments/assets/708a3d71-8ed8-43fa-8d48-c4c2ef780977) |
+| **UI/UX for Beginners** | Great Learning Academy | [View Credential](https://github.com/user-attachments/assets/8611355c-f9ee-4791-adab-bc72be7e9d56) |
+| **HTML** | Great Learning Academy | [View Credential](https://github.com/user-attachments/assets/2fb025ee-46b8-4949-b3ba-4a9ceb4bc3e1) |
+| **MySQL Tutorial** | Great Learning Academy | [View Credential](https://github.com/user-attachments/assets/3c62470d-4844-4bb2-beb6-569e878bca57) |
+| **Programming Basics** | Great Learning Academy | [View Credential](https://github.com/user-attachments/assets/7c524fff-72d7-4199-8ffe-a7d3edd2a525) |
+| **Python Fundamentals for Beginners** | Great Learning Academy | [View Credential](https://github.com/user-attachments/assets/a602a5be-b2c9-476c-8b55-26afd6feddb8) |
+| **Python Project for Beginners** | Great Learning Academy | [View Credential](https://github.com/user-attachments/assets/315d12cd-f931-4b4d-83b7-20e2aec23a2a) |
+| **Hands-On Introduction to Git with GitHub** | Udemy | [View Credential](https://github.com/user-attachments/assets/a258b2af-adf3-4bb8-90af-a296a6caf7e9) |
+| **Java** | SoloLearn | [View Credential](https://github.com/user-attachments/assets/6dc5e013-7d80-4ce1-8a8d-e28ee4482824) |
+| **SQL** | SoloLearn | [View Credential](https://github.com/user-attachments/assets/75104083-2c70-48ca-aabb-efccfae77c21) |
+| **HTML** | SoloLearn | [View Credential](https://github.com/user-attachments/assets/4313cec7-e719-4858-be24-ad1b462bd5f0) |
+| **CSS** | SoloLearn | [View Credential](https://github.com/user-attachments/assets/3a0b3f8c-36a1-4df4-8611-475400b9abd6) |
+| **Python for Beginners** | SoloLearn | [View Credential](https://github.com/user-attachments/assets/ff60ec2b-4d5f-4b7b-bd10-70acb348594e) |
+| **Introduction to C** | SoloLearn | [View Credential](https://github.com/user-attachments/assets/2506be40-a342-4c38-bd8c-98065424a7b4) |
 
 </details>
 
@@ -277,7 +300,7 @@ I actively collaborate on community-driven open-source projects, which allows me
 
 ---
 
-## 📊 GitHub Analytics & Trophies
+## 📊 GitHub Analytics & Contributions
 
 <div align="center">
 
@@ -335,7 +358,7 @@ I actively collaborate on community-driven open-source projects, which allows me
 
 ## 🤝 Let's Connect & Collaborate
 
-I'm always excited about new challenges, learning opportunities, and collaboration. Feel free to reach out!
+I am always open to discussing new opportunities, full-stack engineering challenges, and internship roles. Feel free to reach out!
 
 <div align="center">
 
@@ -353,7 +376,7 @@ I'm always excited about new challenges, learning opportunities, and collaborati
 </p>
 
 <p align="center">
-  ⭐ If something here was useful, a star on a repo goes a long way.
+  ⭐ <b>If you find my work helpful or interesting, a star on my repositories is always appreciated!</b>
 </p>
 
 <br/>
