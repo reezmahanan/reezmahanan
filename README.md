@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Reezma%20Hanan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF61A6&center=true&vCenter=true&width=880&lines=Hi+I'm+Reezma+Hanan;Aspiring+Software+Engineer;Full-Stack+Developer+(React+%7C+Spring+Boot+%7C+Node.js);Database+Architect+(MySQL+%7C+MongoDB);Laravel+%7C+Python+%7C+Machine+Learning;Open+to+Software+Engineering+Internships;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF61A6&center=true&vCenter=true&width=880&lines=Hi+I'm+Reezma+Hanan;Aspiring+Software+Engineer;Full-Stack+Developer+(React+%7C+Spring+Boot+%7C+Node.js);Database+Architect+(MySQL+%7C+MongoDB);Trilingual+LMS+Architect+(EN+%7C+TA+%7C+SI);Open+to+Software+Engineering+Internships;Open+Source+Contributor" />
 
 <br/>
 
@@ -34,7 +34,7 @@ I am an **Information Technology Undergraduate at ITUM (University of Moratuwa)*
 - 🔍 **Active Career Search:** Actively seeking **Software Engineering** and **Full-Stack Developer Internships** where I can solve real-world problems and collaborate with high-performing engineering teams.
 - ⚡ **Core Engineering Focus:** Modern 3-tier architectures, asynchronous client-server communication, database modeling (ACID Relational & Document NoSQL), and Machine Learning integration.
 - 🤝 **Community & Open Source:** Active Open Source Contributor across global programs including SWOC, GSSOC, SSOC, and OSCG.
-- 🚀 **Continuous Growth:** Deepening expertise in **Cloud Architecture (AWS/Docker)**, DevOps automation, and scalable distributed backends.
+- 🚀 **Continuous Growth:** Deepening expertise in **Cloud Architecture (AWS / Azure / Docker)**, DevOps automation, and scalable distributed backends.
 
 ---
 
@@ -77,41 +77,27 @@ I am an **Information Technology Undergraduate at ITUM (University of Moratuwa)*
 
 ---
 
-## ⚙️ Software Engineering Lifecycle
-
-> How I translate complex domain requirements into secure, high-performance production systems:
-
-```mermaid
-graph LR
-    A["📄 Requirements Analysis"] --> B["📐 Architecture & DB Design"]
-    B --> C["⚛️ Client Tier (React / ES6+ / Blade)"]
-    B --> D["☕ Server Tier (Spring Boot / Express / Laravel)"]
-    B --> E["🤖 Intelligence Tier (Scikit-Learn)"]
-    C --> F["🔄 API Integration & Validation"]
-    D --> F
-    E --> F
-    F --> G["🐳 Containerization (Docker)"]
-    G --> H["🚀 Cloud Deployment (CI/CD)"]
-
-    style A fill:#0d1117,stroke:#00d9ff,stroke-width:2px,color:#ffffff
-    style B fill:#0d1117,stroke:#00d9ff,stroke-width:2px,color:#ffffff
-    style C fill:#0d1117,stroke:#ffa500,stroke-width:2px,color:#ffffff
-    style D fill:#0d1117,stroke:#6db33f,stroke-width:2px,color:#ffffff
-    style E fill:#0d1117,stroke:#ff61a6,stroke-width:2px,color:#ffffff
-    style F fill:#0d1117,stroke:#00ff88,stroke-width:2px,color:#ffffff
-    style G fill:#0d1117,stroke:#2496ed,stroke-width:2px,color:#ffffff
-    style H fill:#0d1117,stroke:#8a2be2,stroke-width:2px,color:#ffffff
-```
-
----
-
 ## 📌 Featured Projects
 
-Highlighting full-stack architecture, relational and NoSQL database modeling, and machine learning capabilities:
+Highlighting full-stack architecture, relational & NoSQL database modeling, and scalable systems:
 
 <table width="100%">
+  <!-- Top Highlight: LibriQ & AgriDirect -->
   <tr>
-    <!-- Project 1: AgriDirect -->
+    <!-- Project 1: LibriQ LMS -->
+    <td width="50%" valign="top">
+      <h4>📚 <a href="https://github.com/reezmahanan/LibriQ">LibriQ – Sri Lankan University Library Management System</a></h4>
+      <p>A comprehensive MERN circulation platform tailored for Sri Lankan university standards. Features a dedicated trilingual switcher (English <code>EN</code>, தமிழ் <code>TA</code>, සිංහල <code>SI</code>), role-based permissions (Librarian/Student), barcoded Accession No (<code>ACC-...</code>), Dewey Decimal Call numbers (DDC), student index rosters, and automated LKR late fine calculations (Rs. 10/day).</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/LKR-Rs._Fine_Engine-F4B942?style=flat-square&labelColor=1E3A5F" />
+      </p>
+    </td>
+    <!-- Project 2: AgriDirect -->
     <td width="50%" valign="top">
       <h4>🌾 <a href="https://github.com/reezmahanan/AgriDirect">AgriDirect – Farm-to-Business B2B Harvest Exchange</a></h4>
       <p>A full-stack agricultural marketplace and real-time auction engine eliminating middlemen. Features dual farmer/buyer roles, Dambulla & Manning wholesale benchmark integration, embedded bidding, and cold-chain escrow contract fulfillment.</p>
@@ -123,7 +109,9 @@ Highlighting full-stack architecture, relational and NoSQL database modeling, an
         <img src="https://img.shields.io/github/stars/reezmahanan/AgriDirect?style=flat-square&color=blue" />
       </p>
     </td>
-    <!-- Project 2: STYLEO Ceylon -->
+  </tr>
+  <tr>
+    <!-- Project 3: STYLEO Ceylon -->
     <td width="50%" valign="top">
       <h4>🛍️ <a href="https://github.com/reezmahanan/STYLEO-Ceylon">STYLEO Ceylon – Full-Stack E-Commerce System</a></h4>
       <p>A production-ready 3-tier apparel platform featuring asynchronous native <code>fetch()</code> client engine, Express REST API, and a normalized MySQL 8 database with ACID transactional checkout and live courier tracking.</p>
@@ -135,9 +123,7 @@ Highlighting full-stack architecture, relational and NoSQL database modeling, an
         <img src="https://img.shields.io/github/stars/reezmahanan/STYLEO-Ceylon?style=flat-square&color=blue" />
       </p>
     </td>
-  </tr>
-  <tr>
-    <!-- Project 3: SCM IMS -->
+    <!-- Project 4: SCM IMS -->
     <td width="50%" valign="top">
       <h4>📦 <a href="https://github.com/reezmahanan/SCM-IMS">SCM - Inventory Management System (Enterprise)</a></h4>
       <p>Enterprise supply chain and multi-tier inventory control system engineered for stock movements, vendor logistics, automated alerts, and real-time business performance analytics.</p>
@@ -148,7 +134,9 @@ Highlighting full-stack architecture, relational and NoSQL database modeling, an
         <img src="https://img.shields.io/github/stars/reezmahanan/SCM-IMS?style=flat-square&color=blue" />
       </p>
     </td>
-    <!-- Project 4: StudyScore AI -->
+  </tr>
+  <tr>
+    <!-- Project 5: StudyScore AI -->
     <td width="50%" valign="top">
       <h4>🎓 <a href="https://github.com/reezmahanan/StudyScore-AI">StudyScore AI – Student Performance Predictor</a></h4>
       <p>End-to-end Machine Learning web application forecasting academic examination scores based on structured study time variables, achieving a 99.4% R² regression fit score.</p>
@@ -159,9 +147,7 @@ Highlighting full-stack architecture, relational and NoSQL database modeling, an
         <img src="https://img.shields.io/github/stars/reezmahanan/StudyScore-AI?style=flat-square&color=blue" />
       </p>
     </td>
-  </tr>
-  <tr>
-    <!-- Project 5: POS System -->
+    <!-- Project 6: POS System -->
     <td width="50%" valign="top">
       <h4>🛒 <a href="https://github.com/reezmahanan/POS-System">Retail Point of Sale (POS) Engine</a></h4>
       <p>A full-featured POS system for retail operations featuring SKU barcode cataloging, automated receipt billing, transaction logs, and daily sales analytics.</p>
@@ -173,17 +159,6 @@ Highlighting full-stack architecture, relational and NoSQL database modeling, an
         <img src="https://img.shields.io/github/stars/reezmahanan/POS-System?style=flat-square&color=blue" />
       </p>
     </td>
-    <!-- Project 6: Portfolio -->
-    <td width="50%" valign="top">
-      <h4>🌐 <a href="https://github.com/reezmahanan/Reezma-Hanan-Portfolio">Modern Developer Portfolio</a></h4>
-      <p>Clean, mobile-optimized personal portfolio built with modern React featuring interactive project showcases, skill matrices, and direct contact integration.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
-        <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/github/stars/reezmahanan/Reezma-Hanan-Portfolio?style=flat-square&color=blue" />
-      </p>
-    </td>
   </tr>
 </table>
 
@@ -192,6 +167,7 @@ Highlighting full-stack architecture, relational and NoSQL database modeling, an
 
 | Project | Domain / Stack | Repository |
 | :--- | :--- | :--- |
+| **Reezma Hanan Portfolio** | React, Netlify, Responsive CSS | [View Code](https://github.com/reezmahanan/Reezma-Hanan-Portfolio) |
 | **Book Nest** | PHP, JavaScript, MySQL | [View Code](https://github.com/reezmahanan/BookNest) |
 | **Event Hub** | PHP, JavaScript, MySQL | [View Code](https://github.com/reezmahanan/Student-Event-Management-Web-Application) |
 | **ReciPick** | React, Vite, CSS3 | [View Code](https://github.com/reezmahanan/RECIPICK) |
@@ -208,39 +184,50 @@ Highlighting full-stack architecture, relational and NoSQL database modeling, an
 
 *Selected professional credentials representing technical competence in industry standards:*
 
-### 📜 Industry Certifications
+### 📜  Certifications
 
 <table width="100%">
   <tr>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <b>Docker for Absolute Beginners</b><br/>
       <i>KodeKloud</i><br/><br/>
       <img src="https://github.com/user-attachments/assets/2c597dcf-47b4-47c3-a4bb-6ba9f0e86961" width="100%" alt="Docker Certificate"/>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <b>Cyber Security Essential (LFC108)</b><br/>
       <i>The Linux Foundation</i><br/><br/>
       <img src="https://github.com/user-attachments/assets/e2af4b8a-df7d-4be4-91a2-c229685cb44c" width="100%" alt="Linux Foundation Certificate"/>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <b>Agile Scrum Foundation</b><br/>
       <i>Simplilearn</i><br/><br/>
       <img src="https://github.com/user-attachments/assets/40df952e-ee56-491b-a8ec-32c704a659dd" width="100%" alt="Agile Scrum Certificate"/>
     </td>
   </tr>
   <tr>
-    <td width="33%" align="center">
-      <b>HackerRank Verifications</b><br/>
-      <i>Java, SQL & CSS</i><br/><br/>
-      <img src="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5" width="100%" alt="Java Basic Certificate"/><br/>
-      <sub><a href="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5">Java</a> • <a href="https://github.com/user-attachments/assets/dd15f2fe-7e86-4979-b50e-cc47f980a6ae">SQL</a> • <a href="https://github.com/user-attachments/assets/58fe106f-28b0-451e-82d2-9d837eb0c473">CSS</a></sub>
+    <!-- HackerRank Section: Cleanly aligned with direct verified links -->
+    <td width="33%" align="center" valign="top">
+      <b>HackerRank Verified Skills</b><br/>
+      <i>Java • Python • SQL • JS • CSS</i><br/><br/>
+      <a href="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5">
+        <img src="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5" width="100%" alt="HackerRank Java Certificate"/>
+      </a>
+      <br/><br/>
+      <sub>
+        <b>Direct Verifications:</b><br/>
+        <a href="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5">☕ Java</a> •
+        <a href="https://github.com/user-attachments/assets/213ee016-3766-48ad-96ba-af5f6d82d0cc">🐍 Python</a> •
+        <a href="https://github.com/user-attachments/assets/dd15f2fe-7e86-4979-b50e-cc47f980a6ae">🗄️ SQL</a><br/>
+        <a href="https://github.com/user-attachments/assets/871e1c2c-f5ff-4293-85d2-1fb31d88c66e">⚡ JavaScript</a> •
+        <a href="https://github.com/user-attachments/assets/58fe106f-28b0-451e-82d2-9d837eb0c473">🎨 CSS</a>
+      </sub>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <b>Front-End Web Development</b><br/>
       <i>University of Moratuwa CODL</i><br/><br/>
       <img src="https://github.com/user-attachments/assets/60d5d685-26e1-420c-845c-77f39e1e6465" width="100%" alt="UOM Front End Certificate"/>
     </td>
-    <td width="33%" align="center">
+    <td width="33%" align="center" valign="top">
       <b>Cyber Security</b><br/>
       <i>Cisco Networking Academy</i><br/><br/>
       <img src="https://github.com/user-attachments/assets/39c1eb9f-1f52-4119-ab39-f3a25c404c89" width="100%" alt="Cisco Certificate"/>
@@ -311,8 +298,8 @@ I actively collaborate on community-driven open-source projects, which allows me
 
 <br/><br/>
   
-<!-- Contribution Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=reezmahanan&bg_color=0d1117&color=ff61a6&line=00d9ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
+<!-- Dynamic Contribution Summary Wave Card -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reezmahanan&theme=2077" alt="Reezma's GitHub Contribution Activity" width="100%" />
 
 <br/><br/>
 
@@ -321,12 +308,12 @@ I actively collaborate on community-driven open-source projects, which allows me
   <tr>
     <td>
       <a href="https://github.com/reezmahanan">
-        <img src="https://github-stats-extended.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff61a6&icon_color=00d9ff&text_color=ffffff&cache=1" alt="GitHub Stats" height="180"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=reezmahanan&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ff61a6&icon_color=00d9ff&text_color=ffffff" alt="GitHub Stats" height="180"/>
       </a>
     </td>
     <td>
       <a href="https://github.com/reezmahanan">
-        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ff61a6&text_color=ffffff&cache=1" alt="Top Languages" height="180"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reezmahanan&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0d1117&title_color=ff61a6&text_color=ffffff" alt="Top Languages" height="180"/>
       </a>
     </td>
   </tr>
@@ -338,9 +325,9 @@ I actively collaborate on community-driven open-source projects, which allows me
 
 <br/><br/>
 
-#### 🏆 GitHub Trophies
+<!-- Trophy Cabinet -->
 <a href="https://github.com/reezmahanan">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=reezmahanan&row=2&column=7&no-bg=true&no-frame=true&cache=1" alt="Profile Trophy" />
+  <img src="https://github-trophies.devomb.com/?username=reezmahanan&theme=radical&column=6&no-bg=true&no-frame=true" alt="Trophy Cabinet" />
 </a>
 
 <br/><br/>
@@ -393,4 +380,3 @@ I am always open to discussing new opportunities, full-stack engineering challen
 ### ✨ Thank you for visiting! ✨
 
 </div>
-```
