@@ -215,11 +215,11 @@ Highlighting full-stack architecture, relational & NoSQL database modeling, and 
       <br/><br/>
       <sub>
         <b>Direct Verifications:</b><br/>
-        <a href="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5">☕ Java</a> •
-        <a href="https://github.com/user-attachments/assets/213ee016-3766-48ad-96ba-af5f6d82d0cc">🐍 Python</a> •
-        <a href="https://github.com/user-attachments/assets/dd15f2fe-7e86-4979-b50e-cc47f980a6ae">🗄️ SQL</a><br/>
-        <a href="https://github.com/user-attachments/assets/871e1c2c-f5ff-4293-85d2-1fb31d88c66e">⚡ JavaScript</a> •
-        <a href="https://github.com/user-attachments/assets/58fe106f-28b0-451e-82d2-9d837eb0c473">🎨 CSS</a>
+        <a href="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5"> Java</a> •
+        <a href="https://github.com/user-attachments/assets/213ee016-3766-48ad-96ba-af5f6d82d0cc"> Python</a> •
+        <a href="https://github.com/user-attachments/assets/dd15f2fe-7e86-4979-b50e-cc47f980a6ae"> SQL</a><br/>
+        <a href="https://github.com/user-attachments/assets/871e1c2c-f5ff-4293-85d2-1fb31d88c66e"> JavaScript</a> •
+        <a href="https://github.com/user-attachments/assets/58fe106f-28b0-451e-82d2-9d837eb0c473"> CSS</a>
       </sub>
     </td>
     <td width="33%" align="center" valign="top">
