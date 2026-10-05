@@ -4,15 +4,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Reezma%20Hanan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF61A6&center=true&vCenter=true&width=880&lines=Hi+I'm+Reezma+Hanan;Aspiring+Software+Engineer;Full-Stack+Developer+(React+%7C+Spring+Boot+%7C+Node.js);Database+Architect+(MySQL+%7C+MongoDB);Trilingual+LMS+Architect+(EN+%7C+TA+%7C+SI);Open+to+Software+Engineering+Internships;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF61A6&center=true&vCenter=true&width=880&lines=Hi+I'm+Reezma+Hanan;IT+Undergraduate+at+ITUM;Aspiring+Software+Engineer;Full-Stack+Developer+(React+%7C+Spring+Boot+%7C+Node.js);Machine+Learning+Enthusiast+(LightGBM+%7C+Scikit-Learn);Open+to+Software+Engineering+Internships;Open+Source+Contributor" />
 
 <br/>
 
 <!-- Status & Focus Badges -->
-<a href="https://www.linkedin.com/in/reezma-hanan"><img src="https://img.shields.io/badge/💻_Role-Aspiring_Full--Stack_Developer-9B59B6?style=for-the-badge&labelColor=1a1a2e" /></a>
-<a href="mailto:reezmahanan@gmail.com"><img src="https://img.shields.io/badge/🔍_Status-Open_to_Internships-00D9FF?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="https://www.linkedin.com/in/reezma-hanan"><img src="https://img.shields.io/badge/🎓_Role-IT_Undergraduate_at_ITUM-9B59B6?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="mailto:reezmahanan@gmail.com"><img src="https://img.shields.io/badge/🔍_Status-Seeking_Internships-00D9FF?style=for-the-badge&labelColor=1a1a2e" /></a>
 <a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/⚛️_Stack-React_•_Spring_Boot_•_Node-FFA500?style=for-the-badge&labelColor=1a1a2e" /></a>
-<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/🗄️_Databases-MySQL_•_MongoDB-47A248?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/🤖_ML-Scikit--Learn_•_LightGBM-47A248?style=for-the-badge&labelColor=1a1a2e" /></a>
 <a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/🌍_Open_Source-Contributor-8A2BE2?style=for-the-badge&labelColor=1a1a2e" /></a>
 <a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/📍_Location-Sri_Lanka-00FF88?style=for-the-badge&labelColor=1a1a2e" /></a>
 
@@ -29,12 +29,12 @@
 
 ## 👨‍💻 About Me
 
-I am an **Information Technology Undergraduate at ITUM (University of Moratuwa)** passionate about engineering resilient full-stack web applications, RESTful microservices, and data-driven systems. With proven experience across **Java, React, Spring Boot, Node.js, Express, Laravel, Python, MySQL, and MongoDB**, I focus on writing modular, self-documenting, and scalable production code.
+Hey there! 👋 I am an **Information Technology Undergraduate at the Institute of Technology, University of Moratuwa (ITUM)** in Sri Lanka. I love building practical full-stack web applications and applying machine learning to solve real-world problems.
 
-- 🔍 **Active Career Search:** Actively seeking **Software Engineering** and **Full-Stack Developer Internships** where I can solve real-world problems and collaborate with high-performing engineering teams.
-- ⚡ **Core Engineering Focus:** Modern 3-tier architectures, asynchronous client-server communication, database modeling (ACID Relational & Document NoSQL), and Machine Learning integration.
-- 🤝 **Community & Open Source:** Active Open Source Contributor across global programs including SWOC, GSSOC, SSOC, and OSCG.
-- 🚀 **Continuous Growth:** Deepening expertise in **Cloud Architecture (AWS / Azure / Docker)**, DevOps automation, and scalable distributed backends.
+- 🎓 **Student Life:** Currently studying IT at ITUM, building strong foundations in software engineering principles, algorithms, clean code, and database architecture.
+- 💻 **What I Build:** End-to-end full-stack systems (React, Spring Boot, Node.js) and predictive Machine Learning models (LightGBM, Scikit-Learn for time-series forecasting and regression).
+- 🔍 **Career Goal:** Actively seeking a **Software Engineering / Full-Stack Developer Internship** where I can learn from experienced mentors, contribute to real production code, and grow as an engineer.
+- 🤝 **Community & Learning:** Open source contributor (SWOC, GSSOC, SSOC) and an enthusiastic team player who enjoys continuous learning every day.
 
 ---
 
@@ -42,8 +42,20 @@ I am an **Information Technology Undergraduate at ITUM (University of Moratuwa)*
 
 ### 💻 Programming Languages
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,py,php,c" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,ts,php,c" />
 </a>
+
+### 🤖 Machine Learning & Data Science
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/LightGBM-2E7D32?style=flat-square&logo=codeforces&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+</p>
 
 ### ⚛️ Frameworks & Runtimes
 <a href="https://skillicons.dev">
@@ -79,10 +91,10 @@ I am an **Information Technology Undergraduate at ITUM (University of Moratuwa)*
 
 ## 📌 Featured Projects
 
-Highlighting full-stack architecture, relational & NoSQL database modeling, and scalable systems:
+Highlighting full-stack web platforms, machine learning forecasting, and database design:
 
 <table width="100%">
-  <!-- Top Highlight: LibriQ & AgriDirect -->
+  <!-- Row 1: LibriQ & Electricity Demand Predictor -->
   <tr>
     <!-- Project 1: LibriQ LMS -->
     <td width="50%" valign="top">
@@ -97,24 +109,25 @@ Highlighting full-stack architecture, relational & NoSQL database modeling, and 
         <img src="https://img.shields.io/badge/LKR-Rs._Fine_Engine-F4B942?style=flat-square&labelColor=1E3A5F" />
       </p>
     </td>
-    <!-- Project 2: AgriDirect -->
+    <!-- Project 2: Electricity Consumption Prediction -->
     <td width="50%" valign="top">
-      <h4>🌾 <a href="https://github.com/reezmahanan/AgriDirect">AgriDirect – Farm-to-Business B2B Harvest Exchange</a></h4>
-      <p>A full-stack agricultural marketplace and real-time auction engine eliminating middlemen. Features dual farmer/buyer roles, Dambulla & Manning wholesale benchmark integration, embedded bidding, and cold-chain escrow contract fulfillment.</p>
+      <h4>⚡ <a href="https://github.com/reezmahanan/Electricity-Consumption-Prediction">Electricity Consumption Prediction (Sri Lanka Smart Meter)</a></h4>
+      <p>An end-to-end Machine Learning time-series pipeline forecasting 15-minute residential electricity demand across Sri Lankan households using real-world LIRNEasia smart meter data. Implements calendar clues, lag features, and a tuned LightGBM Regressor achieving an outstanding <b>93.1% R² score</b>.</p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/Mongoose-880000?style=flat-square&logo=mongoose&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/github/stars/reezmahanan/AgriDirect?style=flat-square&color=blue" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/LightGBM-2E7D32?style=flat-square&logo=codeforces&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/R²_Score-0.9307-brightgreen?style=flat-square" />
       </p>
     </td>
   </tr>
+  <!-- Row 2: STYLEO Ceylon & House Price / Academic Predictor -->
   <tr>
     <!-- Project 3: STYLEO Ceylon -->
     <td width="50%" valign="top">
       <h4>🛍️ <a href="https://github.com/reezmahanan/STYLEO-Ceylon">STYLEO Ceylon – Full-Stack E-Commerce System</a></h4>
-      <p>A production-ready 3-tier apparel platform featuring asynchronous native <code>fetch()</code> client engine, Express REST API, and a normalized MySQL 8 database with ACID transactional checkout and live courier tracking.</p>
+      <p>A production-ready 3-tier apparel platform featuring an asynchronous native <code>fetch()</code> client engine, Express REST API, and a normalized MySQL 8 database with ACID transactional checkout and live courier tracking.</p>
       <p>
         <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />&nbsp;
@@ -123,40 +136,16 @@ Highlighting full-stack architecture, relational & NoSQL database modeling, and 
         <img src="https://img.shields.io/github/stars/reezmahanan/STYLEO-Ceylon?style=flat-square&color=blue" />
       </p>
     </td>
-    <!-- Project 4: SCM IMS -->
+    <!-- Project 4: House Price / Academic Performance Predictor -->
     <td width="50%" valign="top">
-      <h4>📦 <a href="https://github.com/reezmahanan/SCM-IMS">SCM - Inventory Management System (Enterprise)</a></h4>
-      <p>Enterprise supply chain and multi-tier inventory control system engineered for stock movements, vendor logistics, automated alerts, and real-time business performance analytics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/github/stars/reezmahanan/SCM-IMS?style=flat-square&color=blue" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <!-- Project 5: StudyScore AI -->
-    <td width="50%" valign="top">
-      <h4>🎓 <a href="https://github.com/reezmahanan/StudyScore-AI">StudyScore AI – Student Performance Predictor</a></h4>
-      <p>End-to-end Machine Learning web application forecasting academic examination scores based on structured study time variables, achieving a 99.4% R² regression fit score.</p>
+      <h4>🏡 <a href="https://github.com/reezmahanan/StudyScore-AI">House Price & Performance Predictor (StudyScore AI)</a></h4>
+      <p>End-to-end Machine Learning predictive application leveraging multi-variable regression, feature scaling, and outlier filtering to forecast valuations and target scores based on historical indicators, achieving up to <b>99.4% R² regression fit</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/github/stars/reezmahanan/StudyScore-AI?style=flat-square&color=blue" />
-      </p>
-    </td>
-    <!-- Project 6: POS System -->
-    <td width="50%" valign="top">
-      <h4>🛒 <a href="https://github.com/reezmahanan/POS-System">Retail Point of Sale (POS) Engine</a></h4>
-      <p>A full-featured POS system for retail operations featuring SKU barcode cataloging, automated receipt billing, transaction logs, and daily sales analytics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/github/stars/reezmahanan/POS-System?style=flat-square&color=blue" />
       </p>
     </td>
   </tr>
@@ -167,6 +156,9 @@ Highlighting full-stack architecture, relational & NoSQL database modeling, and 
 
 | Project | Domain / Stack | Repository |
 | :--- | :--- | :--- |
+| **AgriDirect** | Node.js, Express, MongoDB, Mongoose | [View Code](https://github.com/reezmahanan/AgriDirect) |
+| **SCM - Inventory Management** | React, Spring Boot, MySQL | [View Code](https://github.com/reezmahanan/SCM-IMS) |
+| **Retail Point of Sale (POS)** | Laravel, PHP, MySQL, Bootstrap | [View Code](https://github.com/reezmahanan/POS-System) |
 | **Reezma Hanan Portfolio** | React, Netlify, Responsive CSS | [View Code](https://github.com/reezmahanan/Reezma-Hanan-Portfolio) |
 | **Book Nest** | PHP, JavaScript, MySQL | [View Code](https://github.com/reezmahanan/BookNest) |
 | **Event Hub** | PHP, JavaScript, MySQL | [View Code](https://github.com/reezmahanan/Student-Event-Management-Web-Application) |
@@ -184,7 +176,7 @@ Highlighting full-stack architecture, relational & NoSQL database modeling, and 
 
 *Selected professional credentials representing technical competence in industry standards:*
 
-### 📜  Certifications
+### 📜 Certifications
 
 <table width="100%">
   <tr>
@@ -259,7 +251,7 @@ Highlighting full-stack architecture, relational & NoSQL database modeling, and 
 | **Introduction to Cloud Computing** | Simplilearn | [View Credential](https://github.com/user-attachments/assets/f6f704f6-4af2-4628-b44e-19701f4e51fd) |
 | **Introduction to Cyber Security** | Simplilearn | [View Credential](https://github.com/user-attachments/assets/708a3d71-8ed8-43fa-8d48-c4c2ef780977) |
 | **UI/UX for Beginners** | Great Learning Academy | [View Credential](https://github.com/user-attachments/assets/8611355c-f9ee-4791-adab-bc72be7e9d56) |
-| **HTML** | Great Learning Academy | [View Credential](https://github.com/user-attachments/assets/2fb025ee-46b8-4949-b3ba-4a9ceb4bc3e1) |
+| **HTML** | Great Learning Academy | [View Credential](https://github.com/user-attachments/2fb025ee-46b8-4949-b3ba-4a9ceb4bc3e1) |
 | **MySQL Tutorial** | Great Learning Academy | [View Credential](https://github.com/user-attachments/assets/3c62470d-4844-4bb2-beb6-569e878bca57) |
 | **Programming Basics** | Great Learning Academy | [View Credential](https://github.com/user-attachments/assets/7c524fff-72d7-4199-8ffe-a7d3edd2a525) |
 | **Python Fundamentals for Beginners** | Great Learning Academy | [View Credential](https://github.com/user-attachments/assets/a602a5be-b2c9-476c-8b55-26afd6feddb8) |
