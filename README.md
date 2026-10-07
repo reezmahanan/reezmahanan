@@ -9,17 +9,17 @@
 <br/>
 
 <!-- Status & Focus Badges -->
-<a href="https://www.linkedin.com/in/reezma-hanan"><img src="https://img.shields.io/badge/🎓_Role-IT_Undergraduate_at_ITUM-9B59B6?style=for-the-badge&labelColor=1a1a2e" /></a>
-<a href="mailto:reezmahanan@gmail.com"><img src="https://img.shields.io/badge/🔍_Status-Seeking_Internships-00D9FF?style=for-the-badge&labelColor=1a1a2e" /></a>
-<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/⚛️_Stack-React_•_Spring_Boot_•_Node-FFA500?style=for-the-badge&labelColor=1a1a2e" /></a>
-<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/🤖_ML-Scikit--Learn_•_LightGBM-47A248?style=for-the-badge&labelColor=1a1a2e" /></a>
-<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/🌍_Open_Source-Contributor-8A2BE2?style=for-the-badge&labelColor=1a1a2e" /></a>
-<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/📍_Location-Sri_Lanka-00FF88?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="https://www.linkedin.com/in/reezma-hanan"><img src="https://img.shields.io/badge/Role-IT_Undergraduate_at_ITUM-9B59B6?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="mailto:reezmahanan@gmail.com"><img src="https://img.shields.io/badge/Status-Seeking_Internships-00D9FF?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/Stack-React_•_Spring_Boot_•_Node-FFA500?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/ML-Scikit--Learn_•_LightGBM-47A248?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/Open_Source-Contributor-8A2BE2?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/Location-Sri_Lanka-00FF88?style=for-the-badge&labelColor=1a1a2e" /></a>
 
 <br/><br/>
 
 <p align="center">
-  <b><i>"Learn continuously, build consistently, and engineer scalable solutions that matter. 🚀"</i></b>
+  <b><i>"Learn continuously, build consistently, and engineer scalable solutions that matter."</i></b>
 </p>
 
 <!-- Decorative Line -->
@@ -27,25 +27,25 @@
 
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
-Hey there! 👋 I am an **Information Technology Undergraduate at the Institute of Technology, University of Moratuwa (ITUM)** in Sri Lanka. I love building practical full-stack web applications and applying machine learning to solve real-world problems.
+Hey there! I am an **Information Technology Undergraduate at the Institute of Technology, University of Moratuwa (ITUM)** in Sri Lanka. I love building practical full-stack web applications and applying machine learning to solve real-world problems.
 
-- 🎓 **Student Life:** Currently studying IT at ITUM, building strong foundations in software engineering principles, algorithms, clean code, and database architecture.
-- 💻 **What I Build:** End-to-end full-stack systems (React, Spring Boot, Node.js) and predictive Machine Learning models (LightGBM, Scikit-Learn for time-series forecasting and regression).
-- 🔍 **Career Goal:** Actively seeking a **Software Engineering / Full-Stack Developer Internship** where I can learn from experienced mentors, contribute to real production code, and grow as an engineer.
-- 🤝 **Community & Learning:** Open source contributor (SWOC, GSSOC, SSOC) and an enthusiastic team player who enjoys continuous learning every day.
+- **Student Life:** Currently studying IT at ITUM, building strong foundations in software engineering principles, algorithms, clean code, and database architecture.
+- **What I Build:** End-to-end full-stack systems (React, Spring Boot, Node.js) and predictive Machine Learning models (LightGBM, Scikit-Learn for time-series forecasting and regression).
+- **Career Goal:** Actively seeking a **Software Engineering / Full-Stack Developer Internship** where I can learn from experienced mentors, contribute to real production code, and grow as an engineer.
+- **Community & Learning:** Open source contributor (SWOC, GSSOC, SSOC) and an enthusiastic team player who enjoys continuous learning every day.
 
 ---
 
-## 🛠️ Technical Skills & Architecture
+## Technical Skills & Architecture
 
-### 💻 Programming Languages
+### Programming Languages
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,py,js,ts,php,c" />
 </a>
 
-### 🤖 Machine Learning & Data Science
+### Machine Learning & Data Science
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />&nbsp;
@@ -57,39 +57,39 @@ Hey there! 👋 I am an **Information Technology Undergraduate at the Institute 
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
 </p>
 
-### ⚛️ Frameworks & Runtimes
+### Frameworks & Runtimes
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,laravel" />
 </a>
 
-### 🗄️ Databases & Persistence
+### Databases & Persistence
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </a>
 
-### 🌐 Frontend & Styling
+### Frontend & Styling
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
 </a>
 
-### ☁️ Cloud, DevOps & Systems
+### Cloud, DevOps & Systems
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=aws,docker,linux" />
 </a>
 
-### 🔧 Developer Tools & Testing
+### Developer Tools & Testing
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,npm,postman,idea,vscode" />
 </a>
 
-### 🎨 UI/UX & Prototyping
+### UI/UX & Prototyping
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 </a>
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 Highlighting full-stack web platforms, machine learning forecasting, and database design:
 
@@ -98,7 +98,7 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
   <tr>
     <!-- Project 1: LibriQ LMS -->
     <td width="50%" valign="top">
-      <h4>📚 <a href="https://github.com/reezmahanan/LibriQ">LibriQ – Sri Lankan University Library Management System</a></h4>
+      <h4><a href="https://github.com/reezmahanan/LibriQ">LibriQ – Sri Lankan University Library Management System</a></h4>
       <p>A comprehensive MERN circulation platform tailored for Sri Lankan university standards. Features a dedicated trilingual switcher (English <code>EN</code>, தமிழ் <code>TA</code>, සිංහල <code>SI</code>), role-based permissions (Librarian/Student), barcoded Accession No (<code>ACC-...</code>), Dewey Decimal Call numbers (DDC), student index rosters, and automated LKR late fine calculations (Rs. 10/day).</p>
       <p>
         <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
@@ -111,7 +111,7 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
     </td>
     <!-- Project 2: Electricity Consumption Prediction -->
     <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/reezmahanan/Electricity-Consumption-Prediction">Electricity Consumption Prediction (Sri Lanka Smart Meter)</a></h4>
+      <h4><a href="https://github.com/reezmahanan/Electricity-Consumption-Prediction">Electricity Consumption Prediction (Sri Lanka Smart Meter)</a></h4>
       <p>An end-to-end Machine Learning time-series pipeline forecasting 15-minute residential electricity demand across Sri Lankan households using real-world LIRNEasia smart meter data. Implements calendar clues, lag features, and a tuned LightGBM Regressor achieving an outstanding <b>93.1% R² score</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
@@ -126,7 +126,7 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
   <tr>
     <!-- Project 3: STYLEO Ceylon -->
     <td width="50%" valign="top">
-      <h4>🛍️ <a href="https://github.com/reezmahanan/STYLEO-Ceylon">STYLEO Ceylon – Full-Stack E-Commerce System</a></h4>
+      <h4><a href="https://github.com/reezmahanan/STYLEO-Ceylon">STYLEO Ceylon – Full-Stack E-Commerce System</a></h4>
       <p>A production-ready 3-tier apparel platform featuring an asynchronous native <code>fetch()</code> client engine, Express REST API, and a normalized MySQL 8 database with ACID transactional checkout and live courier tracking.</p>
       <p>
         <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;
@@ -138,7 +138,7 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
     </td>
     <!-- Project 4: House Price / Academic Performance Predictor -->
     <td width="50%" valign="top">
-      <h4>🏡 <a href="https://github.com/reezmahanan/StudyScore-AI">House Price & Performance Predictor (StudyScore AI)</a></h4>
+      <h4><a href="https://github.com/reezmahanan/StudyScore-AI">House Price & Performance Predictor (StudyScore AI)</a></h4>
       <p>End-to-end Machine Learning predictive application leveraging multi-variable regression, feature scaling, and outlier filtering to forecast valuations and target scores based on historical indicators, achieving up to <b>99.4% R² regression fit</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
@@ -152,7 +152,7 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
 </table>
 
 <details>
-<summary>📂 <b>View More Repositories & Prototypes</b></summary>
+<summary><b>View More Repositories & Prototypes</b></summary>
 
 | Project | Domain / Stack | Repository |
 | :--- | :--- | :--- |
@@ -172,33 +172,52 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
 
 ---
 
-## 🏆 Highlighted Certifications & Professional Badges
+## Highlighted Certifications & Professional Badges
 
 *Selected professional credentials representing technical competence in industry standards:*
 
-### 📜 Certifications
+### Certifications
 
+### Certifications
+
+<!-- Row 1: 4 Professional Certifications (25% equal width each) -->
 <table width="100%">
   <tr>
-    <td width="33%" align="center" valign="top">
+    <td width="25%" align="center" valign="top">
+      <b>Frontend Developer React</b><br/>
+      <i>HackerRank</i><br/><br/>
+      <a href="https://www.hackerrank.com/certificates/6cae31c2c403">
+        <img src="https://github.com/user-attachments/assets/181c6d88-12af-4f64-9767-60074e54cbe1" width="100%" alt="Frontend Developer React Certificate"/>
+      </a>
+    </td>
+    <td width="25%" align="center" valign="top">
       <b>Docker for Absolute Beginners</b><br/>
       <i>KodeKloud</i><br/><br/>
-      <img src="https://github.com/user-attachments/assets/2c597dcf-47b4-47c3-a4bb-6ba9f0e86961" width="100%" alt="Docker Certificate"/>
+      <a href="https://learn.kodekloud.com/learn/certificate/3e5f41f9-9caf-4f40-a18c-9e0a6d3f7978">
+        <img src="https://github.com/user-attachments/assets/2c597dcf-47b4-47c3-a4bb-6ba9f0e86961" width="100%" alt="Docker Certificate"/>
+      </a>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="25%" align="center" valign="top">
       <b>Cyber Security Essential (LFC108)</b><br/>
       <i>The Linux Foundation</i><br/><br/>
-      <img src="https://github.com/user-attachments/assets/e2af4b8a-df7d-4be4-91a2-c229685cb44c" width="100%" alt="Linux Foundation Certificate"/>
+      <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/0508ad4c-dfe7-4044-b2f4-145bc0c3aad5-reezma-hanan-1fee3867-40b6-4d53-a0d2-c7e97ccb3f29-certificate.pdf">
+        <img src="https://github.com/user-attachments/assets/e2af4b8a-df7d-4be4-91a2-c229685cb44c" width="100%" alt="Linux Foundation Certificate"/>
+      </a>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="25%" align="center" valign="top">
       <b>Agile Scrum Foundation</b><br/>
       <i>Simplilearn</i><br/><br/>
-      <img src="https://github.com/user-attachments/assets/40df952e-ee56-491b-a8ec-32c704a659dd" width="100%" alt="Agile Scrum Certificate"/>
+      <a href="https://simpli-web.app.link/e/pxITlA1Tb0b">
+        <img src="https://github.com/user-attachments/assets/40df952e-ee56-491b-a8ec-32c704a659dd" width="100%" alt="Agile Scrum Certificate"/>
+      </a>
     </td>
   </tr>
+</table>
+
+<!-- Row 2: 3 Specialized Verified Skills & Credentials (33.33% equal width each) -->
+<table width="100%">
   <tr>
-    <!-- HackerRank Section: Cleanly aligned with direct verified links -->
-    <td width="33%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="top">
       <b>HackerRank Verified Skills</b><br/>
       <i>Java • Python • SQL • JS • CSS</i><br/><br/>
       <a href="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5">
@@ -207,27 +226,32 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
       <br/><br/>
       <sub>
         <b>Direct Verifications:</b><br/>
-        <a href="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5"> Java</a> •
-        <a href="https://github.com/user-attachments/assets/213ee016-3766-48ad-96ba-af5f6d82d0cc"> Python</a> •
-        <a href="https://github.com/user-attachments/assets/dd15f2fe-7e86-4979-b50e-cc47f980a6ae"> SQL</a><br/>
-        <a href="https://github.com/user-attachments/assets/871e1c2c-f5ff-4293-85d2-1fb31d88c66e"> JavaScript</a> •
-        <a href="https://github.com/user-attachments/assets/58fe106f-28b0-451e-82d2-9d837eb0c473"> CSS</a>
+        <a href="https://www.hackerrank.com/certificates/6cae31c2c403">React</a> •
+        <a href="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5">Java</a> •
+        <a href="https://github.com/user-attachments/assets/213ee016-3766-48ad-96ba-af5f6d82d0cc">Python</a> •
+        <a href="https://github.com/user-attachments/assets/dd15f2fe-7e86-4979-b50e-cc47f980a6ae">SQL</a><br/>
+        <a href="https://github.com/user-attachments/assets/871e1c2c-f5ff-4293-85d2-1fb31d88c66e">JavaScript</a> •
+        <a href="https://github.com/user-attachments/assets/58fe106f-28b0-451e-82d2-9d837eb0c473">CSS</a>
       </sub>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="top">
       <b>Front-End Web Development</b><br/>
       <i>University of Moratuwa CODL</i><br/><br/>
-      <img src="https://github.com/user-attachments/assets/60d5d685-26e1-420c-845c-77f39e1e6465" width="100%" alt="UOM Front End Certificate"/>
+      <a href="https://open.uom.lk/lms/mod/customcert/view.php?id=839&downloadown=1">
+        <img src="https://github.com/user-attachments/assets/60d5d685-26e1-420c-845c-77f39e1e6465" width="100%" alt="UOM Front End Certificate"/>
+      </a>
     </td>
-    <td width="33%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="top">
       <b>Cyber Security</b><br/>
       <i>Cisco Networking Academy</i><br/><br/>
-      <img src="https://github.com/user-attachments/assets/39c1eb9f-1f52-4119-ab39-f3a25c404c89" width="100%" alt="Cisco Certificate"/>
+      <a href="https://www.credly.com/badges/e39f3377-2df8-409a-a9ed-42e869c1d511">
+        <img src="https://github.com/user-attachments/assets/39c1eb9f-1f52-4119-ab39-f3a25c404c89" width="100%" alt="Cisco Certificate"/>
+      </a>
     </td>
   </tr>
 </table>
 
-### 🏅 Verified Skill Badges
+### Verified Skill Badges
 
 <div align="center">
   <img width="160" alt="Cyber Security Cisco Badge" src="https://github.com/user-attachments/assets/2a168050-4437-4be6-9830-984408e0307a" />&nbsp;&nbsp;
@@ -237,7 +261,7 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
 </div>
 
 <details>
-<summary>📑 <b>View Additional 20+ Certifications & Technical Credentials</b></summary>
+<summary><b>View Additional 20+ Certifications & Technical Credentials</b></summary>
 
 | Certificate | Issuer | View Certificate |
 | :--- | :--- | :--- |
@@ -268,9 +292,9 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
 
 ---
 
-## 🌍 Open Source Contributions
+## Open Source Contributions
 
-I actively collaborate on community-driven open-source projects, which allows me to gain real-world production experience:
+I actively collaborate on community-driven open-source projects, gaining real-world production experience:
 
 * **SWOC (Social Winter of Code):** Open Source Contributor. Contributed to [SafeHaven](https://github.com/archangel2006/SafeHaven)
 * **OSCG (Open Source Connect Global):** Open Source Contributor. Contributed to [blockchain-evidence](https://github.com/Gooichand/blockchain-evidence)
@@ -279,7 +303,7 @@ I actively collaborate on community-driven open-source projects, which allows me
 
 ---
 
-## 📊 GitHub Analytics & Contributions
+## GitHub Analytics & Contributions
 
 <div align="center">
 
@@ -335,7 +359,7 @@ I actively collaborate on community-driven open-source projects, which allows me
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 I am always open to discussing new opportunities, full-stack engineering challenges, and internship roles. Feel free to reach out!
 
@@ -355,7 +379,7 @@ I am always open to discussing new opportunities, full-stack engineering challen
 </p>
 
 <p align="center">
-  ⭐ <b>If you find my work helpful or interesting, a star on my repositories is always appreciated!</b>
+  <b>If you find my work helpful or interesting, a star on my repositories is always appreciated!</b>
 </p>
 
 <br/>
@@ -364,11 +388,11 @@ I am always open to discussing new opportunities, full-stack engineering challen
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
 
 <sub>
-© 2026 Reezma Hanan • Software Engineering Undergraduate • Sri Lanka 🇱🇰
+© 2026 Reezma Hanan • Software Engineering Undergraduate • Sri Lanka
 </sub>
 
 <br/>
 
-### ✨ Thank you for visiting! ✨
+### Thank you for visiting!
 
 </div>
