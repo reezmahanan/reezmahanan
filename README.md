@@ -46,16 +46,9 @@ Hey there! I am an **Information Technology Undergraduate at the Institute of Te
 </a>
 
 ### Machine Learning & Data Science
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/LightGBM-2E7D32?style=flat-square&logo=codeforces&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
-</p>
+<a href="https://github.com/reezmahanan">
+  <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/ml-skills.svg" alt="Python, Scikit-Learn, Pandas, NumPy, LightGBM, Kaggle" />
+</a>
 
 ### Frameworks & Runtimes
 <a href="https://skillicons.dev">
@@ -133,6 +126,7 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />&nbsp;
+        <a href="https://project-04-production-79a4.up.railway.app/"><img src="https://img.shields.io/badge/Live_Demo-Railway-00D9FF?style=flat-square&logo=railway&logoColor=white" /></a>&nbsp;
         <img src="https://img.shields.io/github/stars/reezmahanan/STYLEO-Ceylon?style=flat-square&color=blue" />
       </p>
     </td>
@@ -156,6 +150,7 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
 
 | Project | Domain / Stack | Repository |
 | :--- | :--- | :--- |
+| **TaskFlow Dashboard** | TypeScript, Vite, React | [View Code](https://github.com/reezmahanan/TaskFlow) • [Live Demo](https://task-flow-coral-iota.vercel.app/) |
 | **AgriDirect** | Node.js, Express, MongoDB, Mongoose | [View Code](https://github.com/reezmahanan/AgriDirect) |
 | **SCM - Inventory Management** | React, Spring Boot, MySQL | [View Code](https://github.com/reezmahanan/SCM-IMS) |
 | **Retail Point of Sale (POS)** | Laravel, PHP, MySQL, Bootstrap | [View Code](https://github.com/reezmahanan/POS-System) |
@@ -163,7 +158,7 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
 | **Book Nest** | PHP, JavaScript, MySQL | [View Code](https://github.com/reezmahanan/BookNest) |
 | **Event Hub** | PHP, JavaScript, MySQL | [View Code](https://github.com/reezmahanan/Student-Event-Management-Web-Application) |
 | **ReciPick** | React, Vite, CSS3 | [View Code](https://github.com/reezmahanan/RECIPICK) |
-| **Weather App** | React, OpenWeather API | [View Code](https://github.com/reezmahanan/Weather-App) |
+| **Weather App** | React, OpenWeather API | [View Code](https://github.com/reezmahanan/Weather-App) • [Live Demo](https://weather-app-pi-teal-17.vercel.app/) |
 | **TasteVerse** | HTML5, CSS3, JavaScript | [View Code](https://github.com/reezmahanan/TasteVerse.git) |
 | **Reezma Tech Services** | HTML5, CSS3, JavaScript | [View Code](https://github.com/reezmahanan/Reezma-tech-services) |
 | **CareerBridge** | Responsive Web UI | [View Code](https://github.com/reezmahanan/CareerBridge) |
@@ -175,8 +170,6 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
 ## Highlighted Certifications & Professional Badges
 
 *Selected professional credentials representing technical competence in industry standards:*
-
-### Certifications
 
 ### Certifications
 
@@ -219,7 +212,7 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
   <tr>
     <td width="33.33%" align="center" valign="top">
       <b>HackerRank Verified Skills</b><br/>
-      <i>Java • Python • SQL • JS • CSS</i><br/><br/>
+      <i>React • Node • Java • Python • SQL • JS • CSS</i><br/><br/>
       <a href="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5">
         <img src="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5" width="100%" alt="HackerRank Java Certificate"/>
       </a>
@@ -227,9 +220,10 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
       <sub>
         <b>Direct Verifications:</b><br/>
         <a href="https://www.hackerrank.com/certificates/6cae31c2c403">React</a> •
+        <a href="https://www.hackerrank.com/certificates/c4f275cc19e0">Node</a>  •
         <a href="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5">Java</a> •
-        <a href="https://github.com/user-attachments/assets/213ee016-3766-48ad-96ba-af5f6d82d0cc">Python</a> •
-        <a href="https://github.com/user-attachments/assets/dd15f2fe-7e86-4979-b50e-cc47f980a6ae">SQL</a><br/>
+        <a href="https://github.com/user-attachments/assets/213ee016-3766-48ad-96ba-af5f6d82d0cc">Python</a><br/>
+        <a href="https://github.com/user-attachments/assets/dd15f2fe-7e86-4979-b50e-cc47f980a6ae">SQL</a> •
         <a href="https://github.com/user-attachments/assets/871e1c2c-f5ff-4293-85d2-1fb31d88c66e">JavaScript</a> •
         <a href="https://github.com/user-attachments/assets/58fe106f-28b0-451e-82d2-9d837eb0c473">CSS</a>
       </sub>
@@ -265,6 +259,7 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
 
 | Certificate | Issuer | View Certificate |
 | :--- | :--- | :--- |
+| **Node.js (Basic)** | HackerRank | [Verify Credential](https://www.hackerrank.com/certificates/c4f275cc19e0) • [View Image](https://github.com/user-attachments/assets/86a4e53d-9969-4579-ba0c-6e57ac72a3c1) |
 | **Introduction to Git** | Microsoft | [View Credential](https://github.com/user-attachments/assets/54776ea4-ec42-4b50-9108-40ea13519724) |
 | **Introduction to Github Copilot** | Microsoft | [View Credential](https://github.com/user-attachments/assets/cef427dc-028d-44b6-b023-43f63b0d7d78) |
 | **Describe Cloud Computing** | Microsoft | [View Credential](https://github.com/user-attachments/assets/caf21974-5cce-47fc-808b-7d1cc7726e45) |
@@ -365,7 +360,7 @@ I am always open to discussing new opportunities, full-stack engineering challen
 
 <div align="center">
 
-<a href="https://spectacular-narwhal-9eb659.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF61A6?style=for-the-badge&logo=react&logoColor=white"/></a>&nbsp;&nbsp;
+<a href="https://portfolio-website-7mdi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-FF61A6?style=for-the-badge&logo=react&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/reezma-hanan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="mailto:reezmahanan@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;&nbsp;
 <a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;&nbsp;
