@@ -93,6 +93,10 @@ Hey there! I am an **Information Technology Undergraduate at the Institute of Te
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 </a>
+<a href="https://www.canva.com">
+  <img src="https://img.icons8.com/color/96/canva.png" width="48" height="48" alt="Canva" />
+</a>
+
 
 ---
 
