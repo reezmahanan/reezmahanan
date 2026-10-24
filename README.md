@@ -79,6 +79,9 @@ Hey there! I am an **Information Technology Undergraduate at the Institute of Te
 </a>
 
 ### IoT & Hardware Simulation
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=arduino" />
+</a>
 <a href="https://www.tinkercad.com">
   <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/tinkercad.png" width="48" height="48" alt="Tinkercad" />
 </a>
