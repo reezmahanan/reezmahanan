@@ -72,7 +72,18 @@ Hey there! I am an **Information Technology Undergraduate at the Institute of Te
 
 ### Developer Tools & Testing
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,postman,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,postman,idea,vscode,selenium" />
+</a>
+<a href="https://testng.org">
+  <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/testng.png" width="48" height="48" alt="TestNG" />
+</a>
+
+### IoT & Hardware Simulation
+<a href="https://www.tinkercad.com">
+  <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/tinkercad.png" width="48" height="48" alt="Tinkercad" />
+</a>
+<a href="https://thingspeak.com">
+  <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/thingspeak.png" width="48" height="48" alt="ThingSpeak" />
 </a>
 
 ### UI/UX & Prototyping
