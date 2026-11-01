@@ -9,17 +9,17 @@
 <br/>
 
 <!-- Status & Focus Badges -->
-<a href="https://www.linkedin.com/in/reezma-hanan"><img src="https://img.shields.io/badge/Role-IT_Undergraduate_at_ITUM-9B59B6?style=for-the-badge&labelColor=1a1a2e" /></a>
-<a href="mailto:reezmahanan@gmail.com"><img src="https://img.shields.io/badge/Status-Seeking_Internships-00D9FF?style=for-the-badge&labelColor=1a1a2e" /></a>
-<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/Stack-React_•_Spring_Boot_•_Node-FFA500?style=for-the-badge&labelColor=1a1a2e" /></a>
-<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/ML-Scikit--Learn_•_LightGBM-47A248?style=for-the-badge&labelColor=1a1a2e" /></a>
-<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/Open_Source-Contributor-8A2BE2?style=for-the-badge&labelColor=1a1a2e" /></a>
-<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/Location-Sri_Lanka-00FF88?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="https://www.linkedin.com/in/reezma-hanan"><img src="https://img.shields.io/badge/🎓_Role-IT_Undergraduate_at_ITUM-9B59B6?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="mailto:reezmahanan@gmail.com"><img src="https://img.shields.io/badge/🔍_Status-Seeking_Internships-00D9FF?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/⚛️_Stack-React_•_Spring_Boot_•_Node-FFA500?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/🤖_ML-Scikit--Learn_•_LightGBM-47A248?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/🌍_Open_Source-Contributor-8A2BE2?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/📍_Location-Sri_Lanka-00FF88?style=for-the-badge&labelColor=1a1a2e" /></a>
 
 <br/><br/>
 
 <p align="center">
-  <b><i>"Learn continuously, build consistently, and engineer scalable solutions that matter."</i></b>
+  <b><i>"Learn continuously, build consistently, and engineer scalable solutions that matter. 🚀"</i></b>
 </p>
 
 <!-- Decorative Line -->
@@ -27,58 +27,61 @@
 
 </div>
 
-## About Me
+## 👨‍💻 About Me
 
-Hey there! I am an **Information Technology Undergraduate at the Institute of Technology, University of Moratuwa (ITUM)** in Sri Lanka. I love building practical full-stack web applications and applying machine learning to solve real-world problems.
+Hey there! 👋 I am an **Information Technology Undergraduate at the Institute of Technology, University of Moratuwa (ITUM)** in Sri Lanka. I love building practical full-stack web applications and applying machine learning to solve real-world problems.
 
-- **Student Life:** Currently studying IT at ITUM, building strong foundations in software engineering principles, algorithms, clean code, and database architecture.
-- **What I Build:** End-to-end full-stack systems (React, Spring Boot, Node.js) and predictive Machine Learning models (LightGBM, Scikit-Learn for time-series forecasting and regression).
-- **Career Goal:** Actively seeking a **Software Engineering / Full-Stack Developer Internship** where I can learn from experienced mentors, contribute to real production code, and grow as an engineer.
-- **Community & Learning:** Open source contributor (SWOC, GSSOC, SSOC) and an enthusiastic team player who enjoys continuous learning every day.
+- 🎓 **Student Life:** Currently studying IT at ITUM, building strong foundations in software engineering principles, algorithms, clean code, and database architecture.
+- 💻 **What I Build:** End-to-end full-stack systems (React, Spring Boot, Node.js) and predictive Machine Learning models (LightGBM, Scikit-Learn for time-series forecasting and regression).
+- 🔍 **Career Goal:** Actively seeking a **Software Engineering / Full-Stack Developer Internship** where I can learn from experienced mentors, contribute to real production code, and grow as an engineer.
+- 🤝 **Community & Learning:** Open source contributor (SWOC, OSCG, OSCI, SSOC, GSSOC) and an enthusiastic team player who enjoys continuous learning every day.
 
 ---
 
-## Technical Skills & Architecture
+## 🛠️ Technical Skills & Architecture
 
-### Programming Languages
+### 💻 Programming Languages
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=java,py,js,ts,php,c" />
 </a>
 
-### Machine Learning & Data Science
+### 🤖 Machine Learning & Data Science
 <a href="https://github.com/reezmahanan">
   <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/ml-skills.svg" alt="Python, Scikit-Learn, Pandas, NumPy, LightGBM, Kaggle" />
 </a>
 
-### Frameworks & Runtimes
+### ⚛️ Frameworks & Runtimes
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,laravel" />
 </a>
 
-### Databases & Persistence
+### 🗄️ Databases & Persistence
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </a>
 
-### Frontend & Styling
+### 🌐 Frontend & Styling
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind" />
 </a>
 
-### Cloud, DevOps & Systems
+### ☁️ Cloud, DevOps & Systems
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=aws,docker,linux" />
 </a>
 
-### Developer Tools & Testing
+### 🔧 Developer Tools & Testing
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,npm,postman,idea,vscode,selenium" />
 </a>
 <a href="https://testng.org">
   <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/testng.png" width="48" height="48" alt="TestNG" />
 </a>
+<a href="https://colab.research.google.com">
+  <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/colab.svg" width="48" height="48" alt="Google Colab" />
+</a>
 
-### IoT & Hardware Simulation
+### ⚡ IoT & Hardware Simulation
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=arduino" />
 </a>
@@ -89,7 +92,7 @@ Hey there! I am an **Information Technology Undergraduate at the Institute of Te
   <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/thingspeak.png" width="48" height="48" alt="ThingSpeak" />
 </a>
 
-### UI/UX & Prototyping
+### 🎨 UI/UX & Prototyping
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 </a>
@@ -97,19 +100,41 @@ Hey there! I am an **Information Technology Undergraduate at the Institute of Te
   <img src="https://img.icons8.com/color/96/canva.png" width="48" height="48" alt="Canva" />
 </a>
 
+### 👑 Soft Skills & Team Leadership
+<p>
+  <img src="https://img.shields.io/badge/Team_Leadership-00D9FF?style=flat-square&logo=superuser&logoColor=black" />&nbsp;
+  <img src="https://img.shields.io/badge/Problem_Solving-3776AB?style=flat-square&logo=target&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Team_Collaboration-9B59B6?style=flat-square&logo=slack&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Project_Coordination-FFA500?style=flat-square&logo=trello&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Effective_Communication-47A248?style=flat-square&logo=googlechat&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Time_Management-00FF88?style=flat-square&logo=clockify&logoColor=black" />
+</p>
 
 ---
 
-## Featured Projects
+## 📌 Featured Projects
 
 Highlighting full-stack web platforms, machine learning forecasting, and database design:
 
 <table width="100%">
-  <!-- Row 1: LibriQ & Electricity Demand Predictor -->
+  <!-- Row 1: EduNexus & LibriQ LMS -->
   <tr>
-    <!-- Project 1: LibriQ LMS -->
+    <!-- Project 1: EduNexus SMS -->
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/reezmahanan/LibriQ">LibriQ – Sri Lankan University Library Management System</a></h4>
+      <h4>🎓 <a href="https://github.com/reezmahanan/Student-Management-System">EduNexus – Advanced Student Management System (SMS)</a></h4>
+      <p>A full-stack enterprise-grade academic management system built with Spring Boot 3, React 19, Material UI, and MySQL/H2. Features multi-role RBAC &amp; JWT security (ADMIN, TEACHER, STUDENT), student directory with course enrollment, roll call attendance register, continuous assessment GPA &amp; G.C.E. A/L Z-Score engine, fee invoicing, AI academic risk early warning advisor, and 1-click official PDF/Excel transcript exports.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot_3-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/React_19-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
+        <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/AI-Risk_Advisor-9B59B6?style=flat-square&labelColor=1a1a2e" />
+      </p>
+    </td>
+    <!-- Project 2: LibriQ LMS -->
+    <td width="50%" valign="top">
+      <h4>📚 <a href="https://github.com/reezmahanan/LibriQ">LibriQ – Sri Lankan University Library Management System</a></h4>
       <p>A comprehensive MERN circulation platform tailored for Sri Lankan university standards. Features a dedicated trilingual switcher (English <code>EN</code>, தமிழ் <code>TA</code>, සිංහල <code>SI</code>), role-based permissions (Librarian/Student), barcoded Accession No (<code>ACC-...</code>), Dewey Decimal Call numbers (DDC), student index rosters, and automated LKR late fine calculations (Rs. 10/day).</p>
       <p>
         <img src="https://img.shields.io/badge/React_18-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
@@ -120,9 +145,25 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
         <img src="https://img.shields.io/badge/LKR-Rs._Fine_Engine-F4B942?style=flat-square&labelColor=1E3A5F" />
       </p>
     </td>
-    <!-- Project 2: Electricity Consumption Prediction -->
+  </tr>
+  <!-- Row 2: STYLEO Ceylon & Electricity Demand Predictor -->
+  <tr>
+    <!-- Project 3: STYLEO Ceylon -->
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/reezmahanan/Electricity-Consumption-Prediction">Electricity Consumption Prediction (Sri Lanka Smart Meter)</a></h4>
+      <h4>🛍️ <a href="https://github.com/reezmahanan/STYLEO-Ceylon">STYLEO Ceylon – Full-Stack E-Commerce System</a></h4>
+      <p>A production-ready 3-tier apparel platform featuring an asynchronous native <code>fetch()</code> client engine, Express REST API, and a normalized MySQL 8 database with ACID transactional checkout and live courier tracking.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />&nbsp;
+        <a href="https://project-01-nu-ruddy.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /></a>&nbsp;
+        <img src="https://img.shields.io/github/stars/reezmahanan/STYLEO-Ceylon?style=flat-square&color=blue" />
+      </p>
+    </td>
+    <!-- Project 4: Electricity Consumption Prediction -->
+    <td width="50%" valign="top">
+      <h4>⚡ <a href="https://github.com/reezmahanan/Electricity-Consumption-Prediction">Electricity Consumption Prediction (Sri Lanka Smart Meter)</a></h4>
       <p>An end-to-end Machine Learning time-series pipeline forecasting 15-minute residential electricity demand across Sri Lankan households using real-world LIRNEasia smart meter data. Implements calendar clues, lag features, and a tuned LightGBM Regressor achieving an outstanding <b>93.1% R² score</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
@@ -133,24 +174,10 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
       </p>
     </td>
   </tr>
-  <!-- Row 2: STYLEO Ceylon & House Price / Academic Predictor -->
+  <!-- Row 3: House Price & Performance Predictor (StudyScore AI) & Event Hub -->
   <tr>
-    <!-- Project 3: STYLEO Ceylon -->
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/reezmahanan/STYLEO-Ceylon">STYLEO Ceylon – Full-Stack E-Commerce System</a></h4>
-      <p>A production-ready 3-tier apparel platform featuring an asynchronous native <code>fetch()</code> client engine, Express REST API, and a normalized MySQL 8 database with ACID transactional checkout and live courier tracking.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Vanilla_JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/MySQL_8-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />&nbsp;
-        <a href="https://project-04-production-79a4.up.railway.app/"><img src="https://img.shields.io/badge/Live_Demo-Railway-00D9FF?style=flat-square&logo=railway&logoColor=white" /></a>&nbsp;
-        <img src="https://img.shields.io/github/stars/reezmahanan/STYLEO-Ceylon?style=flat-square&color=blue" />
-      </p>
-    </td>
-    <!-- Project 4: House Price / Academic Performance Predictor -->
-    <td width="50%" valign="top">
-      <h4><a href="https://github.com/reezmahanan/StudyScore-AI">House Price & Performance Predictor (StudyScore AI)</a></h4>
+      <h4>🏡 <a href="https://github.com/reezmahanan/StudyScore-AI">House Price &amp; Performance Predictor (StudyScore AI)</a></h4>
       <p>End-to-end Machine Learning predictive application leveraging multi-variable regression, feature scaling, and outlier filtering to forecast valuations and target scores based on historical indicators, achieving up to <b>99.4% R² regression fit</b>.</p>
       <p>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
@@ -160,20 +187,33 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
         <img src="https://img.shields.io/github/stars/reezmahanan/StudyScore-AI?style=flat-square&color=blue" />
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h4>🎫 <a href="https://github.com/reezmahanan/Student-Event-Management-Web-Application">Event Hub – Campus Event Management Platform</a></h4>
+      <p>Full-stack dynamic campus event platform streamlining attendee registrations, seat capacity management, multi-role access controls (Admins, Organizers, Attendees), and automated RSVP alerts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;
+        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />&nbsp;
+        <img src="https://img.shields.io/badge/Auth-Multi--Role-blue?style=flat-square" />
+      </p>
+    </td>
   </tr>
 </table>
 
 <details>
-<summary><b>View More Repositories & Prototypes</b></summary>
+<summary>📂 <b>View More Repositories, Prototypes &amp; Team Projects</b></summary>
 
-| Project | Domain / Stack | Repository |
+| Project | Domain / Stack | Repository / Reference |
 | :--- | :--- | :--- |
+| **EduNexus (SMS)** | Spring Boot 3, React 19, Material UI, MySQL 8, Docker | [View Code](https://github.com/reezmahanan/Student-Management-System) |
 | **TaskFlow Dashboard** | TypeScript, Vite, React | [View Code](https://github.com/reezmahanan/TaskFlow) • [Live Demo](https://task-flow-coral-iota.vercel.app/) |
 | **AgriDirect** | Node.js, Express, MongoDB, Mongoose | [View Code](https://github.com/reezmahanan/AgriDirect) |
-| **SCM - Inventory Management** | React, Spring Boot, MySQL | [View Code](https://github.com/reezmahanan/SCM-IMS) |
+| **SCM - Inventory Management** | React, Spring Boot, MySQL | [View Code](https://github.com/reezmahanan/SCM-IMS) • [LinkedIn Post](https://lnkd.in/p/gvsA2c6x) *(Lead Architecture)* |
 | **Retail Point of Sale (POS)** | Laravel, PHP, MySQL, Bootstrap | [View Code](https://github.com/reezmahanan/POS-System) |
 | **Reezma Hanan Portfolio** | React, Netlify, Responsive CSS | [View Code](https://github.com/reezmahanan/Reezma-Hanan-Portfolio) |
-| **Book Nest** | PHP, JavaScript, MySQL | [View Code](https://github.com/reezmahanan/BookNest) |
+| **Book Nest** | PHP, JavaScript, MySQL | [View Code](https://github.com/reezmahanan/BookNest) • [LinkedIn Post](https://lnkd.in/p/g4kNkrrG) *(Team Lead)* |
+| **Smart Home Automation** | ATmega32, Embedded C, Sensors | [View Code](https://github.com/reezmahanan/Smart-Home) • [LinkedIn Post](https://lnkd.in/p/g-3MrqAp) *(Team Leader)* |
 | **Event Hub** | PHP, JavaScript, MySQL | [View Code](https://github.com/reezmahanan/Student-Event-Management-Web-Application) |
 | **ReciPick** | React, Vite, CSS3 | [View Code](https://github.com/reezmahanan/RECIPICK) |
 | **Weather App** | React, OpenWeather API | [View Code](https://github.com/reezmahanan/Weather-App) • [Live Demo](https://weather-app-pi-teal-17.vercel.app/) |
@@ -185,13 +225,60 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
 
 ---
 
-## Highlighted Certifications & Professional Badges
+
+## 🏆 Highlighted Certifications & Professional Badges
 
 *Selected professional credentials representing technical competence in industry standards:*
 
-### Certifications
+### 📜 Certifications
 
-<!-- Row 1: 4 Professional Certifications (25% equal width each) -->
+<!-- Featured AI & Machine Learning Specialization - SLIIT University (Top Priority) -->
+<table width="100%">
+  <tr>
+    <td width="33.33%" align="center" valign="top">
+      <b>AI/ML Engineer - Stage 1</b><br/>
+      <i>SLIIT University</i><br/><br/>
+      <a href="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/AIML%20Engineer%20stage%201.png">
+        <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/AIML%20Engineer%20stage%201.png" width="100%" alt="AI/ML Engineer Stage 1 Certificate - SLIIT University"/>
+      </a>
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <b>AI/ML Engineer - Stage 2</b><br/>
+      <i>SLIIT University</i><br/><br/>
+      <a href="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/ai%20ml%20engineer%20stage%202.png">
+        <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/ai%20ml%20engineer%20stage%202.png" width="100%" alt="AI/ML Engineer Stage 2 Certificate - SLIIT University"/>
+      </a>
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <b>AI/ML Engineer - Stage 3</b><br/>
+      <i>SLIIT University</i><br/><br/>
+      <a href="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/ai%20ml%20engineer%20stage%203.png">
+        <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/ai%20ml%20engineer%20stage%203.png" width="100%" alt="AI/ML Engineer Stage 3 Certificate - SLIIT University"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <b>Machine Learning Using Python</b><br/>
+      <i>Simplilearn SkillUp</i><br/><br/>
+      <a href="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/Machile%20Learning%20using%20python.png">
+        <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/Machile%20Learning%20using%20python.png" width="100%" alt="Machine Learning Using Python Certificate"/>
+      </a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <b>Frontend Developer React</b><br/>
+      <i>HackerRank</i><br/><br/>
+      <a href="https://www.hackerrank.com/certificates/6cae31c2c403">
+        <img src="https://github.com/user-attachments/assets/181c6d88-12af-4f64-9767-60074e54cbe1" width="100%" alt="Frontend Developer React Certificate"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<!-- Core Engineering & Cloud Certifications -->
 <table width="100%">
   <tr>
     <td width="25%" align="center" valign="top">
@@ -238,10 +325,10 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
       <sub>
         <b>Direct Verifications:</b><br/>
         <a href="https://www.hackerrank.com/certificates/6cae31c2c403">React</a> •
-        <a href="https://www.hackerrank.com/certificates/c4f275cc19e0">Node</a>  •
+        <a href="https://www.hackerrank.com/certificates/c4f275cc19e0">Node</a> •
         <a href="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5">Java</a> •
-        <a href="https://github.com/user-attachments/assets/213ee016-3766-48ad-96ba-af5f6d82d0cc">Python</a><br/>
-        <a href="https://github.com/user-attachments/assets/dd15f2fe-7e86-4979-b50e-cc47f980a6ae">SQL</a> •
+        <a href="https://github.com/user-attachments/assets/213ee016-3766-48ad-96ba-af5f6d82d0cc">Python</a> •
+        <a href="https://github.com/user-attachments/assets/dd15f2fe-7e86-4979-b50e-cc47f980a6ae">SQL</a><br/>
         <a href="https://github.com/user-attachments/assets/871e1c2c-f5ff-4293-85d2-1fb31d88c66e">JavaScript</a> •
         <a href="https://github.com/user-attachments/assets/58fe106f-28b0-451e-82d2-9d837eb0c473">CSS</a>
       </sub>
@@ -263,7 +350,7 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
   </tr>
 </table>
 
-### Verified Skill Badges
+### 🏅 Verified Skill Badges
 
 <div align="center">
   <img width="160" alt="Cyber Security Cisco Badge" src="https://github.com/user-attachments/assets/2a168050-4437-4be6-9830-984408e0307a" />&nbsp;&nbsp;
@@ -273,10 +360,14 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
 </div>
 
 <details>
-<summary><b>View Additional 20+ Certifications & Technical Credentials</b></summary>
+<summary>📑 <b>View Additional 20+ Certifications & Technical Credentials</b></summary>
 
 | Certificate | Issuer | View Certificate |
 | :--- | :--- | :--- |
+| **AI/ML Engineer - Stage 1** | SLIIT University | [View Image](https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/AIML%20Engineer%20stage%201.png) |
+| **AI/ML Engineer - Stage 2** | SLIIT University | [View Image](https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/ai%20ml%20engineer%20stage%202.png) |
+| **AI/ML Engineer - Stage 3** | SLIIT University | [View Image](https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/ai%20ml%20engineer%20stage%203.png) |
+| **Machine Learning Using Python** | Simplilearn SkillUp | [View Image](https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/Machile%20Learning%20using%20python.png) |
 | **Node.js (Basic)** | HackerRank | [Verify Credential](https://www.hackerrank.com/certificates/c4f275cc19e0) • [View Image](https://github.com/user-attachments/assets/86a4e53d-9969-4579-ba0c-6e57ac72a3c1) |
 | **Introduction to Git** | Microsoft | [View Credential](https://github.com/user-attachments/assets/54776ea4-ec42-4b50-9108-40ea13519724) |
 | **Introduction to Github Copilot** | Microsoft | [View Credential](https://github.com/user-attachments/assets/cef427dc-028d-44b6-b023-43f63b0d7d78) |
@@ -305,18 +396,19 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
 
 ---
 
-## Open Source Contributions
+## 🌍 Open Source Contributions
 
-I actively collaborate on community-driven open-source projects, gaining real-world production experience:
+I actively collaborate on community-driven open-source projects, which allows me to gain real-world production experience:
 
 * **SWOC (Social Winter of Code):** Open Source Contributor. Contributed to [SafeHaven](https://github.com/archangel2006/SafeHaven)
 * **OSCG (Open Source Connect Global):** Open Source Contributor. Contributed to [blockchain-evidence](https://github.com/Gooichand/blockchain-evidence)
+* **OSCI (Open Source Community Initiative):** Open Source Contributor. Contributed to [OSCI '26](https://github.com/reezmahanan)
 * **SSOC (Social Summer of Code):** Open Source Contributor. Contributed to [E-commerce](https://github.com/AnthropicBots/E-commerce.git)
 * **GSSOC (GirlScript Summer of Code):** Open Source Contributor. Contributed to [EaseMotion-css](https://github.com/SAPTARSHI-coder/EaseMotion-css.git)
 
 ---
 
-## GitHub Analytics & Contributions
+## 📊 GitHub Analytics & Contributions
 
 <div align="center">
 
@@ -372,7 +464,7 @@ I actively collaborate on community-driven open-source projects, gaining real-wo
 
 ---
 
-## Let's Connect & Collaborate
+## 🤝 Let's Connect & Collaborate
 
 I am always open to discussing new opportunities, full-stack engineering challenges, and internship roles. Feel free to reach out!
 
@@ -392,7 +484,7 @@ I am always open to discussing new opportunities, full-stack engineering challen
 </p>
 
 <p align="center">
-  <b>If you find my work helpful or interesting, a star on my repositories is always appreciated!</b>
+  ⭐ <b>If you find my work helpful or interesting, a star on my repositories is always appreciated!</b>
 </p>
 
 <br/>
@@ -401,11 +493,11 @@ I am always open to discussing new opportunities, full-stack engineering challen
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,11,20&section=footer" width="100%"/>
 
 <sub>
-© 2026 Reezma Hanan • Software Engineering Undergraduate • Sri Lanka
+© 2026 Reezma Hanan • Software Engineering Undergraduate • Sri Lanka 🇱🇰
 </sub>
 
 <br/>
 
-### Thank you for visiting!
+### ✨ Thank you for visiting! ✨
 
 </div>
