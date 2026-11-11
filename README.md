@@ -200,31 +200,7 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
       </p>
     </td>
   </tr>
-  <!-- Row 4: Event Hub (Campus Web Platform) -->
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎫 <a href="https://github.com/reezmahanan/Student-Event-Management-Web-Application">Event Hub – Campus Event Management Platform</a></h4>
-      <p>Full-stack dynamic campus event platform streamlining attendee registrations, seat capacity management, multi-role access controls (Admins, Organizers, Attendees), and automated RSVP alerts.</p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/Auth-Multi--Role-blue?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ <a href="https://github.com/reezmahanan/TaskFlow">TaskFlow – Productivity Dashboard</a></h4>
-      <p>A premium, high-performance productivity dashboard built with TypeScript, React, and Tailwind CSS, bundled with Vite for ultra-responsive task lifecycle management.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />&nbsp;
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />&nbsp;
-        <a href="https://task-flow-coral-iota.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
-      </p>
-    </td>
-  </tr>
+ 
 </table>
 
 <details>
