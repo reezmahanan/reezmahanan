@@ -4,14 +4,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20&text=Reezma%20Hanan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
 <!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF61A6&center=true&vCenter=true&width=880&lines=Hi+I'm+Reezma+Hanan;IT+Undergraduate+at+ITUM;Aspiring+Software+Engineer;Full-Stack+Developer+(React+%7C+Spring+Boot+%7C+Node.js);Machine+Learning+Enthusiast+(LightGBM+%7C+Scikit-Learn);Open+to+Software+Engineering+Internships;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF61A6&center=true&vCenter=true&width=880&lines=Hi+I'm+Reezma+Hanan;IT+Undergraduate+at+ITUM;Aspiring+Software+Engineer;Full-Stack+Developer+(React+%7C+Spring+Boot);Machine+Learning+Enthusiast+(LightGBM+%7C+Scikit-Learn);Open+to+Software+Engineering+Internships;Open+Source+Contributor" />
 
 <br/>
 
 <!-- Status & Focus Badges -->
 <a href="https://www.linkedin.com/in/reezma-hanan"><img src="https://img.shields.io/badge/🎓_Role-IT_Undergraduate_at_ITUM-9B59B6?style=for-the-badge&labelColor=1a1a2e" /></a>
 <a href="mailto:reezmahanan@gmail.com"><img src="https://img.shields.io/badge/🔍_Status-Seeking_Internships-00D9FF?style=for-the-badge&labelColor=1a1a2e" /></a>
-<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/⚛️_Stack-React_•_Spring_Boot_•_Node-FFA500?style=for-the-badge&labelColor=1a1a2e" /></a>
+<a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/⚛️_Stack-React_•_Spring_Boot-FFA500?style=for-the-badge&labelColor=1a1a2e" /></a>
 <a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/🤖_ML-Scikit--Learn_•_LightGBM-47A248?style=for-the-badge&labelColor=1a1a2e" /></a>
 <a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/🌍_Open_Source-Contributor-8A2BE2?style=for-the-badge&labelColor=1a1a2e" /></a>
 <a href="https://github.com/reezmahanan"><img src="https://img.shields.io/badge/📍_Location-Sri_Lanka-00FF88?style=for-the-badge&labelColor=1a1a2e" /></a>
