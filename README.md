@@ -74,9 +74,6 @@ Hey there! 👋 I am an **Information Technology Undergraduate at the Institute 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,npm,postman,idea,vscode,selenium" />
 </a>
-<a href="https://testng.org">
-  <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/testng.png" width="48" height="48" alt="TestNG" />
-</a>
 <a href="https://colab.research.google.com">
   <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/colab.svg" width="48" height="48" alt="Google Colab" />
 </a>
