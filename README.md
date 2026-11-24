@@ -27,7 +27,7 @@
 
 </div>
 
-##👨‍💻 About Me
+## 👨‍💻 About Me
 
 Hey there! 👋 I am an **Information Technology Undergraduate at the Institute of Technology, University of Moratuwa (ITUM)** in Sri Lanka. I love building practical full-stack web applications and applying machine learning to solve real-world problems.
 
