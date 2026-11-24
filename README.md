@@ -27,7 +27,7 @@
 
 </div>
 
-## 👨💻 About Me
+##👨‍💻 About Me
 
 Hey there! 👋 I am an **Information Technology Undergraduate at the Institute of Technology, University of Moratuwa (ITUM)** in Sri Lanka. I love building practical full-stack web applications and applying machine learning to solve real-world problems.
 
@@ -116,7 +116,6 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
 <table width="100%">
   <!-- Row 1: EduNexus & LibriQ LMS -->
   <tr>
-    <!-- Project 1: EduNexus SMS -->
     <td width="50%" valign="top">
       <h4>🎓 <a href="https://github.com/reezmahanan/Student-Management-System">EduNexus – Advanced Student Management System (SMS)</a></h4>
       <p>A full-stack enterprise-grade academic management system built with Spring Boot 3, React 19, Material UI, and MySQL/H2. Features multi-role RBAC &amp; JWT security (ADMIN, TEACHER, STUDENT), student directory with course enrollment, roll call attendance register, continuous assessment GPA &amp; G.C.E. A/L Z-Score engine, fee invoicing, AI academic risk early warning advisor, and 1-click official PDF/Excel transcript exports.</p>
@@ -129,7 +128,6 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
         <img src="https://img.shields.io/badge/AI-Risk_Advisor-9B59B6?style=flat-square&labelColor=1a1a2e" />
       </p>
     </td>
-    <!-- Project 2: LibriQ LMS -->
     <td width="50%" valign="top">
       <h4>📚 <a href="https://github.com/reezmahanan/LibriQ">LibriQ – Sri Lankan University Library Management System</a></h4>
       <p>A comprehensive MERN circulation platform tailored for Sri Lankan university standards. Features a dedicated trilingual switcher (English <code>EN</code>, தமிழ் <code>TA</code>, සිංහල <code>SI</code>), role-based permissions (Librarian/Student), barcoded Accession No (<code>ACC-...</code>), Dewey Decimal Call numbers (DDC), student index rosters, and automated LKR late fine calculations (Rs. 10/day).</p>
@@ -145,7 +143,6 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
   </tr>
   <!-- Row 2: ReEz AI Chatbot & STYLEO Ceylon -->
   <tr>
-    <!-- Project 3: ReEz AI Chatbot -->
     <td width="50%" valign="top">
       <h4>🤖 <a href="https://github.com/reezmahanan/Flutter-AI-Chatbot-Application">ReEz AI – Flutter AI Chatbot Application</a></h4>
       <p>A modern cross-platform conversational AI chatbot powered by <b>Google Gemini AI</b> with low-latency streaming responses. Features Firebase Authentication (reactive <code>AuthGate</code> lifecycle), Cloud Firestore multi-turn persistent chat history, and a sleek Material 3 UI with starter prompt chips and offline fallback handling.</p>
@@ -158,7 +155,6 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
         <a href="https://reezma-ai-chat-2026.web.app/"><img src="https://img.shields.io/badge/Live_Demo-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /></a>
       </p>
     </td>
-    <!-- Project 4: STYLEO Ceylon -->
     <td width="50%" valign="top">
       <h4>🛍️ <a href="https://github.com/reezmahanan/STYLEO-Ceylon">STYLEO Ceylon – Full-Stack E-Commerce System</a></h4>
       <p>A production-ready 3-tier apparel platform featuring an asynchronous native <code>fetch()</code> client engine, Express REST API, and a normalized MySQL 8 database with ACID transactional checkout and live courier tracking.</p>
@@ -172,7 +168,7 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
       </p>
     </td>
   </tr>
-  <!-- Row 3: Electricity Demand Predictor & StudyScore AI (ML Engines) -->
+  <!-- Row 3: Electricity Demand Predictor & StudyScore AI -->
   <tr>
     <td width="50%" valign="top">
       <h4>⚡ <a href="https://github.com/reezmahanan/Electricity-Consumption-Prediction">Electricity Consumption Prediction (Sri Lanka Smart Meter)</a></h4>
@@ -227,120 +223,109 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
 
 ### 📜 Certifications
 
-<!-- Featured AI & Machine Learning Specialization - SLIIT University (Top Priority) -->
 <table width="100%">
+  <!-- Row 1: AI/ML Specialization (SLIIT University) -->
   <tr>
     <td width="33.33%" align="center" valign="top">
       <b>AI/ML Engineer - Stage 1</b><br/>
       <i>SLIIT University</i><br/><br/>
       <a href="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/AIML%20Engineer%20stage%201.png">
-        <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/AIML%20Engineer%20stage%201.png" width="100%" alt="AI/ML Engineer Stage 1 Certificate - SLIIT University"/>
+        <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/AIML%20Engineer%20stage%201.png" width="100%" height="180" alt="AI/ML Engineer Stage 1 Certificate - SLIIT University"/>
       </a>
     </td>
     <td width="33.33%" align="center" valign="top">
       <b>AI/ML Engineer - Stage 2</b><br/>
       <i>SLIIT University</i><br/><br/>
       <a href="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/ai%20ml%20engineer%20stage%202.png">
-        <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/ai%20ml%20engineer%20stage%202.png" width="100%" alt="AI/ML Engineer Stage 2 Certificate - SLIIT University"/>
+        <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/ai%20ml%20engineer%20stage%202.png" width="100%" height="180" alt="AI/ML Engineer Stage 2 Certificate - SLIIT University"/>
       </a>
     </td>
     <td width="33.33%" align="center" valign="top">
       <b>AI/ML Engineer - Stage 3</b><br/>
       <i>SLIIT University</i><br/><br/>
       <a href="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/ai%20ml%20engineer%20stage%203.png">
-        <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/ai%20ml%20engineer%20stage%203.png" width="100%" alt="AI/ML Engineer Stage 3 Certificate - SLIIT University"/>
+        <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/ai%20ml%20engineer%20stage%203.png" width="100%" height="180" alt="AI/ML Engineer Stage 3 Certificate - SLIIT University"/>
       </a>
     </td>
   </tr>
-</table>
-
-<table width="100%">
+  <!-- Row 2: Machine Learning, Frontend, DevOps -->
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="top">
       <b>Machine Learning Using Python</b><br/>
       <i>Simplilearn SkillUp</i><br/><br/>
       <a href="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/Machile%20Learning%20using%20python.png">
-        <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/Machile%20Learning%20using%20python.png" width="100%" alt="Machine Learning Using Python Certificate"/>
+        <img src="https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/Machile%20Learning%20using%20python.png" width="100%" height="180" alt="Machine Learning Using Python Certificate"/>
       </a>
     </td>
-    <td width="50%" align="center" valign="top">
-      <b>Frontend Developer React</b><br/>
+    <td width="33.33%" align="center" valign="top">
+      <b>Frontend Developer (React)</b><br/>
       <i>HackerRank</i><br/><br/>
       <a href="https://www.hackerrank.com/certificates/6cae31c2c403">
-        <img src="https://github.com/user-attachments/assets/181c6d88-12af-4f64-9767-60074e54cbe1" width="100%" alt="Frontend Developer React Certificate"/>
+        <img src="https://github.com/user-attachments/assets/181c6d88-12af-4f64-9767-60074e54cbe1" width="100%" height="180" alt="Frontend Developer React Certificate"/>
       </a>
     </td>
-  </tr>
-</table>
-
-<!-- Core Engineering & Cloud Certifications -->
-<table width="100%">
-  <tr>
-    <td width="25%" align="center" valign="top">
-      <b>Frontend Developer React</b><br/>
-      <i>HackerRank</i><br/><br/>
-      <a href="https://www.hackerrank.com/certificates/6cae31c2c403">
-        <img src="https://github.com/user-attachments/assets/181c6d88-12af-4f64-9767-60074e54cbe1" width="100%" alt="Frontend Developer React Certificate"/>
-      </a>
-    </td>
-    <td width="25%" align="center" valign="top">
+    <td width="33.33%" align="center" valign="top">
       <b>Docker for Absolute Beginners</b><br/>
       <i>KodeKloud</i><br/><br/>
       <a href="https://learn.kodekloud.com/learn/certificate/3e5f41f9-9caf-4f40-a18c-9e0a6d3f7978">
-        <img src="https://github.com/user-attachments/assets/2c597dcf-47b4-47c3-a4bb-6ba9f0e86961" width="100%" alt="Docker Certificate"/>
-      </a>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <b>Cyber Security Essential (LFC108)</b><br/>
-      <i>The Linux Foundation</i><br/><br/>
-      <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/0508ad4c-dfe7-4044-b2f4-145bc0c3aad5-reezma-hanan-1fee3867-40b6-4d53-a0d2-c7e97ccb3f29-certificate.pdf">
-        <img src="https://github.com/user-attachments/assets/e2af4b8a-df7d-4be4-91a2-c229685cb44c" width="100%" alt="Linux Foundation Certificate"/>
-      </a>
-    </td>
-    <td width="25%" align="center" valign="top">
-      <b>Agile Scrum Foundation</b><br/>
-      <i>Simplilearn</i><br/><br/>
-      <a href="https://simpli-web.app.link/e/pxITlA1Tb0b">
-        <img src="https://github.com/user-attachments/assets/40df952e-ee56-491b-a8ec-32c704a659dd" width="100%" alt="Agile Scrum Certificate"/>
+        <img src="https://github.com/user-attachments/assets/2c597dcf-47b4-47c3-a4bb-6ba9f0e86961" width="100%" height="180" alt="Docker Certificate"/>
       </a>
     </td>
   </tr>
-</table>
-
-<!-- Row 2: 3 Specialized Verified Skills & Credentials -->
-<table width="100%">
+  <!-- Row 3: Cybersecurity, Agile, Web Development -->
   <tr>
     <td width="33.33%" align="center" valign="top">
-      <b>HackerRank Verified Skills</b><br/>
-      <i>React • Node • Java • Python • SQL • JS • CSS</i><br/><br/>
-      <a href="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5">
-        <img src="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5" width="100%" alt="HackerRank Java Certificate"/>
+      <b>Cyber Security Essential (LFC108)</b><br/>
+      <i>The Linux Foundation</i><br/><br/>
+      <a href="https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/0508ad4c-dfe7-4044-b2f4-145bc0c3aad5-reezma-hanan-1fee3867-40b6-4d53-a0d2-c7e97ccb3f29-certificate.pdf">
+        <img src="https://github.com/user-attachments/assets/e2af4b8a-df7d-4be4-91a2-c229685cb44c" width="100%" height="180" alt="Linux Foundation Certificate"/>
       </a>
-      <br/><br/>
-      <sub>
-        <b>Direct Verifications:</b><br/>
-        <a href="https://www.hackerrank.com/certificates/6cae31c2c403">React</a> •
-        <a href="https://www.hackerrank.com/certificates/c4f275cc19e0">Node</a> •
-        <a href="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5">Java</a> •
-        <a href="https://github.com/user-attachments/assets/213ee016-3766-48ad-96ba-af5f6d82d0cc">Python</a> •
-        <a href="https://github.com/user-attachments/assets/dd15f2fe-7e86-4979-b50e-cc47f980a6ae">SQL</a><br/>
-        <a href="https://github.com/user-attachments/assets/871e1c2c-f5ff-4293-85d2-1fb31d88c66e">JavaScript</a> •
-        <a href="https://github.com/user-attachments/assets/58fe106f-28b0-451e-82d2-9d837eb0c473">CSS</a>
-      </sub>
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <b>Agile Scrum Foundation</b><br/>
+      <i>Simplilearn</i><br/><br/>
+      <a href="https://simpli-web.app.link/e/pxITlA1Tb0b">
+        <img src="https://github.com/user-attachments/assets/40df952e-ee56-491b-a8ec-32c704a659dd" width="100%" height="180" alt="Agile Scrum Certificate"/>
+      </a>
     </td>
     <td width="33.33%" align="center" valign="top">
       <b>Front-End Web Development</b><br/>
       <i>University of Moratuwa CODL</i><br/><br/>
       <a href="https://open.uom.lk/lms/mod/customcert/view.php?id=839&downloadown=1">
-        <img src="https://github.com/user-attachments/assets/60d5d685-26e1-420c-845c-77f39e1e6465" width="100%" alt="UOM Front End Certificate"/>
+        <img src="https://github.com/user-attachments/assets/60d5d685-26e1-420c-845c-77f39e1e6465" width="100%" height="180" alt="UOM Front End Certificate"/>
       </a>
     </td>
+  </tr>
+  <!-- Row 4: Cisco Cybersecurity, Node.js, HackerRank Verified Skills -->
+  <tr>
     <td width="33.33%" align="center" valign="top">
       <b>Cyber Security</b><br/>
       <i>Cisco Networking Academy</i><br/><br/>
       <a href="https://www.credly.com/badges/e39f3377-2df8-409a-a9ed-42e869c1d511">
-        <img src="https://github.com/user-attachments/assets/39c1eb9f-1f52-4119-ab39-f3a25c404c89" width="100%" alt="Cisco Certificate"/>
+        <img src="https://github.com/user-attachments/assets/39c1eb9f-1f52-4119-ab39-f3a25c404c89" width="100%" height="180" alt="Cisco Certificate"/>
       </a>
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <b>Node.js (Basic)</b><br/>
+      <i>HackerRank</i><br/><br/>
+      <a href="https://www.hackerrank.com/certificates/c4f275cc19e0">
+        <img src="https://github.com/user-attachments/assets/86a4e53d-9969-4579-ba0c-6e57ac72a3c1" width="100%" height="180" alt="HackerRank Node.js Certificate"/>
+      </a>
+    </td>
+    <td width="33.33%" align="center" valign="top">
+      <b>HackerRank Verified Skills</b><br/>
+      <i>React • Node • Java • Python • SQL</i><br/><br/>
+      <a href="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5">
+        <img src="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5" width="100%" height="180" alt="HackerRank Java Certificate"/>
+      </a>
+      <br/>
+      <sub>
+        <a href="https://www.hackerrank.com/certificates/6cae31c2c403">React</a> •
+        <a href="https://www.hackerrank.com/certificates/c4f275cc19e0">Node</a> •
+        <a href="https://github.com/user-attachments/assets/ce976dc9-1a0a-4c01-8532-71deba92aea5">Java</a> •
+        <a href="https://github.com/user-attachments/assets/213ee016-3766-48ad-96ba-af5f6d82d0cc">Python</a> •
+        <a href="https://github.com/user-attachments/assets/dd15f2fe-7e86-4979-b50e-cc47f980a6ae">SQL</a>
+      </sub>
     </td>
   </tr>
 </table>
@@ -359,7 +344,6 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
 
 | Certificate | Issuer | View Certificate |
 | :--- | :--- | :--- |
-| **Node.js (Basic)** | HackerRank | [Verify Credential](https://www.hackerrank.com/certificates/c4f275cc19e0) • [View Image](https://github.com/user-attachments/assets/86a4e53d-9969-4579-ba0c-6e57ac72a3c1) |
 | **Introduction to Git** | Microsoft | [View Credential](https://github.com/user-attachments/assets/54776ea4-ec42-4b50-9108-40ea13519724) |
 | **Introduction to Github Copilot** | Microsoft | [View Credential](https://github.com/user-attachments/assets/cef427dc-028d-44b6-b023-43f63b0d7d78) |
 | **Describe Cloud Computing** | Microsoft | [View Credential](https://github.com/user-attachments/assets/caf21974-5cce-47fc-808b-7d1cc7726e45) |
@@ -410,7 +394,7 @@ I actively collaborate on community-driven open-source projects, which allows me
 
 <br/><br/>
 
-<!-- Dynamic Contribution Line Graph (Exact Match to Your Image) -->
+<!-- Dynamic Contribution Line Graph -->
 <a href="https://github.com/reezmahanan">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=reezmahanan&bg_color=181a20&color=ffd700&line=ff61a6&point=ffffff&area=false&hide_border=true" alt="Reezma Hanan's Contribution Graph" width="100%" />
 </a>
