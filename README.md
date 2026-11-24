@@ -27,7 +27,7 @@
 
 </div>
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 Hey there! 👋 I am an **Information Technology Undergraduate at the Institute of Technology, University of Moratuwa (ITUM)** in Sri Lanka. I love building practical full-stack web applications and applying machine learning to solve real-world problems.
 
@@ -197,7 +197,6 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
       </p>
     </td>
   </tr>
- 
 </table>
 
 <details>
@@ -308,7 +307,7 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
   </tr>
 </table>
 
-<!-- Row 2: 3 Specialized Verified Skills & Credentials (33.33% equal width each) -->
+<!-- Row 2: 3 Specialized Verified Skills & Credentials -->
 <table width="100%">
   <tr>
     <td width="33.33%" align="center" valign="top">
@@ -360,10 +359,6 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
 
 | Certificate | Issuer | View Certificate |
 | :--- | :--- | :--- |
-| **AI/ML Engineer - Stage 1** | SLIIT University | [View Image](https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/AIML%20Engineer%20stage%201.png) |
-| **AI/ML Engineer - Stage 2** | SLIIT University | [View Image](https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/ai%20ml%20engineer%20stage%202.png) |
-| **AI/ML Engineer - Stage 3** | SLIIT University | [View Image](https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/ai%20ml%20engineer%20stage%203.png) |
-| **Machine Learning Using Python** | Simplilearn SkillUp | [View Image](https://raw.githubusercontent.com/reezmahanan/Portfolio-Website/main/screenshots/Machile%20Learning%20using%20python.png) |
 | **Node.js (Basic)** | HackerRank | [Verify Credential](https://www.hackerrank.com/certificates/c4f275cc19e0) • [View Image](https://github.com/user-attachments/assets/86a4e53d-9969-4579-ba0c-6e57ac72a3c1) |
 | **Introduction to Git** | Microsoft | [View Credential](https://github.com/user-attachments/assets/54776ea4-ec42-4b50-9108-40ea13519724) |
 | **Introduction to Github Copilot** | Microsoft | [View Credential](https://github.com/user-attachments/assets/cef427dc-028d-44b6-b023-43f63b0d7d78) |
@@ -398,7 +393,7 @@ I actively collaborate on community-driven open-source projects, which allows me
 
 * **SWOC (Social Winter of Code):** Open Source Contributor. Contributed to [SafeHaven](https://github.com/archangel2006/SafeHaven)
 * **OSCG (Open Source Connect Global):** Open Source Contributor. Contributed to [blockchain-evidence](https://github.com/Gooichand/blockchain-evidence)
-* **OSCI (Open Source Community Initiative):** Open Source Contributor. Contributed to [OSCI '26](https://github.com/reezmahanan)
+* **OSCI (Open Source Connect India):** Open Source Contributor. Contributed to [OSCI '26](https://github.com/reezmahanan)
 * **SSOC (Social Summer of Code):** Open Source Contributor. Contributed to [E-commerce](https://github.com/AnthropicBots/E-commerce.git)
 * **GSSOC (GirlScript Summer of Code):** Open Source Contributor. Contributed to [EaseMotion-css](https://github.com/SAPTARSHI-coder/EaseMotion-css.git)
 
@@ -412,6 +407,13 @@ I actively collaborate on community-driven open-source projects, which allows me
 <img src="https://komarev.com/ghpvc/?username=reezmahanan&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />&nbsp;
 <img src="https://img.shields.io/github/followers/reezmahanan?label=Followers&style=for-the-badge&color=ff69b4" alt="followers" />&nbsp;
 <img src="https://img.shields.io/github/stars/reezmahanan?label=Total%20Stars&style=for-the-badge&color=yellow" alt="stars" />
+
+<br/><br/>
+
+<!-- Dynamic Contribution Line Graph (Exact Match to Your Image) -->
+<a href="https://github.com/reezmahanan">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reezmahanan&bg_color=181a20&color=ffd700&line=ff61a6&point=ffffff&area=false&hide_border=true" alt="Reezma Hanan's Contribution Graph" width="100%" />
+</a>
 
 <br/><br/>
   
