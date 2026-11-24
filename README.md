@@ -306,10 +306,10 @@ Highlighting full-stack web platforms, machine learning forecasting, and databas
       </a>
     </td>
     <td width="33.33%" align="center" valign="top">
-      <b>Node.js (Basic)</b><br/>
+      <b>Angular (Basic)</b><br/>
       <i>HackerRank</i><br/><br/>
       <a href="https://www.hackerrank.com/certificates/c4f275cc19e0">
-        <img src="https://github.com/user-attachments/assets/86a4e53d-9969-4579-ba0c-6e57ac72a3c1" width="100%" height="180" alt="HackerRank Node.js Certificate"/>
+        <img src="https://github.com/user-attachments/assets/ba389189-f540-4507-a2dd-67ce65baf4be" width="100%" height="180" alt="HackerRank Angular Certificate"/>
       </a>
     </td>
     <td width="33.33%" align="center" valign="top">
